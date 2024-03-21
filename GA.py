@@ -41,7 +41,7 @@ class GeneticAlgorithm:
         self.crossover_probability = crossover_probability
         self.mutation_probability = mutation_probability
 
-    def create_population(papers, num_tracks_per_session, session_lengths, population_size):
+    def create_population(self, papers, num_tracks_per_session, session_lengths, population_size):
         population = []
 
         for _ in range(population_size):
