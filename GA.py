@@ -41,7 +41,7 @@ class GeneticAlgorithm:
         self.crossover_probability = crossover_probability
         self.mutation_probability = mutation_probability
 
-    def create_population(self, papers, num_tracks_per_session, session_lengths, population_size):
+    def create_population(self, papers,  session_details, population_size):
         population = []
 
         for _ in range(population_size):
@@ -49,14 +49,15 @@ class GeneticAlgorithm:
             papers_copy = papers[:] 
             random.shuffle(papers_copy)
 
-            for session_length in session_lengths:
-                session = Session(max_length=session_length, tracks=[[] for _ in range(num_tracks_per_session)])
+            for details in session_details:
+                max_length, num_tracks = details
+                session = Session(max_length=max_length, tracks=[[] for _ in range(num_tracks)])
                 current_track = 0
                 for paper in papers_copy:
-                    if sum(p.duration for p in session.tracks[current_track]) + paper.duration <= session_length:
+                    if sum(p.duration for p in session.tracks[current_track]) + paper.duration <= session.max_length:
                         session.tracks[current_track].append(paper)
                         papers_copy.remove(paper)
-                    current_track = (current_track + 1) % num_tracks_per_session
+                    current_track = (current_track + 1) % num_tracks
                     if current_track == 0 and not papers_copy:  
                         break
                 sessions.append(session)
