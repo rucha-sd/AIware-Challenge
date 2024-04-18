@@ -2,6 +2,7 @@ import random
 import matplotlib.pyplot as plt
 from tqdm import tqdm
 import copy
+import math
 
 class Paper:
     def __init__(self, id, authors, duration, topic=None):
@@ -63,6 +64,25 @@ class Solution:
 
         # Penalize if a paper is not scheduled at all
         distribution_penalty = num_papers - len(papers_scheduled)
+
+        cohrence_penalty = 0
+
+        # for all tracks calculate topic similarity of paper using entropy to get thematic coherence
+        for session in self.sessions:
+            for track in session.tracks:
+                if len(track)<=1:
+                    continue
+                # create a list of topics of the papers in the track
+                topics = [paper.topic for paper in track]
+                # calculate entropy of the topics
+                entropy = 0
+                for topic in set(topics):
+                    p = topics.count(topic) / len(topics)
+                    entropy -= p * math.log2(p)
+                cohrence_penalty += entropy / math.log2(len(track))
+        
+
+        
         # print all penalties for the solution
         # print(f"Time Penalty: {time_penalty}, Author Penalty: {author_penalty}, Distribution Penalty: {distribution_penalty}, Duration Penalty: {total_time_unused}")
         # scale the penalties
@@ -70,6 +90,7 @@ class Solution:
         # time_penalty = time_penalty / total_time available*100
         # author_penalty = author_penalty / total authors*100
         # distribution_penalty = distribution_penalty / total papers*100
+ 
 
         # calcukate scaled penalties
         total_time_available = sum(session.max_length for session in self.sessions)
@@ -77,9 +98,10 @@ class Solution:
         weighted_author_penalty = author_penalty / len(total_authors) * 100
         weighted_distribution_penalty = distribution_penalty / num_papers * 100
         weighted_total_time_unused = total_time_unused / total_time_available * 100
+        weighted_coherence_penalty = cohrence_penalty / 10
     
         # total_penalty
-        total_penalty = weighted_time_penalty + weighted_author_penalty + weighted_distribution_penalty + weighted_total_time_unused
+        total_penalty = 10*weighted_time_penalty + 5*weighted_author_penalty + weighted_distribution_penalty + weighted_total_time_unused + weighted_coherence_penalty
 
         fitness = 1 / (1 + total_penalty)
 
@@ -89,6 +111,7 @@ class Solution:
             'weighted_author_penalty': weighted_author_penalty,
             'weighted_distribution_penalty': weighted_distribution_penalty,
             'weighted_total_time_unused': weighted_total_time_unused,
+            'weighted_coherence_penalty': weighted_coherence_penalty,
             'total_penalty': total_penalty,
             'fitness': fitness
         }
@@ -102,7 +125,7 @@ class Solution:
                 track_duration = sum(paper.duration for paper in track)
                 print(f"  Track {j+1} (Total duration: {track_duration} minutes):")
                 for paper in track:
-                    print(f"    Paper ID: {paper.id}, Authors: {', '.join(paper.authors)}, Duration: {paper.duration} minutes")
+                    print(f"    Paper ID: {paper.id}, Authors: {', '.join(paper.authors)}, Topic: {paper.topic},  Duration: {paper.duration} minutes")
             print("-" * 40)
                     
                         
