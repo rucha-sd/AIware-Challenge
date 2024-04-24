@@ -79,8 +79,8 @@ class Solution:
                 for topic in set(topics):
                     p = topics.count(topic) / len(topics)
                     entropy -= p * math.log2(p)
-                cohrence_penalty += 2*entropy / len(set(topics))
-                # cohrence_penalty += entropy 
+                # cohrence_penalty += 2*entropy / len(set(topics))
+                cohrence_penalty += entropy / math.log2(len(track))
         
 
         total_tracks = sum(len(session.tracks) for session in self.sessions)
@@ -92,14 +92,17 @@ class Solution:
         # author_penalty = author_penalty / total authors*100
         # distribution_penalty = distribution_penalty / total papers*100
  
-
+        # print("Max length")
+        # print([session.max_length for session in self.sessions])
         # calcukate scaled penalties
-        total_time_available = sum(session.max_length for session in self.sessions)
+        total_time_available = sum([session.max_length for session in self.sessions])
         weighted_time_penalty = (time_penalty / total_time_available) * 100
         weighted_author_penalty = (author_penalty / len(total_authors)) * 100
         weighted_distribution_penalty = (distribution_penalty / num_papers) * 100
         weighted_total_time_unused = (total_time_unused / total_time_available) * 100
-        weighted_coherence_penalty = (cohrence_penalty / total_tracks) * 100
+        # weighted_coherence_penalty = (cohrence_penalty / total_tracks) * 100
+        weighted_coherence_penalty = cohrence_penalty 
+        # print(weighted_coherence_penalty)
     
         # total_penalty
         total_penalty = 10*weighted_time_penalty + 5*weighted_author_penalty + weighted_distribution_penalty + weighted_total_time_unused + weighted_coherence_penalty
@@ -156,6 +159,7 @@ class GeneticAlgorithm:
         self.max_generations = max_generations
         self.crossover_probability = crossover_probability
         self.mutation_probability = mutation_probability
+        
 
     def create_population(self, papers,  session_details, population_size):
         population = []
@@ -225,7 +229,7 @@ class GeneticAlgorithm:
 
         while not any([len(track) for track in session_to_mutate.tracks]):
         # while not any(session_to_mutate.tracks):
-            print("Finding mutation session")
+            # print("Finding mutation session")
             session_to_mutate = random.choice(solution_copy.sessions)
 
 
