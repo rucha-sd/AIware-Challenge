@@ -79,10 +79,11 @@ class Solution:
                 for topic in set(topics):
                     p = topics.count(topic) / len(topics)
                     entropy -= p * math.log2(p)
-                cohrence_penalty += entropy / math.log2(len(track))
+                cohrence_penalty += 2*entropy / len(set(topics))
+                # cohrence_penalty += entropy 
         
 
-        
+        total_tracks = sum(len(session.tracks) for session in self.sessions)
         # print all penalties for the solution
         # print(f"Time Penalty: {time_penalty}, Author Penalty: {author_penalty}, Distribution Penalty: {distribution_penalty}, Duration Penalty: {total_time_unused}")
         # scale the penalties
@@ -94,11 +95,11 @@ class Solution:
 
         # calcukate scaled penalties
         total_time_available = sum(session.max_length for session in self.sessions)
-        weighted_time_penalty = time_penalty / total_time_available * 100
-        weighted_author_penalty = author_penalty / len(total_authors) * 100
-        weighted_distribution_penalty = distribution_penalty / num_papers * 100
-        weighted_total_time_unused = total_time_unused / total_time_available * 100
-        weighted_coherence_penalty = cohrence_penalty / 10
+        weighted_time_penalty = (time_penalty / total_time_available) * 100
+        weighted_author_penalty = (author_penalty / len(total_authors)) * 100
+        weighted_distribution_penalty = (distribution_penalty / num_papers) * 100
+        weighted_total_time_unused = (total_time_unused / total_time_available) * 100
+        weighted_coherence_penalty = (cohrence_penalty / total_tracks) * 100
     
         # total_penalty
         total_penalty = 10*weighted_time_penalty + 5*weighted_author_penalty + weighted_distribution_penalty + weighted_total_time_unused + weighted_coherence_penalty
@@ -107,6 +108,8 @@ class Solution:
 
         # return inididual penalties and fitness
         return {
+            'total_time_available': total_time_available,
+            'total_time_unused': total_time_unused,
             'weighted_time_penalty': weighted_time_penalty,
             'weighted_author_penalty': weighted_author_penalty,
             'weighted_distribution_penalty': weighted_distribution_penalty,
@@ -218,7 +221,11 @@ class GeneticAlgorithm:
         solution_copy = copy.deepcopy(solution)
         # check if session is empty i.e none of the tracks have any papers. select session_to_mutate as non empty session
         session_to_mutate = random.choice(solution_copy.sessions)
-        while not any(session_to_mutate.tracks):
+
+
+        while not any([len(track) for track in session_to_mutate.tracks]):
+        # while not any(session_to_mutate.tracks):
+            print("Finding mutation session")
             session_to_mutate = random.choice(solution_copy.sessions)
 
 
@@ -226,9 +233,9 @@ class GeneticAlgorithm:
         # print("Swap Mutation")
         if len(session_to_mutate.tracks) > 1:
             # swap two papers between two tracks
-            track1, track2 = 0, 0
+            track1, track2 = random.sample(session_to_mutate.tracks, 2)
             while track1 == track2:
-                # print("Track1: ", track1, "Track2: ", track2)
+                print("Track1: ", track1, "Track2: ", track2)
                 track1, track2 = random.sample(session_to_mutate.tracks, 2)
             
             if track1 and track2:
@@ -274,6 +281,7 @@ class GeneticAlgorithm:
         parent1 = tournament()
         parent2 = tournament()
         while parent1 == parent2:  # Ensure parent1 and parent2 are not the same
+            # print("Parent1 and Parent2 are the same")
             parent2 = tournament()
         return parent1, parent2
 
