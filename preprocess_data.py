@@ -52,7 +52,7 @@ def parse_csv_to_array(csv_filename):
                 tmpp[sessions[i]['room']] = id_arr
                 papers_dict[key] = tmpp
                 output_dict[key] = tmp
-    return output_dict
+    return output_dict, papers_dict
 
 def session_details(time_slots):
     sorted_time_slots = sorted(time_slots.items(), key=lambda x: x[0][0])
@@ -109,13 +109,45 @@ def get_topics(filename):
         return topic_dict
 
 def create_papers(input_file):
-    papers = []
+    papers = {}
     input = pd.read_csv(input_file)
     topics_dict = get_topics(input_file)
     for i in range(len(input)):
         paper = GA.Paper(id=input['id'][i], authors=input['author'][i], duration=input['duration'][i], topic=topics_dict[input['session_title'][i]])
-        papers.append(paper)
+        papers[int(input['id'][i])] = paper
     return papers
+
+def merge_overlaps(data):
+    # Sort data by start time
+    data = sorted(data.items(), key=lambda x: x[0][0])
+
+    
+    merged_data = {}
+    current_start, current_end, current_rooms = None, None, {}
+
+    for (start, end), rooms in data:
+        if current_start is not None and start < current_end:
+            # There's an overlap, merge intervals
+            current_end = max(current_end, end)
+            # Merge room data
+            for room, events in rooms.items():
+                if room in current_rooms:
+                    current_rooms[room].extend(events)
+                else:
+                    current_rooms[room] = events
+        else:
+            # No overlap, push the current interval to merged_data if it exists
+            if current_start is not None:
+                merged_data[(current_start, current_end)] = current_rooms
+                # merged_data.append(((current_start, current_end), current_rooms))
+            # Reset to the new interval
+            current_start, current_end, current_rooms = start, end, rooms.copy()
+    
+    # Add the last interval to merged data
+    if current_start is not None:
+        merged_data[(current_start, current_end)] = current_rooms
+    
+    return merged_data
 
 def create_solution():
     # create session object, refer to session from GA.py
