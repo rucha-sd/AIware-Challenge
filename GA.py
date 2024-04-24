@@ -299,7 +299,7 @@ class GeneticAlgorithm:
         survivors = sorted_combined_population[:self.population_size]
         return Population(survivors, self.population_size)
     
-    def plot_progress(self, fitness_values, time_penalties, author_penalties, distribution_penalties, coherence_penalties):
+    def plot_progress(self, fitness_values, time_penalties, author_penalties, distribution_penalties, coherence_penalties, year):
         fig, axs = plt.subplots(2, 2)
         # increase figure size
         fig.set_size_inches(12, 8)
@@ -312,7 +312,7 @@ class GeneticAlgorithm:
         axs[1, 0].set_title('Weighted Distribution Penalty')
         axs[1, 1].plot(coherence_penalties)
         axs[1, 1].set_title('Weighted Coherence Penalty')
-        plt.savefig(f'fitness_values_{self.population_size}_{self.max_generations}_2.png')
+        plt.savefig(f'fitness_values_{self.population_size}_{self.max_generations}_{year}_2.png')
         plt.show()
         # new plot
         plt.clf()
@@ -322,11 +322,11 @@ class GeneticAlgorithm:
         plt.ylabel('Fitness Value')
         plt.title('Fitness Value over Generations')
         # save with pop_size, num_generations
-        plt.savefig(f'fitness_values_{self.population_size}_{self.max_generations}_11.png')
+        plt.savefig(f'fitness_values_{self.population_size}_{self.max_generations}_{year}_1.png')
         plt.show()
         
 
-    def run(self, papers, num_sessions, session_lengths, num_tracks, num_solutions):
+    def run(self, papers, num_sessions, session_lengths, num_tracks, num_solutions, year):
         session_details = [(session_lengths[i], num_tracks[i]) for i in range(len(session_lengths))]
         fitness_values = []
         time_penalties = []
@@ -359,6 +359,6 @@ class GeneticAlgorithm:
             coherence_penalties.append(fitness['weighted_coherence_penalty'])
             
         # plot fitness values over generations
-        self.plot_progress(fitness_values, time_penalties, author_penalties, distribution_penalties, coherence_penalties)
+        self.plot_progress(fitness_values, time_penalties, author_penalties, distribution_penalties, coherence_penalties, year)
         return population.best_solution(len(papers))
     

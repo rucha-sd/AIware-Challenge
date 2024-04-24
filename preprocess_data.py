@@ -113,11 +113,24 @@ def create_papers(input_file):
     papers = []
     input = pd.read_csv(input_file)
     topics_dict = get_topics(input_file)
+    # print(input['duration'])
     # remove 'm' from input[duartion] and convert to int
-    input['duration'] = input['duration'].str.replace('m', '').astype(int)
+    # input['duration'] = input['duration'].str.replace('m', '').astype(int)
     # convert author to array by separating comma separated values
+    # drop row where author is blank
+
+
+    # replace Nan values in author with ''
+    input['author'] = input['author'].fillna('')
+
     input['author'] = input['author'].str.split(',')
+
+    # print(input['author'])
     for i in range(len(input)):
+        # check if author is Nan
+        # if type(input['author'][i]) == float:
+        #     # set as empty list
+        #     input['author'][i] = []
         paper = GA.Paper(id=input['id'][i], authors=input['author'][i], duration=input['duration'][i], topic=topics_dict[input['session_title'][i]])
         papers.append(paper)
     return papers

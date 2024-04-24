@@ -25,7 +25,7 @@ if __name__ == '__main__':
     papers = preprocess_data.create_papers(input_file)
     initial_population = ga.create_population(papers, session_details, population_size)
     pop = GA.Population(initial_population, population_size)
-    pop = ga.run(papers, len(num_tracks_per_session), session_durations, num_tracks_per_session, population_size)
+    pop = ga.run(papers, len(num_tracks_per_session), session_durations, num_tracks_per_session, population_size, args[4])
     pop[0].print_solution()
     print(pop[1])
     
