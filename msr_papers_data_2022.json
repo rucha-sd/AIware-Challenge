@@ -1,0 +1,2869 @@
+{
+    "2022": {
+        "Tue 17 May 2022": {
+            "20:00 - 20:50": [
+                {
+                    "room": "MSR Plenary room",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "MSR 2022 Opening",
+                    "events": []
+                }
+            ],
+            "21:00 - 21:50": [
+                {
+                    "room": "MSR Newcomer Orientation room",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Newcomer Orientation I",
+                    "events": []
+                }
+            ],
+            "22:00 - 22:50": [
+                {
+                    "room": "MSR Main room - even hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Session 1",
+                    "events": [
+                        {
+                            "authors": [
+                                "Nhan Nguyen",
+                                "Sarah Nadi",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "22:00",
+                            "title": "An Empirical Evaluation of GitHub Copilot\u2019s Code Suggestions",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Nikitha Rao",
+                                "Jason Tsay",
+                                "Martin Hirzel",
+                                "Vincent J. Hellendoorn",
+                                " DOI",
+                                " Pre-print",
+                                " File Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "22:04",
+                            "title": "Comments on Comments: Where Code Review and Documentation Meet",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Akalanka Galappaththi",
+                                "Sarah Nadi",
+                                "Christoph Treude",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "22:08",
+                            "title": "Does This Apply to Me? An Empirical Study of Technical Context in Stack Overflow",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Jirat Pasuksmit",
+                                "Patanamon Thongtanunam",
+                                "Shanika Karunasekera"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "22:15",
+                            "title": "Towards Reliable Agile Iterative Planning via Predicting Documentation Changes of Work Items",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ahmad Abdellatif",
+                                "Mairieli Wessel",
+                                "Igor Steinmacher",
+                                "Marco Gerosa",
+                                "Emad Shihab",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "22:22",
+                            "title": "BotHunter: An Approach to Detect Software Bots in GitHub",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Chaiyong Ragkhitwetsagul",
+                                "Matheus Paixao",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "22:29",
+                            "title": "Recommending Code Improvements Based on Stack Overflow Answer Edits",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 14.0,
+                            "start_time": "22:36",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Wed 18 May 2022": {
+            "03:00 - 03:50": [
+                {
+                    "room": "MSR Main room - odd hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Session 2: Maintenance (Issues & Smells)",
+                    "events": [
+                        {
+                            "authors": [
+                                "Lloyd Montgomery",
+                                "Clara Marie L\u00fcders",
+                                "Walid Maalej",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "03:00",
+                            "title": "An Alternative Issue Tracking Dataset of Public Jira Repositories",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ruben Opdebeeck",
+                                "Ahmed Zerouali",
+                                "Coen De Roover",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "03:04",
+                            "title": "Smelly Variables in Ansible Infrastructure Code: Detection, Prevalence, and Lifetime",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Clara Marie L\u00fcders",
+                                "Abir Bouraffa",
+                                "Walid Maalej",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "03:11",
+                            "title": "Beyond Duplicates: Towards Understanding and Predicting Link Types in Issue Tracking Systems",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Qinyun Wu",
+                                "Huan Song",
+                                "Ping Yang"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "03:18",
+                            "title": "Real-World Clone-Detection in Go",
+                            "topic": "Industry Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Emanuela Guglielmi",
+                                "Simone Scalabrino",
+                                "Gabriele Bavota",
+                                "Rocco Oliveto",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "03:25",
+                            "title": "Towards Using Gameplay Videos for Detecting Issues in Video Games",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "James Caddy",
+                                "Markus Wagner ",
+                                "Christoph Treude",
+                                "Earl T. Barr",
+                                "Miltiadis Allamanis",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "03:29",
+                            "title": "Is Surprisal in Issue Trackers Actionable?",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 17.0,
+                            "start_time": "03:33",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "04:00 - 04:50": [
+                {
+                    "room": "MSR Newcomer Orientation room",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Newcomer Orientation II",
+                    "events": []
+                }
+            ],
+            "05:00 - 05:50": [
+                {
+                    "room": "MSR Main room - odd hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Session 3: Introspection, Vision, and Human Aspects",
+                    "events": [
+                        {
+                            "authors": [
+                                "Davide Rossi",
+                                "Stefano Zacchiroli",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "05:00",
+                            "title": "Geographic Diversity in Public Code Contributions",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Johannes H\u00e4rtel",
+                                "Ralf Laemmel",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "05:04",
+                            "title": "Operationalizing Threats to MSR Studies by Simulation-Based TestingDistinguished Paper Award",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Zeinab Abou Khalil",
+                                "Stefano Zacchiroli",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "05:11",
+                            "title": "The General Index of Software Engineering Papers",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Masanari Kondo",
+                                "Shinobu Saito",
+                                "IIMURA Yukako",
+                                "Eunjong Choi",
+                                "Osamu Mizuno",
+                                "Yasutaka Kamei",
+                                "Naoyasu Ubayashi",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "05:15",
+                            "title": "Challenges and Future Research Direction for Microtask Programming in Industry",
+                            "topic": "Industry Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Daniel Izquierdo-Cortazar",
+                                "Jes\u00fas Alonso-Guti\u00e9rrez",
+                                "Alberto P\u00e9rez Garc\u00eda-Plaza",
+                                "Gregorio Robles",
+                                "Jesus M. Gonzalez-Barahona",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "05:22",
+                            "title": "Starting the InnerSource Journey: Key Goals and Metrics to Measure Collaboration",
+                            "topic": "Industry Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Utku Unal",
+                                "Eray T\u00fcz\u00fcn",
+                                "Tamer Gezici",
+                                "Ausaf Ahmed Farooqui",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "05:29",
+                            "title": "Investigating the Impact of Forgetting in Software Development",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 17.0,
+                            "start_time": "05:33",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "11:00 - 11:50": [
+                {
+                    "room": "MSR Plenary room",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Keynote: Christian K\u00e4stner \u2013 From Models to Systems: Rethinking the Role of Software Engineering for Machine Learning",
+                    "events": []
+                }
+            ],
+            "12:00 - 12:50": [
+                {
+                    "room": "MSR Main room - even hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Mining Challenge",
+                    "events": [
+                        {
+                            "authors": [
+                                "Eman Abdullah AlOmar",
+                                "Anthony Peruma",
+                                "Mohamed Wiem Mkaouer",
+                                "Christian D. Newman",
+                                "Ali Ouni",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "12:00",
+                            "title": "An Exploratory Study on Refactoring Documentation in Issues Handling",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ambarish Moharil",
+                                "Dmitrii Orlov",
+                                "Samar Jameel",
+                                "Tristan Trouwen",
+                                "Nathan Cassee",
+                                "Alexander Serebrenik",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "12:04",
+                            "title": "Between JIRA and GitHub: ASFBot and its Influence on Human Comments in Issue Trackers",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Amirreza Bagheri",
+                                "Peter Hegedus",
+                                " File Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "12:08",
+                            "title": "Is Refactoring Always a Good Egg? Exploring the Interconnection Between Bugs and Refactorings",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Nicholas Nagy",
+                                "Rabe Abdalkareem",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "12:12",
+                            "title": "On the Co-Occurrence of Refactoring of Test and Source Code",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Anthony Peruma",
+                                "Eman Abdullah AlOmar",
+                                "Christian D. Newman",
+                                "Mohamed Wiem Mkaouer",
+                                "Ali Ouni",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "12:16",
+                            "title": "Refactoring Debt: Myth or Reality? An Exploratory Study on the Relationship Between Technical Debt and RefactoringBest Mining Challenge Paper Award",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Carlos Diego Andrade de Almeida",
+                                "Diego N. Feij\u00f3",
+                                "Lincoln Souza Rocha",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "12:20",
+                            "title": "Studying the Impact of Continuous Delivery Adoption on Bug-Fixing Time in Apache\u2019s Open-Source Projects",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "fatemeh khoshnoud",
+                                "Ali Rezaei Nasab",
+                                "Zahra Toudeji",
+                                "Ashkan Sami"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "12:24",
+                            "title": "Which bugs are missed in code reviews: An empirical study on SmartSHARK dataset",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 22.0,
+                            "start_time": "12:28",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "13:00 - 13:50": [
+                {
+                    "room": "MSR Main room - odd hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Session 4: Software Quality (Bugs & Smells)",
+                    "events": [
+                        {
+                            "authors": [
+                                "Rui Shu",
+                                "Tianpei Xia",
+                                "Laurie Williams",
+                                "Tim Menzies"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "13:00",
+                            "title": "Dazzle: Using Optimized Generative Adversarial Networks to Address Security Data Class Imbalance Issue",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Matteo Ciniselli",
+                                "Luca Pascarella",
+                                "Gabriele Bavota",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "13:07",
+                            "title": "To What Extent do Deep Learning-based Code Recommenders Generate Predictions by Cloning Code from the Training Set?",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Rahul Yedida",
+                                "Tim Menzies",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "13:14",
+                            "title": "How to Improve Deep Learning for Software Analytics (a case study with code smell detection)",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Harshitha Menon",
+                                "Konstantinos Parasyris",
+                                "Todd Gamblin",
+                                "Tom Scogland",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "13:21",
+                            "title": "Using Active Learning to Find High-Fidelity Builds",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Hossein Keshavarz",
+                                "Mei Nagappan",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "13:28",
+                            "title": "ApacheJIT: A Large Dataset for Just-In-Time Defect Prediction",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Francesco Altiero",
+                                "Anna Corazza",
+                                "Sergio Di Martino",
+                                "Adriano Peron",
+                                "Luigi Libero Lucio Starace"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "13:32",
+                            "title": "ReCover: a Curated Dataset for Regression Testing Research",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 14.0,
+                            "start_time": "13:36",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                },
+                {
+                    "room": "MSR Tutorials room",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Tutorial: Empirical Standards for Repository Mining",
+                    "events": [
+                        {
+                            "authors": [
+                                "Paul Ralph",
+                                "Tushar Sharma",
+                                "Preetha Chatterjee",
+                                " Pre-print"
+                            ],
+                            "duration": 50.0,
+                            "start_time": "13:00",
+                            "title": "Empirical Standards for Repository Mining",
+                            "topic": "Tutorials",
+                            "type": "Tutorial"
+                        }
+                    ]
+                }
+            ],
+            "14:00 - 14:50": [
+                {
+                    "room": "MSR Main room - even hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Session 5: Communication & Domains",
+                    "events": [
+                        {
+                            "authors": [
+                                "Sangeeth Kochanthara",
+                                "Yanja Dajsuren",
+                                "Loek Cleophas",
+                                "Mark van den Brand",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "14:00",
+                            "title": "Painting the Landscape of Automotive Software in GitHub",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Carlos Zimmerle",
+                                "Kiev Gama",
+                                "Fernando Castor",
+                                "Jos\u00e9 Murilo Filho",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "14:07",
+                            "title": "Mining the Usage of Reactive Programming APIs: A Study on GitHub and Stack Overflow",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Murali Sridharan",
+                                "Mika M\u00e4ntyl\u00e4",
+                                "Ma\u00eblick Claes",
+                                "Leevi Rantala",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "14:14",
+                            "title": "SoCCMiner: A Source Code-Comments and Comment-Context Miner",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Sohil Lal Shrestha",
+                                "Shafiul Azam Chowdhury",
+                                "Christoph Csallner",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "14:18",
+                            "title": "SLNET: A Redistributable Corpus of 3rd-party Simulink Models",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Bonan Kou",
+                                "Yifeng Di",
+                                "Muhao Chen",
+                                "Tianyi Zhang"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "14:22",
+                            "title": "SOSum: A Dataset of Stack Overflow Post Summaries",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Rosa Filgueira",
+                                "Daniel Garijo"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "14:26",
+                            "title": "Inspect4py: A Knowledge Extraction Framework for Python Code Repositories",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Keerthana Muthu Subash",
+                                "Lakshmi Prasanna Kumar",
+                                "Sri Lakshmi Vadlamani",
+                                "Preetha Chatterjee",
+                                "Olga Baysal",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "14:30",
+                            "title": "DISCO: A Dataset of Discord Chat Conversations for Software Engineering Research",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 16.0,
+                            "start_time": "14:34",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                },
+                {
+                    "room": "MSR Tutorials room",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Tutorial: Mining the Ethereum Blockchain Platform",
+                    "events": [
+                        {
+                            "authors": [
+                                "Gustavo A. Oliva"
+                            ],
+                            "duration": 50.0,
+                            "start_time": "14:00",
+                            "title": "Mining the Ethereum Blockchain Platform: Best Practices and Pitfalls",
+                            "topic": "Tutorials",
+                            "type": "Tutorial"
+                        }
+                    ]
+                }
+            ],
+            "20:00 - 20:50": [
+                {
+                    "room": "MSR Main room - even hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Session 6: Maintenance & Testing",
+                    "events": [
+                        {
+                            "authors": [
+                                "Victor Veloso",
+                                "Andre Hora",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "20:00",
+                            "title": "Characterizing High-Quality Test Methods: A First Empirical Study",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Mohammad Reza Taesiri",
+                                "Finlay Macklon",
+                                "Cor-Paul Bezemer"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "20:04",
+                            "title": "CLIP meets GamePhysics: Towards bug identification in gameplay videos using zero-shot transfer learning",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Shaiful Chowdhury",
+                                "Gias Uddin",
+                                "Reid Holmes"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "20:11",
+                            "title": "An Empirical Study on Maintainable Method Size in Java",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Yi Yang",
+                                "Ana Milanova",
+                                "Martin Hirzel"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "20:18",
+                            "title": "Complex Python Features in the Wild",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Michele Tufano",
+                                "Shao Kun Deng",
+                                "Neel Sundaresan",
+                                "Alexey Svyatkovskiy"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "20:25",
+                            "title": "Methods2Test: A dataset of focal methods mapped to test cases",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ellen Arteca",
+                                "Alexi Turcotte",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "20:29",
+                            "title": "npm-filter: Automating the mining of dynamic information from npm packages",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Kevin Jesse",
+                                "Prem Devanbu",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "20:33",
+                            "title": "ManyTypes4TypeScript: A Comprehensive TypeScript Dataset for Sequence-Based Type Inference",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 13.0,
+                            "start_time": "20:37",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "21:00 - 21:50": [
+                {
+                    "room": "MSR Main room - odd hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Session 7: Developer Wellbeing & Project Communication",
+                    "events": [
+                        {
+                            "authors": [
+                                "Humphrey Obie",
+                                "Idowu Oselumhe Ilekura",
+                                "Hung Du",
+                                "Mojtaba Shahin",
+                                "John Grundy",
+                                "Li Li",
+                                "Jon Whittle",
+                                "Burak Turhan",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "21:00",
+                            "title": "On the Violation of Honesty in Mobile Apps: Automated Detection and CategoriesDistinguished Paper Award",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Isabella Ferreira",
+                                "Bram Adams",
+                                "Jinghui Cheng",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "21:07",
+                            "title": "How heated is it? Understanding GitHub locked issues",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Melanie Warrick",
+                                "Samuel F. Rosenblatt",
+                                "Jean-Gabriel Young",
+                                "amanda casari",
+                                "Laurent H\u00e9bert-Dufresne",
+                                "James P. Bagrow",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "21:14",
+                            "title": "The OCEAN mailing list data set: Network analysis spanning mailing lists and code repositories",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Gunnar Kudrjavets",
+                                "Nachiappan Nagappan",
+                                "Ayushi Rastogi",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "21:18",
+                            "title": "The Unexplored Treasure Trove of Phabricator Code Reviews",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Kimberly Truong",
+                                "Courtney Miller",
+                                "Bogdan Vasilescu",
+                                "Christian K\u00e4stner",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "21:22",
+                            "title": "The Unsolvable Problem or the Unheard Answer? A Dataset of 24,669 Open-Source Software Conference Talks",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Anirudh Ramchandran",
+                                "Likang Yin",
+                                "Vladimir Filkov"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "21:26",
+                            "title": "Exploring Apache Incubator Project Trajectories with APEX",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Brian Houck"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "21:30",
+                            "title": "A Culture of Productivity: Maximizing Productivity by Maximizing Wellbeing",
+                            "topic": "Industry Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 13.0,
+                            "start_time": "21:37",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Thu 19 May 2022": {
+            "03:00 - 03:50": [
+                {
+                    "room": "MSR Main room - odd hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Session 8: Large-Scale Mining & Software Ecosystems",
+                    "events": [
+                        {
+                            "authors": [
+                                "Adem Ait-Fonolla",
+                                "Javier Luis C\u00e1novas Izquierdo",
+                                "Jordi Cabot",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "03:00",
+                            "title": "An Empirical Study on the Survival Rate of GitHub Projects",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Konstantin Grotov",
+                                "Sergey Titov",
+                                "Vladimir Sotnikov",
+                                "Yaroslav Golubev",
+                                "Timofey Bryksin",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "03:07",
+                            "title": "A Large-Scale Comparison of Python Code in Jupyter Notebooks and ScriptsDistinguished Paper Award",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Pei Liu",
+                                "Mattia Fazzini",
+                                "John Grundy",
+                                "Li Li"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "03:14",
+                            "title": "Do Customized Android Frameworks Keep Pace with Android?",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Anna Vlasova",
+                                "Maria Tigina",
+                                "Ilya Vlasov",
+                                "Anastasiia Birillo",
+                                "Yaroslav Golubev",
+                                "Timofey Bryksin",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "03:21",
+                            "title": "Lupa: A Platform for Large Scale Analysis of The Progamming Language Usage",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Nicolas Riquet",
+                                "Xavier Devroey",
+                                "Beno\u00eet Vanderose",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "03:25",
+                            "title": "GitDelver Enterprise Dataset (GDED): An Industrial Closed-source Dataset for Socio-Technical Research",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Petya Buchkova",
+                                "Joakim Hey Hinnerskov",
+                                "Kasper Olsen",
+                                "Rolf-Helge Pfeiffer",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "03:29",
+                            "title": "DaSEA \u2013 A Dataset for Software Ecosystem Analysis",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Kristiina Rahkema",
+                                "Dietmar Pfahl",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "03:33",
+                            "title": "Dataset: Dependency Networks of Open Source Libraries Available Through CocoaPods, Carthage and Swift PM",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 13.0,
+                            "start_time": "03:37",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "04:00 - 04:50": [
+                {
+                    "room": "MSR Main room - even hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Session 9: Scaling & Cloud",
+                    "events": [
+                        {
+                            "authors": [
+                                "Arun KP",
+                                "Saurabh Kumar",
+                                "Debadatta Mishra",
+                                "Biswabandan Panda",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "04:00",
+                            "title": "SniP: An Efficient Stack Tracing Framework for Multi-threaded Programs",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Fabian Heseding",
+                                "Willy Scheibel",
+                                "J\u00fcrgen D\u00f6llner"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "04:04",
+                            "title": "Tooling for Time- and Space-efficient git Repository Mining",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Cedric Richter",
+                                "Heike Wehrheim",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "04:08",
+                            "title": "TSSB-3M: Mining single statement bugs at massive scale",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Mahesh Venkataraman",
+                                "Reuben George",
+                                "Jeff Wilkinson"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "04:12",
+                            "title": "Improved Business Outcomes from Cloud Applications \u2013 using Integrated Process and Runtime Product Data Mining",
+                            "topic": "Industry Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Mallika Fernandes",
+                                "Rohit Patwardhan"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "04:19",
+                            "title": "Improve Quality of Cloud Serverless Architectures through Software Repository Mining",
+                            "topic": "Industry Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Fabiano Pecorelli",
+                                "Giovanni Grano",
+                                "Fabio Palomba",
+                                "Harald C. Gall",
+                                "Andrea De Lucia",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "04:26",
+                            "title": "Toward Granular Automatic Unit Test Case Generation",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 20.0,
+                            "start_time": "04:30",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "05:00 - 05:50": [
+                {
+                    "room": "MSR Main room - odd hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Session 10: Security",
+                    "events": [
+                        {
+                            "authors": [
+                                "Barbara Russo",
+                                "Matteo Camilli",
+                                "Moritz Mock",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "05:00",
+                            "title": "WeakSATD: detecting weak self-admitted technical debt",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Wei Tang",
+                                "Yanlin Wang",
+                                "Hongyu Zhang",
+                                "Shi Han",
+                                "Ping Luo",
+                                "Dongmei Zhang",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "05:04",
+                            "title": "LibDB: An Effective and Efficient Framework for Detecting Third-Party Libraries in Binaries",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Roland Croft",
+                                "Muhammad Ali Babar",
+                                "Huaming Chen"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "05:11",
+                            "title": "Noisy Label Learning for Security Defects",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Quang-Cuong Bui",
+                                "Riccardo Scandariato",
+                                "Nicol\u00e1s E. D\u00edaz Ferreyra",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "05:18",
+                            "title": "Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair TechniquesData and Tool Showcase Award",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Saurabh Kumar",
+                                "Debadatta Mishra",
+                                "Biswabandan Panda",
+                                "Sandeep K. Shukla",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "05:22",
+                            "title": "AndroOBFS: Time-tagged Obfuscated Android Malware Dataset with Family Information",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Jordan Samhi",
+                                "Tegawend\u00e9 F. Bissyand\u00e9",
+                                "Jacques Klein",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "05:26",
+                            "title": "TriggerZoo: A Dataset of Android Applications Automatically Infected with Logic Bombs",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Michael Schlichtig",
+                                "Anna-Katharina Wickert",
+                                "Stefan Kr\u00fcger",
+                                "Eric Bodden",
+                                "Mira Mezini",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "05:30",
+                            "title": "CamBench - Cryptographic API Misuse Detection Tool Benchmark Suite",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 16.0,
+                            "start_time": "05:34",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "10:00 - 10:50": [
+                {
+                    "room": "MSR Main room - even hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Virtual Coffee",
+                    "events": []
+                }
+            ],
+            "11:00 - 11:50": [
+                {
+                    "room": "MSR Main room - odd hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Session 11: Machine Learning & Information Retrieval",
+                    "events": [
+                        {
+                            "authors": [
+                                "Rajeswari Hita Kambhamettu",
+                                "John Billos",
+                                "Carolyn \"Tomi\" Oluwaseun-Apo",
+                                "Benjamin Gafford",
+                                "Rohan Padhye",
+                                "Vincent J. Hellendoorn"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "11:00",
+                            "title": "On the Naturalness of Fuzzer Generated Code",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Jingzhi Gong",
+                                "Tao Chen",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "11:04",
+                            "title": "Does Configuration Encoding Matter in Learning Software Performance? An Empirical Study on Encoding Schemes",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ekaterina Koshchenko",
+                                "Egor Klimov",
+                                "Vladimir Kovalenko"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "11:11",
+                            "title": "Multimodal Recommendation of Messenger Channels",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Fran Silavong",
+                                "Sean Moran",
+                                "Antonios Georgiadis",
+                                "Rohan Saphal",
+                                "Robert Otter",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "11:18",
+                            "title": "Senatus: A Fast and Accurate Code-to-Code Recommendation Engine",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Tatiana Castro V\u00e9lez",
+                                "Raffi Khatchadourian",
+                                "Mehdi Bagherzadeh",
+                                "Anita Raja",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "11:25",
+                            "title": "Challenges in Migrating Imperative Deep Learning Programs to Graph Execution: An Empirical Study",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Wei Ma",
+                                "Mengjie Zhao",
+                                "Ezekiel Soremekun",
+                                "Qiang Hu",
+                                "Jie M. Zhang",
+                                "Mike Papadakis",
+                                "Maxime Cordy",
+                                "Xiaofei Xie",
+                                "Yves Le Traon",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "11:32",
+                            "title": "GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 11.0,
+                            "start_time": "11:39",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "12:00 - 12:51": [
+                {
+                    "room": "MSR Plenary room",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Vision & Reflections Track: Past",
+                    "events": [
+                        {
+                            "authors": [
+                                "Audris Mockus"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "12:00",
+                            "title": "Back to the future: Empirical Revolution(s) in Software Engineering",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ahmed E. Hassan"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "12:10",
+                            "title": "Engineering the MSR Field and the Joy of Research",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Daniela Damian"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "12:20",
+                            "title": "It's all in your network: How mining developer collaboration allowed us to peer into complex socio-technical aspects of software development",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 21.0,
+                            "start_time": "12:30",
+                            "title": "Discussion",
+                            "topic": "Technical Papers",
+                            "type": "Other"
+                        }
+                    ]
+                }
+            ],
+            "13:00 - 13:51": [
+                {
+                    "room": "MSR Plenary room",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Vision & Reflections Track: Future",
+                    "events": [
+                        {
+                            "authors": [
+                                "Alexander Serebrenik"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "13:00",
+                            "title": "Bias in MSR research",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Denae Ford"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "13:10",
+                            "title": "The Next Generation of Software Developers",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Foutse Khomh"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "13:20",
+                            "title": "Mining Software Repositories in the age of AI",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 21.0,
+                            "start_time": "13:30",
+                            "title": "Discussion",
+                            "topic": "Technical Papers",
+                            "type": "Other"
+                        }
+                    ]
+                }
+            ],
+            "14:00 - 14:50": [
+                {
+                    "room": "MSR Plenary room",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "MIP Award Session",
+                    "events": [
+                        {
+                            "authors": [
+                                "Georgios Gousios",
+                                "Diomidis Spinellis"
+                            ],
+                            "duration": 50.0,
+                            "start_time": "14:00",
+                            "title": "MIP Award Talk",
+                            "topic": "MIP Award ",
+                            "type": "Talk"
+                        }
+                    ]
+                }
+            ],
+            "20:00 - 20:50": [
+                {
+                    "room": "MSR Main room - even hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Session 12: Integration & Large-Scale Mining",
+                    "events": [
+                        {
+                            "authors": [
+                                "Julius Musseau",
+                                "John Speed Meyers",
+                                "George P. Sieniawski",
+                                "C. Albert Thompson",
+                                "Daniel M. German"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "20:00",
+                            "title": "Is Open Source Eating the World\u2019s Software? Measuring the Proportion of Open Source in proprietary software using Java Binaries",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Gunnar Kudrjavets",
+                                "Aditya Kumar",
+                                "Nachiappan Nagappan",
+                                "Ayushi Rastogi",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "20:04",
+                            "title": "Mining Code Review Data to Understand Waiting Times Between Acceptance and Merging: An Empirical Analysis",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Suvodeep Majumder",
+                                "Tianpei Xia",
+                                "Rahul Krishna",
+                                "Tim Menzies",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "20:11",
+                            "title": "Methods for Stabilizing Models across Large Samples of Projects(with case studies on Predicting Defect and Project Health)",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Gunnar Kudrjavets",
+                                "Nachiappan Nagappan",
+                                "Ayushi Rastogi",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "20:18",
+                            "title": "Do Small Code Changes Merge Faster? A Multi-Language Empirical Investigation",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Irving Muller Rodrigues",
+                                "Daniel Aloise",
+                                "Eraldo Rezende Fernandes",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "20:25",
+                            "title": "FaST: A linear time stack trace alignment heuristic for crash report deduplication",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Asma Razgallah",
+                                "Raphael Khoury",
+                                "Jean-Baptiste Poulet"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "20:32",
+                            "title": "TwinDroid: A Dataset of Android app System call traces and Trace Generation Pipeline",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 14.0,
+                            "start_time": "20:36",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "21:00 - 21:50": [
+                {
+                    "room": "MSR Main room - odd hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Session 13: Security & Quality",
+                    "events": [
+                        {
+                            "authors": [
+                                "Triet Le Huynh Minh",
+                                "Muhammad Ali Babar",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "21:00",
+                            "title": "On the Use of Fine-grained Vulnerable Code Statements for Software Vulnerability Assessment Models",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "David Hin",
+                                "Andrey Kan",
+                                "Huaming Chen",
+                                "Muhammad Ali Babar"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "21:07",
+                            "title": "LineVD: Statement-level Vulnerability Detection using Graph Neural Networks",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Michael Fu",
+                                "Kla Tantithamthavorn",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "21:14",
+                            "title": "LineVul: A Transformer-based Line-Level Vulnerability Prediction",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Jinyoung Kim",
+                                "Misoo Kim",
+                                "Eunseok Lee"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "21:21",
+                            "title": "ECench: An Energy Bug Benchmark of Ethereum Client Software",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Kim Herzig",
+                                "Luke Gostling",
+                                "Maximilian Grothusmann",
+                                "Nora Huang",
+                                "Sascha Just",
+                                "Alan Klimowski",
+                                "Yashasvini Ramkumar",
+                                "Myles McLeroy",
+                                "K\u0131van\u00e7 Mu\u015flu",
+                                "Hitesh Sajnani",
+                                "Varsha Vadaga"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "21:25",
+                            "title": "Microsoft CloudMine: Data Mining for the Executive Order on Improving the Nation\u2019s Cybersecurity",
+                            "topic": "Industry Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Mohamad Khajezade",
+                                "Fatemeh Hendijani Fard",
+                                "Mohamed S Shehata",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "21:32",
+                            "title": "Evaluating few shot and Contrastive learning Methods for Code Clone Detection",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 14.0,
+                            "start_time": "21:36",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "22:00 - 22:50": [
+                {
+                    "room": "MSR Plenary room",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Foundational Contribution Award Session",
+                    "events": [
+                        {
+                            "authors": [
+                                "Dongmei Zhang",
+                                "Tao Xie"
+                            ],
+                            "duration": 50.0,
+                            "start_time": "22:00",
+                            "title": "MSR Foundational Contribution Award",
+                            "topic": "Technical Papers",
+                            "type": "Awards"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Fri 20 May 2022": {
+            "04:00 - 04:50": [
+                {
+                    "room": "MSR Main room - even hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Session 14: Software Quality",
+                    "events": [
+                        {
+                            "authors": [
+                                "Yuxiang Gao",
+                                "Yi Zhu",
+                                "Qiao YU",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "04:00",
+                            "title": "Evaluating the effectiveness of local explanation methods on source code-based defect prediction models",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Fiorella Zampetti",
+                                "Vittoria Nardone",
+                                "Massimiliano Di Penta"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "04:04",
+                            "title": "Problems and Solutions in Applying Continuous Integration and Delivery to 20 Open-Source Cyber-Physical Systems",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Justus Bogner",
+                                "Manuel Merkel",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "04:11",
+                            "title": "To Type or Not to Type? A Systematic Comparison of the Software Quality of JavaScript and TypeScript Applications on GitHub",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Masateru Tsunoda",
+                                "Akito Monden",
+                                "Koji Toda",
+                                "Amjed Tahir",
+                                "Kwabena Ebo Bennin",
+                                "Keitaro Nakasai",
+                                "Masataka Nagura",
+                                "Kenichi Matsumoto",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "04:18",
+                            "title": "Using Bandit Algorithms for Selecting Feature Reduction Techniques in Software Defect Prediction",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Yoshiki Higo",
+                                "Shinsuke Matsumoto",
+                                "Shinji Kusumoto",
+                                "Kazuya Yasuda",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "04:25",
+                            "title": "Constructing Dataset of Functionally Equivalent Java Methods Using Automated Test Generation Techniques",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Yegor Bugayenko",
+                                "Kirill Daniakin",
+                                "Mirko Farina",
+                                "Firas Jolha",
+                                "Artem Kruglov",
+                                "Witold Pedrycz",
+                                "Giancarlo Succi"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "04:29",
+                            "title": "Extracting corrective actions from code repositories",
+                            "topic": "Industry Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 14.0,
+                            "start_time": "04:36",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "05:00 - 05:30": [
+                {
+                    "room": "MSR Plenary room",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Closing Session of Virtual MSR 2022 + Introduction of MSR 2023",
+                    "events": []
+                }
+            ],
+            "10:00 - 10:50": [
+                {
+                    "room": "MSR Main room - even hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Shadow PC Retrospective",
+                    "events": []
+                }
+            ],
+            "11:00 - 11:50": [
+                {
+                    "room": "MSR Main room - odd hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Session 15: Collaboration & Open Source",
+                    "events": [
+                        {
+                            "authors": [
+                                "Eman Abdullah AlOmar",
+                                "Moataz Chouchen",
+                                "Mohamed Wiem Mkaouer",
+                                "Ali Ouni",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "11:00",
+                            "title": "Code Review Practices for Refactoring Changes: An Empirical Study on OpenStack",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Viktor Csuvik",
+                                "L\u00e1szl\u00f3 Vid\u00e1cs",
+                                " File Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "11:07",
+                            "title": "FixJS: A Dataset of Bug-fixing JavaScript Commits",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Bruno L. Sousa",
+                                "Mariza Bigonha",
+                                "Kecia A. M. Ferreira",
+                                "Glaura C. Franco",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "11:11",
+                            "title": "A Time Series-Based Dataset of Open-Source Software Evolution",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Sourya Dey",
+                                "Walt Woods",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "11:15",
+                            "title": "LAGOON: An Analysis Tool for Open Source Communities",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Vali Tawosi",
+                                "Afnan Al-Subaihin",
+                                "Rebecca Moussa",
+                                "Federica Sarro",
+                                " Link to publication",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "11:19",
+                            "title": "A Versatile Dataset of Agile Open Source Software Projects",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ayomide Bakare",
+                                "Yegor Bugayenko",
+                                "Arina Cheverda",
+                                "Mirko Farina",
+                                "Artem Kruglov",
+                                "Witold Pedrycz",
+                                "Giancarlo Succi"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "11:23",
+                            "title": "Automatically Prioritizing and Assigning Tasks from Code Repositories in Puzzle Driven Development",
+                            "topic": "Industry Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Tavian Barnes",
+                                "Ken Jen Lee",
+                                "Cristina Tavares",
+                                "Gema Rodr\u00edguez-P\u00e9rez",
+                                "Mei Nagappan",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "11:30",
+                            "title": "Towards Understanding Barriers and Mitigation Strategies of Software Engineers with Non-traditional Educational and Occupational Backgrounds",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Alejandro Valezate",
+                                "Rafael Capilla",
+                                "Gregorio Robles",
+                                "Victor Salamanca",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "11:34",
+                            "title": "Can instability variations warn developers when open-source projects boost?",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 12.0,
+                            "start_time": "11:38",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "12:00 - 12:50": [
+                {
+                    "room": "MSR Main room - odd hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Tutorial: Using Datalore for Reproducible Research",
+                    "events": [
+                        {
+                            "authors": [
+                                "Jodie Burchell"
+                            ],
+                            "duration": 50.0,
+                            "start_time": "12:00",
+                            "title": "Using Datalore for Reproducible Research",
+                            "topic": "Tutorials",
+                            "type": "Tutorial"
+                        }
+                    ]
+                }
+            ],
+            "13:00 - 13:50": [
+                {
+                    "room": "MSR Main room - odd hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Hackathon",
+                    "events": [
+                        {
+                            "authors": [
+                                "Natarajan Chidambaram",
+                                "Pooya Rostami Mazrae",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 5.0,
+                            "start_time": "13:00",
+                            "title": "Bot Detection in GitHub Repositories",
+                            "topic": "Hackathon",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Niranjan Hasabnis",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 5.0,
+                            "start_time": "13:05",
+                            "title": "GitRank: A Framework to Rank GitHub Repositories",
+                            "topic": "Hackathon",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Willem Meijer",
+                                "David Visscher",
+                                "Erwin de Haan",
+                                "Merijn Schr\u00f6der",
+                                "Leon Visscher",
+                                "Andrea Capiluppi",
+                                "Ioan Botez",
+                                " Link to publication",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 5.0,
+                            "start_time": "13:10",
+                            "title": "GrimoireLab Maintenance and Evolution",
+                            "topic": "Hackathon",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "James Walden",
+                                " Pre-print"
+                            ],
+                            "duration": 5.0,
+                            "start_time": "13:15",
+                            "title": "OpenSSL 3.0.0: An exploratory case study",
+                            "topic": "Hackathon",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Carlos Gavidia-Calderon",
+                                "DongGyun Han",
+                                "Amel Bennaceur",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 5.0,
+                            "start_time": "13:20",
+                            "title": "Quid Pro Quo: An Exploration of Reciprocity in Code Review",
+                            "topic": "Hackathon",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Kalvin Eng",
+                                "Hareem Sahar",
+                                " Pre-print"
+                            ],
+                            "duration": 5.0,
+                            "start_time": "13:25",
+                            "title": "Replicating Data Pipelines with GrimoireLab",
+                            "topic": "Hackathon",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 20.0,
+                            "start_time": "13:30",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                },
+                {
+                    "room": "MSR Tutorials room",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Tutorial: Software Bots in Software Engineering: Benefits and Challenges",
+                    "events": [
+                        {
+                            "authors": [
+                                "Mairieli Wessel",
+                                "Marco Gerosa",
+                                "Emad Shihab"
+                            ],
+                            "duration": 50.0,
+                            "start_time": "13:00",
+                            "title": "Software Bots in Software Engineering: Benefits and Challenges",
+                            "topic": "Tutorials",
+                            "type": "Tutorial"
+                        }
+                    ]
+                }
+            ],
+            "14:00 - 15:00": [
+                {
+                    "room": "MSR Main room - even hours",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Session 16: Non-functional Properties (Availability, Security, Legal Aspects)",
+                    "events": [
+                        {
+                            "authors": [
+                                "Zhengyi Qiu",
+                                "Shudi Shao",
+                                "Qi Zhao",
+                                "Hassan Ali Khan",
+                                "Xinning Hui",
+                                "Guoliang Jin",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "14:00",
+                            "title": "A Deep Study of the Effects and Fixes of Server-Side Request Races in Web Applications",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Stefano Zacchiroli",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "14:07",
+                            "title": "A Large-scale Dataset of (Open Source) License Text VariantsData and Tool Showcase Award",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Sofia Reis",
+                                "Rui Abreu",
+                                "Hakan Erdogmus",
+                                "Corina S. P\u0103s\u0103reanu",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "14:11",
+                            "title": "SECOM: Towards a convention for security commit messagesFOSS Impact Paper Award",
+                            "topic": "Industry Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Saurabh Pujar",
+                                "Yunhui Zheng",
+                                "Luca Buratti",
+                                "Burn Lewis",
+                                "Alessandro Morari",
+                                "Jim A. Laredo",
+                                "Kevin Postlethwait",
+                                "Christoph G\u00f6rn"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "14:18",
+                            "title": "Varangian: A Git Bot for Augmented Static Analysis",
+                            "topic": "Industry Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "G\u00f6kalp Demirci",
+                                "Vijayaraghavan Murali",
+                                "Imad Ahmad",
+                                "Rajeev Rao",
+                                "Gareth Ari Aye"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "14:25",
+                            "title": "Detecting Privacy-Sensitive Code Changes with Language Modeling",
+                            "topic": "Industry Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Owura Asare",
+                                "Mei Nagappan",
+                                "N. Asokan",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "14:32",
+                            "title": "Is GitHub's Copilot as Bad As Humans at Introducing Vulnerabilities in Code?",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Kevin Xu"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "14:36",
+                            "title": "Finding the Fun in Fundraising: Public Issues and Pull Requests in VC-backed Open-Core Companies",
+                            "topic": "Industry Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 17.0,
+                            "start_time": "14:43",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Mon 23 May 2022": {
+            "09:00 - 10:30": [
+                {
+                    "room": "Room 315+316",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "In-Person MSR Opening, Keynote and MIP Session",
+                    "events": [
+                        {
+                            "authors": [
+                                "David Lo",
+                                "Shane McIntosh",
+                                "Nicole Novielli"
+                            ],
+                            "duration": 20.0,
+                            "start_time": "09:00",
+                            "title": "In-Person MSR 2022 Opening Session",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Christian K\u00e4stner"
+                            ],
+                            "duration": 35.0,
+                            "start_time": "09:20",
+                            "title": "From Models to Systems: Rethinking the Role of Software Engineering for Machine Learning",
+                            "topic": "Technical Papers",
+                            "type": "Keynote"
+                        },
+                        {
+                            "authors": [
+                                "Georgios Gousios",
+                                "Diomidis Spinellis"
+                            ],
+                            "duration": 35.0,
+                            "start_time": "09:55",
+                            "title": "MIP Award Talk",
+                            "topic": "MIP Award ",
+                            "type": "Talk"
+                        }
+                    ]
+                }
+            ],
+            "10:30 - 11:00": [
+                {
+                    "room": "Atrium West",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Coffee Break",
+                    "events": []
+                }
+            ],
+            "11:00 - 12:30": [
+                {
+                    "room": "Room 315+316",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Blended Technical Session 1 (Integration, Large-scale mining, and Software Ecosystems)",
+                    "events": [
+                        {
+                            "authors": [
+                                "Gunnar Kudrjavets",
+                                "Nachiappan Nagappan",
+                                "Ayushi Rastogi",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "11:00",
+                            "title": "Do Small Code Changes Merge Faster? A Multi-Language Empirical Investigation",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Gunnar Kudrjavets",
+                                "Aditya Kumar",
+                                "Nachiappan Nagappan",
+                                "Ayushi Rastogi",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "11:15",
+                            "title": "Mining Code Review Data to Understand Waiting Times Between Acceptance and Merging: An Empirical Analysis",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Kristiina Rahkema",
+                                "Dietmar Pfahl",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "11:30",
+                            "title": "Dataset: Dependency Networks of Open Source Libraries Available Through CocoaPods, Carthage and Swift PM",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Stefano Zacchiroli",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "11:38",
+                            "title": "A Large-scale Dataset of (Open Source) License Text VariantsData and Tool Showcase Award",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Cedric Richter",
+                                "Heike Wehrheim",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "11:46",
+                            "title": "TSSB-3M: Mining single statement bugs at massive scale",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Sourya Dey",
+                                "Walt Woods",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "11:54",
+                            "title": "LAGOON: An Analysis Tool for Open Source Communities",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Gunnar Kudrjavets",
+                                "Nachiappan Nagappan",
+                                "Ayushi Rastogi",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "12:02",
+                            "title": "The Unexplored Treasure Trove of Phabricator Code Reviews",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 20.0,
+                            "start_time": "12:10",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "12:30 - 13:30": [
+                {
+                    "room": "Atrium West",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Lunch",
+                    "events": []
+                }
+            ],
+            "13:30 - 15:00": [
+                {
+                    "room": "Room 315+316",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Blended Technical Session 2 (Machine Learning and Information Retrieval)",
+                    "events": [
+                        {
+                            "authors": [
+                                "Suvodeep Majumder",
+                                "Tianpei Xia",
+                                "Rahul Krishna",
+                                "Tim Menzies",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "13:30",
+                            "title": "Methods for Stabilizing Models across Large Samples of Projects(with case studies on Predicting Defect and Project Health)",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Wei Ma",
+                                "Mengjie Zhao",
+                                "Ezekiel Soremekun",
+                                "Qiang Hu",
+                                "Jie M. Zhang",
+                                "Mike Papadakis",
+                                "Maxime Cordy",
+                                "Xiaofei Xie",
+                                "Yves Le Traon",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "13:45",
+                            "title": "GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Fran Silavong",
+                                "Sean Moran",
+                                "Antonios Georgiadis",
+                                "Rohan Saphal",
+                                "Robert Otter",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "14:00",
+                            "title": "Senatus: A Fast and Accurate Code-to-Code Recommendation Engine",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Nikitha Rao",
+                                "Jason Tsay",
+                                "Martin Hirzel",
+                                "Vincent J. Hellendoorn",
+                                " DOI",
+                                " Pre-print",
+                                " File Attached"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "14:15",
+                            "title": "Comments on Comments: Where Code Review and Documentation Meet",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Rajeswari Hita Kambhamettu",
+                                "John Billos",
+                                "Carolyn \"Tomi\" Oluwaseun-Apo",
+                                "Benjamin Gafford",
+                                "Rohan Padhye",
+                                "Vincent J. Hellendoorn"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "14:23",
+                            "title": "On the Naturalness of Fuzzer Generated Code",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Bonan Kou",
+                                "Yifeng Di",
+                                "Muhao Chen",
+                                "Tianyi Zhang"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "14:31",
+                            "title": "SOSum: A Dataset of Stack Overflow Post Summaries",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 21.0,
+                            "start_time": "14:39",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "15:00 - 15:30": [
+                {
+                    "room": "Atrium West",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Coffee Break",
+                    "events": []
+                }
+            ],
+            "15:30 - 17:00": [
+                {
+                    "room": "Room 315+316",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Networking & Poster Session",
+                    "events": []
+                }
+            ],
+            "19:00 - 21:00": [
+                {
+                    "room": "Atrium West",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "JetBrains Co-Sponsored MSR Dinner",
+                    "events": []
+                }
+            ]
+        },
+        "Tue 24 May 2022": {
+            "09:00 - 10:30": [
+                {
+                    "room": "Room 315+316",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Blended Technical Session 3 (Smells and Maintenance)",
+                    "events": [
+                        {
+                            "authors": [
+                                "Ruben Opdebeeck",
+                                "Ahmed Zerouali",
+                                "Coen De Roover",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "09:00",
+                            "title": "Smelly Variables in Ansible Infrastructure Code: Detection, Prevalence, and Lifetime",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Clara Marie L\u00fcders",
+                                "Abir Bouraffa",
+                                "Walid Maalej",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "09:15",
+                            "title": "Beyond Duplicates: Towards Understanding and Predicting Link Types in Issue Tracking Systems",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Rahul Yedida",
+                                "Tim Menzies",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "09:30",
+                            "title": "How to Improve Deep Learning for Software Analytics (a case study with code smell detection)",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ellen Arteca",
+                                "Alexi Turcotte",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "09:45",
+                            "title": "npm-filter: Automating the mining of dynamic information from npm packages",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Anthony Peruma",
+                                "Eman Abdullah AlOmar",
+                                "Christian D. Newman",
+                                "Mohamed Wiem Mkaouer",
+                                "Ali Ouni",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "09:53",
+                            "title": "Refactoring Debt: Myth or Reality? An Exploratory Study on the Relationship Between Technical Debt and RefactoringBest Mining Challenge Paper Award",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Michael Schlichtig",
+                                "Anna-Katharina Wickert",
+                                "Stefan Kr\u00fcger",
+                                "Eric Bodden",
+                                "Mira Mezini",
+                                " Pre-print"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "10:01",
+                            "title": "CamBench - Cryptographic API Misuse Detection Tool Benchmark Suite",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 21.0,
+                            "start_time": "10:09",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "10:30 - 11:00": [
+                {
+                    "room": "Atrium West",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Coffee Break",
+                    "events": []
+                }
+            ],
+            "11:00 - 12:15": [
+                {
+                    "room": "Room 315+316",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Blended Technical Session 4 (Introspection, Vision, and Human Aspects)",
+                    "events": [
+                        {
+                            "authors": [
+                                "Tatiana Castro V\u00e9lez",
+                                "Raffi Khatchadourian",
+                                "Mehdi Bagherzadeh",
+                                "Anita Raja",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "11:00",
+                            "title": "Challenges in Migrating Imperative Deep Learning Programs to Graph Execution: An Empirical Study",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Johannes H\u00e4rtel",
+                                "Ralf Laemmel",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "11:15",
+                            "title": "Operationalizing Threats to MSR Studies by Simulation-Based TestingDistinguished Paper Award",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Davide Rossi",
+                                "Stefano Zacchiroli",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "11:30",
+                            "title": "Geographic Diversity in Public Code Contributions",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Zeinab Abou Khalil",
+                                "Stefano Zacchiroli",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "11:38",
+                            "title": "The General Index of Software Engineering Papers",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Utku Unal",
+                                "Eray T\u00fcz\u00fcn",
+                                "Tamer Gezici",
+                                "Ausaf Ahmed Farooqui",
+                                " Pre-print"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "11:46",
+                            "title": "Investigating the Impact of Forgetting in Software Development",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 21.0,
+                            "start_time": "11:54",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "12:15 - 12:30": [
+                {
+                    "room": "Room 315+316",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Brainstorming / Discussion I",
+                    "events": []
+                }
+            ],
+            "12:30 - 13:30": [
+                {
+                    "room": "Atrium West",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Lunch",
+                    "events": []
+                }
+            ],
+            "13:30 - 15:00": [
+                {
+                    "room": "Room 315+316",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Brainstorming / Discussion II",
+                    "events": []
+                }
+            ],
+            "15:00 - 15:30": [
+                {
+                    "room": "Atrium West",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Coffee Break",
+                    "events": []
+                }
+            ],
+            "15:30 - 17:00": [
+                {
+                    "room": "Room 315+316",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "Blended Technical Session 5 (Miscellaneous)",
+                    "events": [
+                        {
+                            "authors": [
+                                "Eman Abdullah AlOmar",
+                                "Moataz Chouchen",
+                                "Mohamed Wiem Mkaouer",
+                                "Ali Ouni",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "15:30",
+                            "title": "Code Review Practices for Refactoring Changes: An Empirical Study on OpenStack",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Sangeeth Kochanthara",
+                                "Yanja Dajsuren",
+                                "Loek Cleophas",
+                                "Mark van den Brand",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "15:45",
+                            "title": "Painting the Landscape of Automotive Software in GitHub",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Sohil Lal Shrestha",
+                                "Shafiul Azam Chowdhury",
+                                "Christoph Csallner",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "16:00",
+                            "title": "SLNET: A Redistributable Corpus of 3rd-party Simulink Models",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Murali Sridharan",
+                                "Mika M\u00e4ntyl\u00e4",
+                                "Ma\u00eblick Claes",
+                                "Leevi Rantala",
+                                " Pre-print"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "16:08",
+                            "title": "SoCCMiner: A Source Code-Comments and Comment-Context Miner",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Eman Abdullah AlOmar",
+                                "Anthony Peruma",
+                                "Mohamed Wiem Mkaouer",
+                                "Christian D. Newman",
+                                "Ali Ouni",
+                                " Pre-print"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "16:16",
+                            "title": "An Exploratory Study on Refactoring Documentation in Issues Handling",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ambarish Moharil",
+                                "Dmitrii Orlov",
+                                "Samar Jameel",
+                                "Tristan Trouwen",
+                                "Nathan Cassee",
+                                "Alexander Serebrenik",
+                                " Pre-print"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "16:24",
+                            "title": "Between JIRA and GitHub: ASFBot and its Influence on Human Comments in Issue Trackers",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 28.0,
+                            "start_time": "16:32",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "17:00 - 17:30": [
+                {
+                    "room": "Room 315+316",
+                    "chair": "Chair(s): Maxime Lamothe, Jin L.C. Guo",
+                    "session_title": "MSR Award and Closing Session",
+                    "events": []
+                }
+            ]
+        }
+    }
+}

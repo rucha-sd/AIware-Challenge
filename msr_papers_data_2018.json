@@ -1,0 +1,1305 @@
+{
+    "2018": {
+        "Mon 28 May 2018": {
+            "09:00 - 10:30": [
+                {
+                    "room": "E4 room",
+                    "chair": "Chair(s): Abram Hindle University of Alberta",
+                    "session_title": "Welcome + Keynote",
+                    "events": [
+                        {
+                            "authors": [
+                                "Amy Ko"
+                            ],
+                            "duration": 90.0,
+                            "start_time": "09:00",
+                            "title": "Mining the Mind, Minding the Mine: Grand Challenges in Comprehension and MiningKeynote",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        }
+                    ]
+                }
+            ],
+            "11:00 - 12:30": [
+                {
+                    "room": "E3 room",
+                    "chair": "Chair(s): Abram Hindle University of Alberta",
+                    "session_title": "Modularity and Dependency",
+                    "events": [
+                        {
+                            "authors": [
+                                "Lina Ochoa ",
+                                "Thomas Degueule",
+                                "Jurgen Vinju"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "11:00",
+                            "title": "An Empirical Evaluation of OSGi Dependencies Best Practices in the Eclipse IDE",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Alexandre Decan ",
+                                "Tom Mens",
+                                "Eleni Constantinou",
+                                " Link to publication",
+                                " DOI"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "11:17",
+                            "title": "On the impact of security vulnerabilities in the npm package dependency network",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Parisa Moslehi",
+                                "Bram Adams",
+                                "Juergen Rilling ",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "11:34",
+                            "title": "Feature Location using Crowd-based Screencasts",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Barbara Russo",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "11:51",
+                            "title": "Profiling call changes via motif mining",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Arman Shahbazian",
+                                "Daye Nam",
+                                "Nenad Medvidovi\u0107",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "12:08",
+                            "title": "Toward Predicting Architectural Significance of Implementation Issues",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 15.0,
+                            "start_time": "12:15",
+                            "title": "Discussion phase",
+                            "topic": "Technical Papers",
+                            "type": "Other"
+                        }
+                    ]
+                },
+                {
+                    "room": "E4 room",
+                    "chair": "Chair(s): Abram Hindle University of Alberta",
+                    "session_title": "CI and Release Engineering",
+                    "events": [
+                        {
+                            "authors": [
+                                "Christoph Laaber",
+                                "Philipp Leitner",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "11:00",
+                            "title": "An Evaluation of Open-Source Software Microbenchmark Suites for Continuous Performance Assessment",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Jo\u00e3o Helis Bernardo",
+                                "Daniel Alencar Da Costa ",
+                                "Uir\u00e1 Kulesza",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "11:17",
+                            "title": "Studying the Impact of Adopting Continuous Integration on the Delivery Time of Pull Requests",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Paolo Calciati ",
+                                "Konstantin Kuznetsov",
+                                "Xue Bai ",
+                                "Alessandra Gorla"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "11:34",
+                            "title": "What Did Really Change with the new Release of the App?",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Mathieu Nayrolles",
+                                "Abdelwahab Hamou-Lhadj "
+                            ],
+                            "duration": 17.0,
+                            "start_time": "11:51",
+                            "title": "CLEVER: A1:L96 Code Metrics with Clone Detection for Just-In-Time Fault Prevention and Resolution in Large Industrial Projects",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "David Gray Widder",
+                                "Michael Hilton",
+                                "Christian K\u00e4stner",
+                                "Bogdan Vasilescu",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "12:08",
+                            "title": "I'm Leaving You, Travis: A Continuous Integration Breakup Story",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 15.0,
+                            "start_time": "12:15",
+                            "title": "Discussion phase",
+                            "topic": "Technical Papers",
+                            "type": "Other"
+                        }
+                    ]
+                }
+            ],
+            "14:00 - 15:30": [
+                {
+                    "room": "E3 room",
+                    "chair": "Chair(s): Abram Hindle University of Alberta",
+                    "session_title": "Programming Practice",
+                    "events": [
+                        {
+                            "authors": [
+                                "R\u00f4mulo Manciola Meloca ",
+                                "Gustavo Pinto",
+                                "Leonardo Pontes Baiser ",
+                                "Marco Mattos ",
+                                "Ivanilton Polato ",
+                                "Igor Wiese",
+                                "Daniel M. German",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "14:00",
+                            "title": "Understanding the Usage, Impact, and Adoption of Non-OSI Approved Licenses",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Dan Gopstein ",
+                                "Hongwei Zhou ",
+                                "Phyllis Frankl ",
+                                "Justin Cappos",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "14:17",
+                            "title": "Prevalence of Confusing Code in Software Projects - Atoms of Confusion in the Wild",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Nathan Cassee ",
+                                "Gustavo Pinto",
+                                "Fernando Castor",
+                                "Alexander Serebrenik",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "14:34",
+                            "title": "How Swift Developers Handle Errors",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Stefanos Georgiou",
+                                "Maria Kechagia",
+                                "Panos Louridas",
+                                "Diomidis Spinellis",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "14:51",
+                            "title": "What are your Programming Language\u2019s Energy-Delay Implications?",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Asher Trockman",
+                                "Keenen Cates ",
+                                "Mark Mozina ",
+                                "Tuan Nguyen ",
+                                "Christian K\u00e4stner",
+                                "Bogdan Vasilescu",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "15:08",
+                            "title": "Automatically Assessing Code Understandability Reanalyzed: Combined Metrics Matter",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 15.0,
+                            "start_time": "15:15",
+                            "title": "Discussion phase",
+                            "topic": "Technical Papers",
+                            "type": "Other"
+                        }
+                    ]
+                },
+                {
+                    "room": "E4 room",
+                    "chair": "Chair(s): Abram Hindle University of Alberta",
+                    "session_title": "Mobile",
+                    "events": [
+                        {
+                            "authors": [
+                                "Mehran Mahmoudi ",
+                                "Sarah Nadi",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "14:00",
+                            "title": "The Android Update Problem: An Empirical Study",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Haoyu Wang",
+                                "Hao Li ",
+                                "Li Li",
+                                "Yao Guo",
+                                "Guoai Xu",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "14:17",
+                            "title": "Why are Android Apps Removed From Google Play? A Large-scale Empirical Study",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Maleknaz Nayebi",
+                                "Konstantin Kuznetsov",
+                                "Paul Chen",
+                                "Andreas Zeller",
+                                "Guenther Ruhe",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "14:34",
+                            "title": "Anatomy of Functionality Deletion - An Exploratory Study in Mobile Apps",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Li Li",
+                                "Jun Gao",
+                                "Tegawend\u00e9 F. Bissyand\u00e9",
+                                "Lei Ma",
+                                "Xin Xia",
+                                "Jacques Klein",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "14:51",
+                            "title": "Characterising Deprecated Android APIs",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "John Jenkins",
+                                "Haipeng Cai",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "15:08",
+                            "title": "Leveraging Historical Versions of Android Apps for Efficient and Precise Taint Analysis",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 15.0,
+                            "start_time": "15:15",
+                            "title": "Discussion phase",
+                            "topic": "Technical Papers",
+                            "type": "Other"
+                        }
+                    ]
+                }
+            ],
+            "16:00 - 17:30": [
+                {
+                    "room": "E4 room",
+                    "chair": "Chair(s): Abram Hindle University of Alberta",
+                    "session_title": "Mining Challenge",
+                    "events": [
+                        {
+                            "authors": [
+                                "Sebastian Proksch",
+                                "Sven Amann",
+                                "Sarah Nadi"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "16:00",
+                            "title": "Enriched Event Streams: A General Dataset For Empirical Studies On In-IDE Activities Of Software Developers",
+                            "topic": "Mining Challenge",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Akond Rahman",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "16:06",
+                            "title": "Comprehension Effort and Programming Activities: Related? Or Not Related?",
+                            "topic": "Mining Challenge",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Xianhao Jin",
+                                "Francisco Servant",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "16:12",
+                            "title": "The Hidden Cost of Code Completion: Understanding the Impact of the Recommendation-list Length on its Efficiency",
+                            "topic": "Mining Challenge",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Ariel Rodriguez ",
+                                "Fumiya Tanaka ",
+                                "Yasutaka Kamei",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "16:19",
+                            "title": "Empirical Study on the Relationship Between Developers Working Habits and Efficiency",
+                            "topic": "Mining Challenge",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Alireza Joonbakhsh ",
+                                "Ashkan Sami",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "16:25",
+                            "title": "Mining and Extraction of Personal Software Process measures through IDE Interaction logs",
+                            "topic": "Mining Challenge",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Tyson Bulmer ",
+                                "Lloyd Montgomery",
+                                "Daniela Damian",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "16:32",
+                            "title": "Predicting Developer IDE Commands with Machine Learning",
+                            "topic": "Mining Challenge",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Rahul Amlekar ",
+                                "Andr\u00e9s Felipe Rinc\u00f3n Gamboa ",
+                                "Keheliya Gallaba",
+                                "Shane McIntosh",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "16:38",
+                            "title": "Do Practitioners Use Autocompletion Features Differently Than Non-Practitioners?",
+                            "topic": "Mining Challenge",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "John Wilkie ",
+                                "Ziad Al Halabi ",
+                                "Alperen Karaoglu ",
+                                "Jiafeng Liao ",
+                                "George Ndungu",
+                                "Chaiyong Ragkhitwetsagul",
+                                "Matheus Paixao",
+                                "Jens Krinke",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "16:45",
+                            "title": "Who's this? Developer identification using IDE event data",
+                            "topic": "Mining Challenge",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Agnieszka Ciborowska ",
+                                "Nicholas A. Kraft",
+                                "Kostadin Damevski",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "16:51",
+                            "title": "Detecting and Characterizing Developer Behavior Following Opportunistic Reuse of Code Snippets from the Web",
+                            "topic": "Mining Challenge",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Noam Rabbani ",
+                                "Mike Harvey ",
+                                "Sadnan Saquif ",
+                                "Keheliya Gallaba",
+                                "Shane McIntosh",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "16:57",
+                            "title": "Revisiting \u201cProgrammers\u2019 Build Errors\u201d in the Visual Studio Context: A Replication Study using IDE Interaction Traces",
+                            "topic": "Mining Challenge",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Mauricio Soto",
+                                "Claire Le Goues",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "17:04",
+                            "title": "Common Statement Kind Changes to Inform Automatic Program Repair",
+                            "topic": "Mining Challenge",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Christopher Bellman ",
+                                "Ahmad Seet ",
+                                "Olga Baysal",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "17:10",
+                            "title": "Studying Developer Build Issues And Debugger Usage via Timeline Analysis in Visual Studio IDE",
+                            "topic": "Mining Challenge",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "C\u00e9sar Soto-Valero",
+                                "Johann Bourcier ",
+                                "Benoit Baudry",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "17:17",
+                            "title": "Detection and Analysis of Behavioral T-patterns in Debugging Activities",
+                            "topic": "Mining Challenge",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Afsoon Afzal",
+                                "Claire Le Goues",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "17:23",
+                            "title": "A Study on the Use of IDE Features for Debugging",
+                            "topic": "Mining Challenge",
+                            "type": "Short-paper"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Tue 29 May 2018": {
+            "09:00 - 10:30": [
+                {
+                    "room": "E4 room",
+                    "chair": "Chair(s): Abram Hindle University of Alberta",
+                    "session_title": "2008 Most Influential Paper Award and Evolution and Changes",
+                    "events": [
+                        {
+                            "authors": [
+                                "Abram Hindle",
+                                "Daniel M. German",
+                                "Ric Holt ",
+                                " Pre-print"
+                            ],
+                            "duration": 59.0,
+                            "start_time": "09:00",
+                            "title": "What do large commits tell us? A taxonomical study of large commits",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Sebastian Baltes",
+                                "Lorik Dumani ",
+                                "Christoph Treude",
+                                "Stephan Diehl",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "09:59",
+                            "title": "SOTorrent: Reconstructing and Analyzing the Evolution Stack Overflow Posts",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Robert Benkoczi ",
+                                "Daya Gaur ",
+                                "Shahadat Hossain ",
+                                "Muhammad Khan ",
+                                " Link to publication",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "10:16",
+                            "title": "A Design Structure Matrix Approach for Measuring Co-Change-Modularity of Software Products",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Ryo Arima ",
+                                "Yoshiki Higo",
+                                "Shinji Kusumoto",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "10:23",
+                            "title": "A Study on Inappropriately Partitioned Commits --- How Much and What Kinds of IP Commits in Java Projects? ---",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        }
+                    ]
+                }
+            ],
+            "11:00 - 12:30": [
+                {
+                    "room": "E3 room",
+                    "chair": "Chair(s): Abram Hindle University of Alberta",
+                    "session_title": "Data Showcase",
+                    "events": [
+                        {
+                            "authors": [
+                                "Pedro Martins",
+                                "Crista Lopes",
+                                "Rohan Achar"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:00",
+                            "title": "50K-C: A dataset of compilable, and compiled, Java projects",
+                            "topic": "Data Showcase",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Jian Gao",
+                                "Xin Yang ",
+                                "Yu Jiang",
+                                "Han Liu",
+                                "Weiliang Ying ",
+                                "Xian Zhang "
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:06",
+                            "title": "JBench: A Dataset of Data Races for Concurrency Testing",
+                            "topic": "Data Showcase",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Ripon Saha",
+                                "Yingjun Lyu",
+                                "Wing Lam",
+                                "Hiroaki Yoshida",
+                                "Mukul Prasad"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:12",
+                            "title": "Bugs.jar: A Large-scale, Diverse Dataset of Real-world Java Bugs",
+                            "topic": "Data Showcase",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Nicole Novielli",
+                                "Fabio Calefato",
+                                "Filippo Lanubile",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:18",
+                            "title": "A Gold Standard for Emotion Annotation in Stack Overflow",
+                            "topic": "Data Showcase",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Antonios Gkortzis ",
+                                "Dimitris Mitropoulos",
+                                "Diomidis Spinellis",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:24",
+                            "title": "Vulinoss: A Dataset of Security Vulnerabilities in Open-source Systems",
+                            "topic": "Data Showcase",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Zhixing Li ",
+                                "Yue Yu ",
+                                "Gang Yin",
+                                "Tao Wang",
+                                "Huaimin Wang",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:30",
+                            "title": "A Dataset of Duplicate Pull-requests in GitHub",
+                            "topic": "Data Showcase",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Gerald Schermann",
+                                "Sali Zumberi ",
+                                "J\u00fcrgen Cito",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:36",
+                            "title": "Structured Information on State and Evolution of Dockerfiles on GitHub",
+                            "topic": "Data Showcase",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Franz-Xaver Geiger ",
+                                "Ivano Malavolta",
+                                "Luca Pascarella",
+                                "Fabio Palomba",
+                                "Dario Di Nucci",
+                                "Alberto Bacchelli",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:42",
+                            "title": "A Graph-based Dataset of Commit History of Real-World Android apps",
+                            "topic": "Data Showcase",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Vadim Markovtsev",
+                                "Waren Long",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:48",
+                            "title": "Public Git Archive: a Big Code dataset for all",
+                            "topic": "Data Showcase",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Vasiliki Efstathiou",
+                                "Christos Chatzilenas ",
+                                "Diomidis Spinellis",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:54",
+                            "title": "Word Embeddings for the Software Engineering Domain",
+                            "topic": "Data Showcase",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Kyriakos Chatzidimitriou ",
+                                "Michail Papamichail ",
+                                "Themistoklis Diamantopoulos",
+                                "Michail Tsapanos ",
+                                "Andreas Symeonidis",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:00",
+                            "title": "npm-miner: An Infrastructure for Measuring the Quality of the npm Registry",
+                            "topic": "Data Showcase",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Matheus Paixao",
+                                "Jens Krinke",
+                                "DongGyun Han",
+                                "Mark Harman",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:06",
+                            "title": "CROP: Linking Code Reviews to Source Code Changes",
+                            "topic": "Data Showcase",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Aiko Yamashita",
+                                "Fabio Petrillo",
+                                "Foutse Khomh",
+                                "Yann-Ga\u00ebl Gu\u00e9h\u00e9neuc",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:12",
+                            "title": "Developer Interaction Traces backed by IDE Screen Recordings from Think-aloud Sessions",
+                            "topic": "Data Showcase",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Yulin Xu",
+                                "Minghui Zhou",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:18",
+                            "title": "A Multi-level Dataset of Linux Kernel Patchwork",
+                            "topic": "Data Showcase",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Diomidis Spinellis",
+                                " Link to publication",
+                                " DOI",
+                                " Media Attached"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:24",
+                            "title": "Documented Unix Facilities Over 48 Years",
+                            "topic": "Data Showcase",
+                            "type": "Short-paper"
+                        }
+                    ]
+                },
+                {
+                    "room": "E4 room",
+                    "chair": "Chair(s): Abram Hindle University of Alberta",
+                    "session_title": "Machine Learning for SE",
+                    "events": [
+                        {
+                            "authors": [
+                                "Vivek Nair",
+                                "Amritanshu Agrawal",
+                                "Jianfeng Chen ",
+                                "Wei Fu",
+                                "George Mathew",
+                                "Tim Menzies",
+                                "Leandro Minku ",
+                                "Markus Wagner ",
+                                "Zhe Yu"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "11:00",
+                            "title": "Data-Driven Search-based Software Engineering",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Houssem Ben Braiek ",
+                                "Foutse Khomh",
+                                "Bram Adams",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "11:17",
+                            "title": "The Open-Closed Principle of Modern Machine Learning Frameworks",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Nicole Novielli",
+                                "Daniela Girardi",
+                                "Filippo Lanubile",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "11:34",
+                            "title": "A Benchmark Study on Sentiment Analysis for Software Engineering Research",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Jordan Ott ",
+                                "Abigail Atchison",
+                                "Paul Harnack ",
+                                "Adrienne Bergh ",
+                                "Erik Linstead",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "11:51",
+                            "title": "A Deep Learning Approach to Identifying Source Code in Images and Video",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Mika M\u00e4ntyl\u00e4",
+                                "Fabio Calefato",
+                                "Ma\u00eblick Claes",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "12:08",
+                            "title": "Natural Language or Not (NLoN) - package for Software Engineering Text Analysis Pipeline",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 15.0,
+                            "start_time": "12:15",
+                            "title": "Discussion phase",
+                            "topic": "Technical Papers",
+                            "type": "Other"
+                        }
+                    ]
+                }
+            ],
+            "14:00 - 15:30": [
+                {
+                    "room": "E3 room",
+                    "chair": "Chair(s): Abram Hindle University of Alberta",
+                    "session_title": "Search and Traceability",
+                    "events": [
+                        {
+                            "authors": [
+                                "Michael Rath",
+                                "David Lo",
+                                "Patrick M\u00e4der",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "14:00",
+                            "title": "Analyzing Requirements and Traceability Information to Improve Bug Localization",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Jinqiu Yang ",
+                                "Erik Wittern",
+                                "Annie T.T. Ying",
+                                "Julian Dolby",
+                                "Lin Tan"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "14:17",
+                            "title": "Towards Extracting Web API Specifications from Documentation",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Md Masudur Rahman",
+                                "Jed Barson",
+                                "Sydney Paul ",
+                                "Joshua Kayani ",
+                                "Federico Andr\u00e9s Lois ",
+                                "Sebasti\u00e1n Fernandez Quezada ",
+                                "Chris Parnin",
+                                "Kathryn Stolee",
+                                "Baishakhi Ray",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "14:34",
+                            "title": "Evaluating How Developers Use General-Purpose Web-Search for Code Retrieval",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Pengcheng Yin",
+                                "Bowen Deng",
+                                "Edgar Chen",
+                                "Bogdan Vasilescu",
+                                "Graham Neubig"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "14:51",
+                            "title": "Learning to Mine Aligned Code and Natural Language Pairs from Stack Overflow",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Ridhi Jain ",
+                                "Sai Prathik Saba Bama ",
+                                "Venkatesh Vinayakarao",
+                                "Rahul Purandare",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "15:08",
+                            "title": "A Search System for Mathematical Expressions on Software Binaries",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 15.0,
+                            "start_time": "15:15",
+                            "title": "Discussion phase",
+                            "topic": "Technical Papers",
+                            "type": "Other"
+                        }
+                    ]
+                },
+                {
+                    "room": "E4 room",
+                    "chair": "Chair(s): Abram Hindle University of Alberta",
+                    "session_title": "OSS Practices and Methods",
+                    "events": [
+                        {
+                            "authors": [
+                                "Luca Pascarella",
+                                "Fabio Palomba",
+                                "Massimiliano Di Penta",
+                                "Alberto Bacchelli",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "14:00",
+                            "title": "How Is Video Game Development Different from Software Development in Open Source?",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Justin Middleton ",
+                                "Emerson Murphy-Hill",
+                                "Demetrius Green ",
+                                "Adam Meade ",
+                                "Roger Mayer ",
+                                "David White ",
+                                "Steve McDonald ",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "14:17",
+                            "title": "Which Contributions Predict Whether Developers Are Accepted Into GitHub Teams",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Yuzhan Ma",
+                                "Venera Arnaoudova",
+                                "Mehdi Mirakhorli",
+                                "Sarah Fakhoury",
+                                "Mike Christensen ",
+                                "Waleed Zogaan ",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "14:34",
+                            "title": "Automatic Classification of Software Artifacts in Open-Source Applications",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Eldan Cohen ",
+                                "Mariano Consens ",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "14:51",
+                            "title": "Large-Scale Analysis of the Co-Commit Patterns of the Active Developers in GitHub's Top Repositories",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Ma\u00eblick Claes",
+                                "Mika M\u00e4ntyl\u00e4",
+                                "Miikka Kuutila",
+                                "Umar Farooq "
+                            ],
+                            "duration": 7.0,
+                            "start_time": "15:08",
+                            "title": "Towards Identifying Paid Open Source Developers - A Case Study with Mozilla Developers",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 15.0,
+                            "start_time": "15:15",
+                            "title": "Discussion phase",
+                            "topic": "Technical Papers",
+                            "type": "Other"
+                        }
+                    ]
+                }
+            ],
+            "16:00 - 17:30": [
+                {
+                    "room": "E3 room",
+                    "chair": "Chair(s): Abram Hindle University of Alberta",
+                    "session_title": "APIs and Code",
+                    "events": [
+                        {
+                            "authors": [
+                                "Guillermo de la Torre ",
+                                "Romain Robbes",
+                                "Alexandre Bergel"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "16:00",
+                            "title": "Imprecisions Diagnostic in Source Code Deltas",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Maxime Lamothe",
+                                "Weiyi Shang"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "16:17",
+                            "title": "Exploring the Use of Automated API Migrating Techniques in Practice: An Experience Report on Android",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Maximilian Capraro",
+                                "Michael Dorner",
+                                "Dirk Riehle ",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "16:34",
+                            "title": "The Patch-Flow Method for Measuring Inner Source Collaboration",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Fiorella Zampetti",
+                                "Alexander Serebrenik",
+                                "Massimiliano Di Penta",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "16:51",
+                            "title": "Was Self-Admitted Technical Debt Removal a Real Removal? An In-Depth Perspective",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Beatriz Sanchez",
+                                "Konstantinos Barmpis",
+                                "Patrick Neubauer",
+                                "Richard Paige",
+                                "Dimitris Kolovos"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "17:08",
+                            "title": "RestMule: Enabling Resilient Clients for Remote APIs",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 15.0,
+                            "start_time": "17:15",
+                            "title": "Discussion phase",
+                            "topic": "Technical Papers",
+                            "type": "Other"
+                        }
+                    ]
+                },
+                {
+                    "room": "E4 room",
+                    "chair": "Chair(s): Abram Hindle University of Alberta",
+                    "session_title": "Modeling and Prediction",
+                    "events": [
+                        {
+                            "authors": [
+                                "Michele Tufano",
+                                "Cody Watson ",
+                                "Gabriele Bavota",
+                                "Massimiliano Di Penta",
+                                "Martin White ",
+                                "Denys Poshyvanyk",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "16:00",
+                            "title": "Deep Learning Similarities from Different Representations of Source Code",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Suvodeep Majumder",
+                                "Tim Menzies",
+                                "Nikhila Balaji ",
+                                "Katie Brey ",
+                                "Wei Fu"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "16:17",
+                            "title": "500+ Times Faster Than Deep Learning (A Case Study Exploring Faster Methods for Text Mining StackOverflow)",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Guilherme B. de P\u00e1dua",
+                                "Weiyi Shang",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "16:34",
+                            "title": "Studying the relationship between exception handling practices and post-release defects",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Paola Accioly",
+                                "Paulo Borba",
+                                "Leuson Da Silva",
+                                "Guilherme Cavalcanti",
+                                " Pre-print"
+                            ],
+                            "duration": 17.0,
+                            "start_time": "16:51",
+                            "title": "Analyzing Conflict Predictors in Open-Source Java Projects from GitHub and Travis CI",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Neil Ernst",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "17:08",
+                            "title": "Bayesian Hierarchical Modelling for Tailoring Metric Thresholds",
+                            "topic": "Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 15.0,
+                            "start_time": "17:15",
+                            "title": "Discussion phase",
+                            "topic": "Technical Papers",
+                            "type": "Other"
+                        }
+                    ]
+                }
+            ],
+            "17:30 - 18:00": [
+                {
+                    "room": "E4 room",
+                    "chair": "Chair(s): Abram Hindle University of Alberta",
+                    "session_title": "Closing",
+                    "events": [
+                        {
+                            "authors": [],
+                            "duration": 30.0,
+                            "start_time": "17:30",
+                            "title": "Closing",
+                            "topic": "Technical Papers",
+                            "type": "Day closing"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

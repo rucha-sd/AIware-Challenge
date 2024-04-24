@@ -2,7 +2,7 @@ import json
 import csv
 from datetime import datetime, timedelta
 
-def convert_json_to_csv(json_filename, csv_filename='conference_schedule_new.csv'):
+def convert_json_to_csv(json_filename, csv_filename='conference_schedule_2023.csv'):
     with open(json_filename, 'r', encoding='utf-8') as file:
         data = json.load(file)
 
@@ -23,7 +23,6 @@ def convert_json_to_csv(json_filename, csv_filename='conference_schedule_new.csv
                         session_start_dt = datetime.strptime(f"{date} {time_slot}", "%a %d %b %Y %H:%M")
                         session_end_dt = session_start_dt  # Assume same start and end time if not specified
                     for session in sessions:
-                        print(session)
                         room = session.get("room", "")
                         chair = session.get("chair", "")
                         session_title = session.get("session_title", "").replace('\n', ' ')  # Clean newlines in session title
@@ -57,4 +56,4 @@ def convert_json_to_csv(json_filename, csv_filename='conference_schedule_new.csv
                             id_counter += 1
 
 # Usage Example
-convert_json_to_csv('msr_papers_data_new.json')
+convert_json_to_csv('msr_papers_data_2023.json')

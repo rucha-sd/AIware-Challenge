@@ -1,0 +1,1680 @@
+{
+    "2021": {
+        "Mon 17 May 2021": {
+            "02:00 - 02:50": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Opening/Awards",
+                    "events": []
+                }
+            ],
+            "02:50 - 03:10": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Break / Discussion Rooms",
+                    "events": []
+                }
+            ],
+            "03:10 - 04:00": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Welcome Event",
+                    "events": []
+                }
+            ],
+            "10:00 - 10:50": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Resources for MSR Research",
+                    "events": [
+                        {
+                            "authors": [
+                                "Egor Spirin",
+                                "Egor Bogomolov",
+                                "Vladimir Kovalenko",
+                                "Timofey Bryksin",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:01",
+                            "title": "PSIMiner: A Tool for Mining Rich Abstract Syntax Trees from Code",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Maria Papoutsoglou",
+                                "Johannes Wachs",
+                                "Georgia Kapitsaki",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:04",
+                            "title": "Mining DEV for social and technical insights about software development",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Nikolai Sviridov",
+                                "Mikhail Evtikhiev",
+                                "Vladimir Kovalenko",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:07",
+                            "title": "TNM: A Tool for Mining of Socio-Technical Data from Git Repositories",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ahmed Zerouali",
+                                "Camilo Vel\u00e1zquez-Rodr\u00edguez",
+                                "Coen De Roover",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:10",
+                            "title": "Identifying Versions of Libraries used in Stack Overflow Code Snippets",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ozren Dabic",
+                                "Emad Aghajani",
+                                "Gabriele Bavota",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:13",
+                            "title": "Sampling Projects in GitHub for MSR Studies",
+                            "topic": "Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Christoph Gote",
+                                "Christian Zingg",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:16",
+                            "title": "gambit \u2013 An Open Source Name Disambiguation Tool for Version Control Systems",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 31.0,
+                            "start_time": "10:19",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                },
+                {
+                    "room": "MSR Room 2",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Testing and code review",
+                    "events": [
+                        {
+                            "authors": [
+                                "Mouna Hammoudi",
+                                "Christoph Mayr-Dorn",
+                                "Atif Mashkoor",
+                                "Alexander Egyed",
+                                " Media Attached"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:01",
+                            "title": "A Traceability Dataset for Open Source Systems",
+                            "topic": "Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Diego Marcilio",
+                                "Carlo A. Furia",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "10:04",
+                            "title": "How Java Programmers Test Exceptional Behavior",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Jeanderson C\u00e2ndido",
+                                "Jan Haesen",
+                                "Maur\u00edcio Aniche",
+                                "Arie van Deursen",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "10:08",
+                            "title": "An Exploratory Study of Log Placement Recommendation in an Enterprise System",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Panyawut Sri-iesaranusorn",
+                                "Raula Gaikovina Kula",
+                                "Takashi Ishio",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:12",
+                            "title": "Does Code Review Promote Conformance? A Study of OpenStack Patches",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Guillaume Haben",
+                                "Sarra Habchi",
+                                "Mike Papadakis",
+                                "Maxime Cordy",
+                                "Yves Le Traon",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "10:15",
+                            "title": "A Replication Study on the Usability of Code Vocabulary in Predicting Flaky Tests",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Sarra Habchi",
+                                "Maxime Cordy",
+                                "Mike Papadakis",
+                                "Yves Le Traon",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:19",
+                            "title": "On the Use of Mutation in Injecting Test Order-Dependency",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 28.0,
+                            "start_time": "10:22",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "10:50 - 11:10": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Break / Discussion Rooms",
+                    "events": []
+                }
+            ],
+            "11:10 - 12:00": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Welcome Event",
+                    "events": []
+                }
+            ],
+            "17:00 - 17:50": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Mining Challenge Session",
+                    "events": [
+                        {
+                            "authors": [
+                                "Miltiadis Allamanis",
+                                "Rafael-Michael Karampatsis",
+                                "Charles Sutton"
+                            ],
+                            "duration": 2.0,
+                            "start_time": "17:01",
+                            "title": "Welcome by the Mining Challenge Co-chairs",
+                            "topic": "Mining Challenge",
+                            "type": ""
+                        },
+                        {
+                            "authors": [
+                                "Fernanda Madeiral",
+                                "Thomas Durieux",
+                                " Link to publication",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "17:03",
+                            "title": "A large-scale study on human-cloned changes for automated program repair",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ehsan Mashhadi",
+                                "Hadi Hemmati",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "17:06",
+                            "title": "Applying CodeBERT for Automated Program Repair of Java Simple Bugs",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Arthur Veloso Kamienski",
+                                "Luisa Palechor",
+                                "Abram Hindle",
+                                "Cor-Paul Bezemer",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "17:09",
+                            "title": "PySStuBs: Characterizing Single-Statement Bugs in Popular Open-Source Python Projects",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Jasmine Latendresse",
+                                "Rabe Abdalkareem",
+                                "Diego Costa",
+                                "Emad Shihab",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "17:12",
+                            "title": "How Effective is Continuous Integration in Indicating Single-Statement Bugs?",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Wenhan Zhu",
+                                "Michael W. Godfrey",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "17:15",
+                            "title": "Mea culpa: How developers fix their own simple bugs differently from other developers",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Anthony Peruma",
+                                "Christian D. Newman",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "17:18",
+                            "title": "On the Distribution of \"Simple Stupid Bugs\" in Unit Test Files: An Exploratory Study",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Bal\u00e1zs Mosolyg\u00f3",
+                                "Norbert V\u00e1ndor",
+                                "Gabor Antal",
+                                "Peter Hegedus",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "17:21",
+                            "title": "On the Rise and Fall of Simple Stupid Bugs: a Life-Cycle Analysis of SStuBs",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Jiayi Hua",
+                                "Haoyu Wang",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "17:24",
+                            "title": "On the Effectiveness of Deep Vulnerability Detectors to Simple Stupid Bug Detection",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 23.0,
+                            "start_time": "17:27",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "17:50 - 18:10": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Break / Discussion Rooms",
+                    "events": []
+                }
+            ],
+            "18:10 - 19:00": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Keynote: Nicole Forsgren",
+                    "events": []
+                }
+            ]
+        },
+        "Tue 18 May 2021": {
+            "02:00 - 02:50": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Keynote: Leslie Miley",
+                    "events": []
+                }
+            ],
+            "02:50 - 03:10": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Break / Discussion Rooms",
+                    "events": []
+                }
+            ],
+            "03:10 - 04:00": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Technical Debt and Smells",
+                    "events": [
+                        {
+                            "authors": [
+                                "Zadia Codabux",
+                                "Melina Vidoni",
+                                "Fatemeh Hendijani Fard",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "03:11",
+                            "title": "Technical Debt in the Peer-Review Documentation of R Packages: a rOpenSci Case Study",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Tushar Sharma",
+                                "Marouane Kessentini",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "03:15",
+                            "title": "QScored: A Large Dataset of Code Smells and Quality Metrics",
+                            "topic": "Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Alexandra-Maria Chaniotaki",
+                                "Tushar Sharma",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "03:18",
+                            "title": "Architecture Smells and Pareto Principle: A Preliminary Empirical Exploration",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Melina Vidoni",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "03:21",
+                            "title": "Self-Admitted Technical Debt in R Packages: An Exploratory Study",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Md Abdullah Al Alamin",
+                                "Sanjay Malakar",
+                                "Gias Uddin",
+                                "Sadia Afroz",
+                                "Tameem Bin Haider",
+                                "Anindya Iqbal",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "03:25",
+                            "title": "An Empirical Study of Developer Discussions on Low Code Software Development Challenges",
+                            "topic": "Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 31.0,
+                            "start_time": "03:29",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                },
+                {
+                    "room": "MSR Room 2",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Time series data",
+                    "events": [
+                        {
+                            "authors": [
+                                "Wen Li",
+                                "Xiaoqin Fu",
+                                "Haipeng Cai",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "03:11",
+                            "title": "AndroCT: Ten Years of App Call Traces in Android",
+                            "topic": "Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Huy Tu",
+                                "George Papadimitriou",
+                                "Mariam Kiran",
+                                "Cong Wang",
+                                "Anirban Mandal",
+                                "Ewa Deelman",
+                                "Tim Menzies",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "03:14",
+                            "title": "Mining Workflows for Anomalous Data Transfers",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Samuel W. Flint",
+                                "Jigyasa Chauhan",
+                                "Robert Dyer",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "03:18",
+                            "title": "Escaping the Time Pit: Pitfalls and Guidelines for Using Time-Based Git Data",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Sina Gholamian",
+                                "Paul A. S. Ward",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "03:22",
+                            "title": "On the Naturalness and Localness of Software Logs",
+                            "topic": "Technical Papers",
+                            "type": "Paper"
+                        },
+                        {
+                            "authors": [
+                                "Timothy Kinsman",
+                                "Mairieli Wessel",
+                                "Marco Gerosa",
+                                "Christoph Treude",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "03:26",
+                            "title": "How Do Software Developers Use GitHub Actions to Automate Their Workflows?",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 30.0,
+                            "start_time": "03:30",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "10:00 - 10:50": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Developer communications",
+                    "events": [
+                        {
+                            "authors": [
+                                "Gianmarco Fucci",
+                                "Nathan Cassee",
+                                "Fiorella Zampetti",
+                                "Nicole Novielli",
+                                "Alexander Serebrenik",
+                                "Massimiliano Di Penta",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:01",
+                            "title": "Waiting around or job half-done? Sentiment in self-admitted technical debt",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Mia Mohammad Imran",
+                                "Agnieszka Ciborowska ",
+                                "Kostadin Damevski",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "10:04",
+                            "title": "Automatically Selecting Follow-up Questions for Deficient Bug Reports",
+                            "topic": "Technical Papers",
+                            "type": "Research paper"
+                        },
+                        {
+                            "authors": [
+                                "Gian Luca Scoccia",
+                                "Patrizio Migliarini",
+                                "Marco Autili",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "10:08",
+                            "title": "Challenges in Developing Desktop Web Apps: a Study of Stack Overflow and GitHub",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Nikitha Rao",
+                                "Chetan Bansal",
+                                "Joe Guan",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:12",
+                            "title": "Search4Code: Code Search Intent Classification Using Weak Supervision",
+                            "topic": "Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 35.0,
+                            "start_time": "10:15",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                },
+                {
+                    "room": "MSR Room 2",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "ML and Deep Learning",
+                    "events": [
+                        {
+                            "authors": [
+                                "Alexey Svyatkovskiy",
+                                "Sebastian Lee",
+                                "Anna Hadjitofi",
+                                "Maik Riechert",
+                                "Juliana Franco",
+                                "Miltiadis Allamanis",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "10:01",
+                            "title": "Fast and Memory-Efficient Neural Code Completion",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ruchika Malhotra",
+                                "Ritvik Kapoor",
+                                "Deepti Aggarwal",
+                                "Priya Garg",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "10:05",
+                            "title": "Comparative Study of Feature Reduction Techniques in Software Change Prediction",
+                            "topic": "Technical Papers",
+                            "type": "Research paper"
+                        },
+                        {
+                            "authors": [
+                                "Matteo Ciniselli",
+                                "Nathan Cooper",
+                                "Luca Pascarella",
+                                "Denys Poshyvanyk",
+                                "Massimiliano Di Penta",
+                                "Gabriele Bavota",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "10:09",
+                            "title": "An Empirical Study on the Usage of BERT Models for Code Completion",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Amir Mir",
+                                "Evaldas Latoskinas",
+                                "Georgios Gousios",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:13",
+                            "title": "ManyTypes4Py: A benchmark Python dataset for machine learning-based type inference",
+                            "topic": "Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Luigi Quaranta",
+                                "Fabio Calefato",
+                                "Filippo Lanubile"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:16",
+                            "title": "KGTorrent: A Dataset of Python Jupyter Notebooks from Kaggle",
+                            "topic": "Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Steffen Herbold",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:19",
+                            "title": "Exploring the relationship between performance metrics and cost saving potential of defect prediction models",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 28.0,
+                            "start_time": "10:22",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "10:50 - 11:10": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Break / Discussion Rooms",
+                    "events": []
+                }
+            ],
+            "11:10 - 12:00": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Tutorial",
+                    "events": [
+                        {
+                            "authors": [
+                                "Alberto Bacchelli",
+                                "Maur\u00edcio Aniche",
+                                " Pre-print"
+                            ],
+                            "duration": 50.0,
+                            "start_time": "11:10",
+                            "title": "PyDriller 1.0 -- Ready to grow together",
+                            "topic": "Tutorials ",
+                            "type": "Tutorial"
+                        }
+                    ]
+                }
+            ],
+            "17:00 - 17:50": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Hackathon",
+                    "events": [
+                        {
+                            "authors": [
+                                "Jim Herbsleb",
+                                "Audris Mockus",
+                                "Alexander Nolte"
+                            ],
+                            "duration": 2.0,
+                            "start_time": "17:01",
+                            "title": "Welcome by the MSR Hackathon Co-Chairs",
+                            "topic": "Hackathon",
+                            "type": ""
+                        },
+                        {
+                            "authors": [
+                                "James Walden",
+                                " Noah",
+                                "Kuljit Kaur Chahal"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "17:03",
+                            "title": "An Exploratory Study of Project Activity Changepoints in Open Source Software Evolution",
+                            "topic": "Hackathon",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Mengchen Sam Yong",
+                                "Lavinia Francesca Paganini",
+                                "Huilian Sophie Qiu",
+                                "Jos\u00e9 Bayo\u00e1n Santiago Calder\u00f3n",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "17:06",
+                            "title": "The Diversity-Innovation Paradox in Open-Source Software",
+                            "topic": "Hackathon",
+                            "type": "Paper"
+                        },
+                        {
+                            "authors": [
+                                "Ahmed Samir Imam Mahmoud",
+                                "Tapajit Dey",
+                                "Alexander Nolte",
+                                "Audris Mockus",
+                                "Jim Herbsleb",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "17:09",
+                            "title": "The Secret Life of Hackathon Code",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "David Reid",
+                                "Kalvin Eng",
+                                "Chris Bogart",
+                                "Adam Tutko",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "17:13",
+                            "title": "Tracing Vulnerable Code Lineage",
+                            "topic": "Hackathon",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Elena Lyulina",
+                                "Mahmoud Jahanshahi",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "17:16",
+                            "title": "Building the Collaboration Graph of Open-Source Software Ecosystem",
+                            "topic": "Hackathon",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ahmed Samir Imam Mahmoud",
+                                "Tapajit Dey",
+                                " Pre-print"
+                            ],
+                            "duration": 1.0,
+                            "start_time": "17:19",
+                            "title": "The Secret Life of Hackathon Code",
+                            "topic": "Hackathon",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 30.0,
+                            "start_time": "17:20",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                },
+                {
+                    "room": "MSR Room 2",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Testing",
+                    "events": [
+                        {
+                            "authors": [
+                                "Andre Hora",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "17:01",
+                            "title": "What Code Is Deliberately Excluded from Test Coverage and Why?",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Tyler Wendland",
+                                "Jingyang Sun",
+                                "Junayed Mahmud",
+                                "S M Hasan Mansur",
+                                "Steven Huang",
+                                "Kevin Moran",
+                                "Julia Rubin",
+                                "Mattia Fazzini"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "17:05",
+                            "title": "AndroR2: A Dataset of Manually-Reproduced Bug Reports for Android apps",
+                            "topic": "Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Likang Yin",
+                                "Zhiyuan Zhang",
+                                "Qi Xuan",
+                                "Vladimir Filkov"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "17:08",
+                            "title": "Apache Software Foundation Incubator Project Sustainability Dataset",
+                            "topic": "Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Golnaz Gharachorlu",
+                                "Nick Sumner",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "17:11",
+                            "title": "Leveraging Models to Reduce Test Cases in Software Repositories",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Jean-Gabriel Young",
+                                "amanda casari",
+                                "Katie McLaughlin",
+                                "Milo Trujillo",
+                                "Laurent H\u00e9bert-Dufresne",
+                                "James P. Bagrow",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "17:15",
+                            "title": "Which contributions count? Analysis of attribution in open source",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Quentin Fournier",
+                                "Daniel Aloise",
+                                "Seyed Vahid Azhari",
+                                "Fran\u00e7ois Tetreault",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "17:19",
+                            "title": "On Improving Deep Learning Trace Analysis with System Call Arguments",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 27.0,
+                            "start_time": "17:23",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "17:50 - 18:10": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Break / Discussion Rooms",
+                    "events": []
+                }
+            ],
+            "18:10 - 19:00": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Tutorial",
+                    "events": [
+                        {
+                            "authors": [
+                                "Massimiliano Di Penta",
+                                " Pre-print"
+                            ],
+                            "duration": 50.0,
+                            "start_time": "18:10",
+                            "title": "Crafting your next MSR paper: suggestions from my (good and bad) experiences",
+                            "topic": "Tutorials ",
+                            "type": "Tutorial"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Wed 19 May 2021": {
+            "02:00 - 02:50": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Bug Detection",
+                    "events": [
+                        {
+                            "authors": [
+                                "Jirayus Jiarpakdee",
+                                "Kla Tantithamthavorn",
+                                "John Grundy",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "02:01",
+                            "title": "Practitioners' Perceptions of the Goals and Visual Explanations of Defect Prediction Models",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Jiayi Hua",
+                                "Haoyu Wang",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "02:05",
+                            "title": "On the Effectiveness of Deep Vulnerability Detectors to Simple Stupid Bug Detection",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Zhen Yu Ding",
+                                "Claire Le Goues",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "02:08",
+                            "title": "An Empirical Study of OSS-Fuzz Bugs",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Misoo Kim",
+                                "Youngkyoung Kim",
+                                "Eunseok Lee"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "02:12",
+                            "title": "Denchmark: A Bug Benchmark of Deep Learning-related Software",
+                            "topic": "Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Chanathip Pornprasit",
+                                "Kla Tantithamthavorn",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "02:15",
+                            "title": "JITLine: A Simpler, Better, Faster, Finer-grained Just-In-Time Defect Prediction",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 31.0,
+                            "start_time": "02:19",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                },
+                {
+                    "room": "MSR Room 2",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "NLP",
+                    "events": [
+                        {
+                            "authors": [
+                                "Sofonias Yitagesu",
+                                "Xiaowang Zhang",
+                                "Zhiyong Feng",
+                                "Xiaohong Li",
+                                "Zhenchang Xing",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "02:01",
+                            "title": "Automatic Part-of-Speech Tagging for Security Vulnerability Descriptions",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Jiayan Pei",
+                                "Yimin Wu",
+                                "Zishan Qin",
+                                "Yao Cong",
+                                "Jingtao Guan",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "02:05",
+                            "title": "Attention-based model for predicting question relatedness on Stack Overflow",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Mahfouth Alghamdi",
+                                "Shinpei Hayashi",
+                                "Takashi Kobayashi",
+                                "Christoph Treude",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "02:09",
+                            "title": "Characterising the Knowledge about Primitive Variables in Java Code Comments",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Andre Hora",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "02:13",
+                            "title": "Googling for Software Development: What Developers Search For and What They Find",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Mohammad Abdul Hadi",
+                                "Fatemeh Hendijani Fard",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "02:17",
+                            "title": "Evaluating Pre-Trained Models for User Feedback Analysis in Software Engineering: A Study on Classification of App-Reviews",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Yisi Han",
+                                "Zhendong Wang",
+                                "Yang Feng",
+                                "Zhihong Zhao",
+                                "Yi Wang",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "02:20",
+                            "title": "Cross-status Communication and Project Outcomes in OSS Development\u2013A Language Style Matching Perspective",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 27.0,
+                            "start_time": "02:23",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "02:50 - 03:10": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Break / Discussion Rooms",
+                    "events": []
+                }
+            ],
+            "03:10 - 04:00": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Tutorial",
+                    "events": [
+                        {
+                            "authors": [
+                                "Philipp Krenn"
+                            ],
+                            "duration": 50.0,
+                            "start_time": "03:10",
+                            "title": "Elasticsearch Full-Text Search Internals",
+                            "topic": "Tutorials ",
+                            "type": "Tutorial"
+                        }
+                    ]
+                }
+            ],
+            "10:00 - 10:50": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Datasets",
+                    "events": [
+                        {
+                            "authors": [
+                                "Sebastian Nielebock",
+                                "Paul Blockhaus",
+                                "Jacob Kr\u00fcger",
+                                "Frank Ortmeier",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:01",
+                            "title": "AndroidCompass: A Dataset of Android Compatibility Checks in Code Repositories",
+                            "topic": "Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Dheeraj Vagavolu",
+                                "Vartika Agrahari",
+                                "Sridhar Chimalakonda",
+                                "Akhila Sri Manasa Venigalla"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:04",
+                            "title": "GE526: A Dataset of Open Source Game Engines",
+                            "topic": "Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ruben Opdebeeck",
+                                "Ahmed Zerouali",
+                                "Coen De Roover"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:07",
+                            "title": "Andromeda: A Dataset of Ansible Galaxy Roles and Their Evolution",
+                            "topic": "Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Nafise Eskandani",
+                                "Guido Salvaneschi",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:10",
+                            "title": "The Wonderless Dataset for Serverless Computing",
+                            "topic": "Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Thomas Durieux",
+                                "C\u00e9sar Soto-Valero",
+                                "Benoit Baudry",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:13",
+                            "title": "DUETS: A Dataset of Reproducible Pairs of Java Library-Clients",
+                            "topic": "Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Sahar Badihi",
+                                "Yi Li",
+                                "Julia Rubin"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:16",
+                            "title": "EQBENCH: A Dataset of Equivalent and Non-equivalent Program Pairs",
+                            "topic": "Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 31.0,
+                            "start_time": "10:19",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                },
+                {
+                    "room": "MSR Room 2",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Dependencies and OSS",
+                    "events": [
+                        {
+                            "authors": [
+                                "Rolf-Helge Pfeiffer",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:01",
+                            "title": "Identifying Critical Projects via PageRank and Truck Factor",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Kalvin Eng",
+                                "Abram Hindle",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "10:04",
+                            "title": "Revisiting Dockerfiles in Open Source Software Over Time",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Noppadol Assavakamhaenghan",
+                                "Supatsara Wattanakriengkrai",
+                                "Naomichi Shimada",
+                                "Raula Gaikovina Kula",
+                                "Takashi Ishio",
+                                "Kenichi Matsumoto",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "10:08",
+                            "title": "Does the First-Response Matter for Future Contributions? A Study of First Contributions",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Murali Sridharan",
+                                "Leevi Rantala",
+                                "Ma\u00eblick Claes",
+                                "Mika M\u00e4ntyl\u00e4",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "10:11",
+                            "title": "Data Balancing Improves Self-Admitted Technical Debt Detection",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 35.0,
+                            "start_time": "10:15",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "10:50 - 11:10": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Break / Discussion Rooms",
+                    "events": []
+                }
+            ],
+            "11:10 - 12:00": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Mini-Keynotes",
+                    "events": [
+                        {
+                            "authors": [
+                                "Patanamon Thongtanunam"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:10",
+                            "title": "Code review at speed: How can we use data to help developers do code review faster?",
+                            "topic": "Keynotes",
+                            "type": "Keynote"
+                        },
+                        {
+                            "authors": [
+                                "Raula Gaikovina Kula"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:22",
+                            "title": "To Sustain a Smart, Dependent and Social Software Ecosystem",
+                            "topic": "Keynotes",
+                            "type": "Keynote"
+                        },
+                        {
+                            "authors": [
+                                "Lauren Peate"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "11:34",
+                            "title": "Measure what matters \u2013 but don\u2019t be creepy: The ethics of using data about people",
+                            "topic": "Keynotes",
+                            "type": "Keynote"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 18.0,
+                            "start_time": "11:42",
+                            "title": "Discussions and Q&A",
+                            "topic": "Keynotes",
+                            "type": ""
+                        }
+                    ]
+                }
+            ],
+            "17:00 - 17:50": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Energy, logging, and APIs",
+                    "events": [
+                        {
+                            "authors": [
+                                "Aleksandr Khvorov",
+                                "Roman Vasiliev",
+                                "George Chernishev",
+                                "Irving Muller Rodrigues",
+                                "Dmitrij Koznov",
+                                "Nikita Povarov",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "17:01",
+                            "title": "S3M: Siamese Stack (Trace) Similarity Measure",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ivano Malavolta",
+                                "Katerina Chinnappan",
+                                "Stan Swanborn",
+                                "Grace Lewis",
+                                "Patricia Lago",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "17:04",
+                            "title": "Mining the ROS ecosystem for Green Architectural Tactics in Robotics and an Empirical Evaluation",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Michel Albonico",
+                                "Ivano Malavolta",
+                                "Gustavo Pinto",
+                                "Emitz\u00e1 Guzm\u00e1n",
+                                "Katerina Chinnappan",
+                                "Patricia Lago",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "17:08",
+                            "title": "Mining Energy-Related Practices in Robotics Software",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Andreas Schuler",
+                                "Gabriele Anderst-Kotsis",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "17:12",
+                            "title": "Mining API Interactions to Analyze Software Revisions for the Evolution of Energy Consumption",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Fabio Marcos De Abreu Santos",
+                                "Igor Scaliante Wiese",
+                                "Bianca Trinkenreich",
+                                "Igor Steinmacher",
+                                "Anita Sarma",
+                                "Marco Gerosa",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "17:15",
+                            "title": "Can I Solve it? Identifying the APIs required to complete OSS tasks",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 31.0,
+                            "start_time": "17:19",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                },
+                {
+                    "room": "MSR Room 2",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Change Management and Analysis",
+                    "events": [
+                        {
+                            "authors": [
+                                "Saraj Singh Manes",
+                                "Olga Baysal",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "17:01",
+                            "title": "Studying the Change Histories of Stack Overflow and GitHub Snippets",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Hendrig Sellik",
+                                "Onno van Paridon",
+                                "Georgios Gousios",
+                                "Maur\u00edcio Aniche",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "17:05",
+                            "title": "Learning Off-By-One Mistakes: An Empirical Study",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Anderson Uch\u00f4a",
+                                "Caio Barbosa",
+                                "Daniel Coutinho",
+                                "Willian Oizumi",
+                                "Wesley Assun\u00e7\u00e3o",
+                                "Silvia Regina Vergilio",
+                                "Juliana Alves Pereira",
+                                "Anderson Oliveira",
+                                "Alessandro Garcia",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "17:09",
+                            "title": "Predicting Design Impactful Changes in Modern Code Review: A Large-Scale Empirical Study",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Saikat Mondal",
+                                "Gias Uddin",
+                                "Chanchal K. Roy",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "17:13",
+                            "title": "Rollback Edit Inconsistencies in Developer Forum",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Mehran Meidani",
+                                "Maxime Lamothe",
+                                "Shane McIntosh",
+                                " Pre-print"
+                            ],
+                            "duration": 3.0,
+                            "start_time": "17:17",
+                            "title": "Assessing the Exposure of Software Changes: The DiPiDi Approach",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Mahmoud Alfadel",
+                                "Diego Costa",
+                                "Emad Shihab",
+                                "Mouafak Mkhallalati",
+                                " Pre-print"
+                            ],
+                            "duration": 4.0,
+                            "start_time": "17:20",
+                            "title": "On the Use of Dependabot Security Pull Requests",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 26.0,
+                            "start_time": "17:24",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "17:50 - 18:10": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Break / Discussion Rooms",
+                    "events": []
+                }
+            ],
+            "18:10 - 19:00": [
+                {
+                    "room": "MSR Room 1",
+                    "chair": "Chair(s): Sarah Nadi",
+                    "session_title": "Closing",
+                    "events": [
+                        {
+                            "authors": [],
+                            "duration": 23.0,
+                            "start_time": "18:11",
+                            "title": "MIP Award 2011",
+                            "topic": "MIP Award ",
+                            "type": "Awards"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 15.0,
+                            "start_time": "18:34",
+                            "title": "Discussions and Q&A",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 8.0,
+                            "start_time": "18:49",
+                            "title": "MSR 2022",
+                            "topic": "Technical Papers",
+                            "type": ""
+                        },
+                        {
+                            "authors": [],
+                            "duration": 3.0,
+                            "start_time": "18:57",
+                            "title": "Closing by the General Chair and the Program Co-Chair",
+                            "topic": "Technical Papers",
+                            "type": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

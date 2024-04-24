@@ -1,0 +1,1453 @@
+{
+    "2023": {
+        "Mon 15 May 2023": {
+            "09:00 - 10:30": [
+                {
+                    "room": "Meeting Room 109",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Opening Session & Award Talks",
+                    "events": [
+                        {
+                            "authors": [
+                                "Emad Shihab",
+                                "Patanamon Thongtanunam",
+                                "Bogdan Vasilescu"
+                            ],
+                            "duration": 20.0,
+                            "start_time": "09:00",
+                            "title": "Opening Session & Award Announcements",
+                            "topic": "MSR Awards",
+                            "type": "Day opening"
+                        },
+                        {
+                            "authors": [
+                                "Audris Mockus"
+                            ],
+                            "duration": 20.0,
+                            "start_time": "09:20",
+                            "title": "MSR 2023 Foundational Contribution Award",
+                            "topic": "MSR Awards",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Li Li"
+                            ],
+                            "duration": 20.0,
+                            "start_time": "09:40",
+                            "title": "MSR 2023 Ric Holt Early Career Achievement Award",
+                            "topic": "MSR Awards",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Miltiadis Allamanis",
+                                "Charles Sutton"
+                            ],
+                            "duration": 30.0,
+                            "start_time": "10:00",
+                            "title": "MIP #1: Mining Source Code Repositories at Massive Scale Using Language Modeling",
+                            "topic": "MIP Award",
+                            "type": "Talk"
+                        }
+                    ]
+                }
+            ],
+            "11:00 - 11:45": [
+                {
+                    "room": "Meeting Room 109",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Development Tools & Practices I",
+                    "events": [
+                        {
+                            "authors": [
+                                "Kazi Amit Hasan",
+                                "Marcos Macedo",
+                                "Yuan Tian",
+                                "Bram Adams",
+                                "Ding Steven, H., H.",
+                                " Pre-print"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:00",
+                            "title": "Understanding the Time to First Response In GitHub Pull Requests",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Phuong T. Nguyen",
+                                "Riccardo Rubei",
+                                "Juri Di Rocco",
+                                "Claudio Di Sipio",
+                                "Davide Di Ruscio",
+                                "Massimiliano Di Penta",
+                                " Pre-print"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:12",
+                            "title": "Dealing with Popularity Bias in Recommender Systems for Third-party Libraries: How far Are We?",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ilham Qasse",
+                                "Mohammad Hamdaqa",
+                                "Bj\u00f6rn \u00de\u00f3r J\u00f3nsson"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:24",
+                            "title": "Smart Contract Upgradeability on the Ethereum Blockchain Platform: An Exploratory Study",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Michael Schr\u00f6der",
+                                "J\u00fcrgen Cito",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:30",
+                            "title": "An Exploratory Study of Ad Hoc Parsers in Python",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Jirat Pasuksmit",
+                                "Fan Jiang",
+                                "Kemp Thornton",
+                                "Arik Friedman",
+                                "Natalija Fuksmane",
+                                "Isabelle Kohout",
+                                "Julian Connor",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:36",
+                            "title": "Improving Agile Planning for Reliable Software Delivery",
+                            "topic": "Industry Track",
+                            "type": "Talk"
+                        }
+                    ]
+                },
+                {
+                    "room": "Meeting Room 110",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "SE for ML",
+                    "events": [
+                        {
+                            "authors": [
+                                "Chao Wang",
+                                "Zhenpeng Chen",
+                                "Minghui Zhou",
+                                " Pre-print"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:00",
+                            "title": "AutoML from Software Engineering Perspective: Landscapes and ChallengesDistinguished Paper Award",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Nima Shiri Harzevili",
+                                "Jiho Shin",
+                                "Junjie Wang",
+                                "Song Wang",
+                                "Nachiappan Nagappan"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:12",
+                            "title": "Characterizing and Understanding Software Security Vulnerabilities in Machine Learning Libraries",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Chengjie Lu",
+                                "Tao Yue",
+                                "Shaukat Ali",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:24",
+                            "title": "DeepScenario: An Open Driving Scenario Dataset for Autonomous Driving System Testing",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ratnadira Widyasari",
+                                "Zhou Yang",
+                                "Ferdian Thung",
+                                "Sheng Qin Sim",
+                                "Fiona Wee",
+                                "Camellia Lok",
+                                "Jack Phan",
+                                "Haodi Qi",
+                                "Constance Tan",
+                                "Qijin Tay",
+                                "David Lo"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:30",
+                            "title": "NICHE: A Curated Dataset of Engineered Machine Learning Projects in Python",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Wenxin Jiang",
+                                "Nicholas Synovic",
+                                "Purvish Jajal",
+                                "Taylor R. Schorlemmer",
+                                "Arav Tewari",
+                                "Bhavesh Pareek",
+                                "George K. Thiruvathukal",
+                                "James C. Davis",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:36",
+                            "title": "PTMTorrent: A Dataset for Mining Open-source Pre-trained Model Packages",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        }
+                    ]
+                }
+            ],
+            "11:50 - 12:35": [
+                {
+                    "room": "Meeting Room 109",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Documentation + Q&A I",
+                    "events": [
+                        {
+                            "authors": [
+                                "Henry Tang",
+                                "Sarah Nadi"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:50",
+                            "title": "Evaluating Software Documentation Quality",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Zhou Yang",
+                                "Chenyu Wang",
+                                "Jieke Shi",
+                                "Thong Hoang",
+                                "Pavneet Singh Kochhar",
+                                "Qinghua Lu",
+                                "Zhenchang Xing",
+                                "David Lo"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "12:02",
+                            "title": "What Do Users Ask in Open-Source AI Repositories? An Empirical Study of GitHub Issues",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ivana Clairine Irsan",
+                                "Ting Zhang",
+                                "Ferdian Thung",
+                                "Kisub Kim",
+                                "David Lo"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "12:14",
+                            "title": "PICASO: Enhancing API Recommendations with Relevant Stack Overflow Posts",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Nafiseh Nikehgbal",
+                                "Amir Hossein Kargaran",
+                                "Abbas Heydarnoori",
+                                "Hinrich Sch\u00fctze",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:26",
+                            "title": "GIRT-Data: Sampling GitHub Issue Report Templates",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        }
+                    ]
+                },
+                {
+                    "room": "Meeting Room 110",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Software Evolution & Analysis",
+                    "events": [
+                        {
+                            "authors": [
+                                "Joshua D. Scarsbrook",
+                                "Mark Utting",
+                                "Ryan K. L. Ko",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:50",
+                            "title": "TypeScript's Evolution: An Analysis of Feature Adoption Over Time",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Tobias Litzenberger",
+                                "Johannes D\u00fcsing",
+                                "Ben Hermann"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:56",
+                            "title": "DGMF: Fast Generation of Comparable, Updatable Dependency Graphs for Software Repositories",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Satrio Adi Rukmono",
+                                "Michel Chaudron"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:02",
+                            "title": "Enabling Analysis and Reasoning on Software Systems through Knowledge Graph Representation",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Simon Schneider",
+                                "Tufan \u00d6zen",
+                                "Michael Chen",
+                                "Riccardo Scandariato"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:08",
+                            "title": "microSecEnD: A Dataset of Security-Enriched Dataflow Diagrams for Microservice Applications",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Alexander Nicholson",
+                                "Quentin Sti\u00e9venart",
+                                "Arash Mazidi",
+                                "Mohammad Ghafari"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "12:14",
+                            "title": "Wasmizer: Curating WebAssembly-driven Projects on GitHub",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Md Tajmilur Rahman"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:26",
+                            "title": "Feature Toggle Usage Patterns : A Case Study on Google Chromium",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        }
+                    ]
+                }
+            ],
+            "13:45 - 14:15": [
+                {
+                    "room": "Meeting Room 109",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "MIP Talk",
+                    "events": [
+                        {
+                            "authors": [
+                                "Kim Herzig",
+                                "Andreas Zeller"
+                            ],
+                            "duration": 30.0,
+                            "start_time": "13:45",
+                            "title": "MIP #2: The Impact of Tangled Code Changes",
+                            "topic": "MIP Award",
+                            "type": "Talk"
+                        }
+                    ]
+                }
+            ],
+            "14:20 - 15:15": [
+                {
+                    "room": "Meeting Room 109",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Language Models",
+                    "events": [
+                        {
+                            "authors": [
+                                "Seif Abukhalaf",
+                                "Mohammad Hamdaqa",
+                                "Foutse Khomh"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "14:20",
+                            "title": "On Codex Prompt Engineering for OCL Generation: An Empirical Study",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Bernd Gruner",
+                                "Tim Sonnekalb",
+                                "Thomas S. Heinze",
+                                "Clemens-Alexander Brust"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "14:32",
+                            "title": "Cross-Domain Evaluation of a Deep Learning-Based Type Inference System",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Tim van Dam",
+                                "Maliheh Izadi",
+                                "Arie van Deursen",
+                                " Pre-print"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "14:44",
+                            "title": "Enriching Source Code with Contextual Data for Code Completion Models: An Empirical Study",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Iman Saberi",
+                                "Fatemeh Hendijani Fard"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "14:56",
+                            "title": "Model-Agnostic Syntactical Information for Pre-Trained Programming Language Models",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        }
+                    ]
+                },
+                {
+                    "room": "Meeting Room 110",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Understanding Defects",
+                    "events": [
+                        {
+                            "authors": [
+                                "Brandon Keller",
+                                "Benjamin S. Meyers",
+                                "Andrew Meneely"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "14:20",
+                            "title": "What Happens When We Fuzz? Investigating OSS-Fuzz Bug History",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Md Abul Kalam Azad",
+                                "Nafees Iqbal",
+                                "Foyzul Hassan",
+                                "Probir Roy",
+                                " Pre-print"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "14:32",
+                            "title": "An Empirical Study of High Performance Computing (HPC) Performance Bugs",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Themistoklis Diamantopoulos",
+                                "Dimitrios-Nikitas Nastos",
+                                "Andreas Symeonidis",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "14:44",
+                            "title": "Semantically-enriched Jira Issue Tracking Data",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Lukas Schulte",
+                                "Anamaria Mojica-Hanke",
+                                "Mario Linares-Vasquez",
+                                "Steffen Herbold"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "14:50",
+                            "title": "An exploratory study of bug introducing changes: what happens when bugs are introduced in open source software?",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Leonhard Applis",
+                                "Annibale Panichella"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "14:56",
+                            "title": "HasBugs - Handpicked Haskell Bugs",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Jueun Heo",
+                                "Seonah Lee"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "15:02",
+                            "title": "An Empirical Study on the Performance of Individual Issue Label Prediction",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        }
+                    ]
+                }
+            ],
+            "15:45 - 16:30": [
+                {
+                    "room": "Meeting Room 109",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Tutorial #1",
+                    "events": [
+                        {
+                            "authors": [
+                                "Nicole Novielli"
+                            ],
+                            "duration": 45.0,
+                            "start_time": "15:45",
+                            "title": "Tutorial: Recognizing Developers' Emotions Using Non-invasive Biometrics Sensors",
+                            "topic": "Tutorials",
+                            "type": "Talk"
+                        }
+                    ]
+                },
+                {
+                    "room": "Meeting Room 110",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Process Automation & DevOps",
+                    "events": [
+                        {
+                            "authors": [
+                                "Hamid Mohayeji Nasrabadi",
+                                "Andrei Agaronian",
+                                "Eleni Constantinou",
+                                "Nicola Zanone",
+                                "Alexander Serebrenik"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "15:45",
+                            "title": "Investigating the Resolution of Vulnerable Dependencies with Dependabot Security UpdatesDistinguished Paper Award",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Jos\u00e9 Diego Saraiva da Silva",
+                                "Daniel Alencar Da Costa",
+                                "Uir\u00e1 Kulesza",
+                                "Gustavo Siz\u00edlio",
+                                "Jos\u00e9 Gameleira Neto",
+                                "Roberta Coelho",
+                                "Mei Nagappan"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "15:57",
+                            "title": "Unveiling the Relationship Between Continuous Integration and Code Coverage",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Pablo Valenzuela-Toledo",
+                                "Alexandre Bergel",
+                                "Timo Kehrer",
+                                "Oscar Nierstrasz"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "16:09",
+                            "title": "EGAD: A Moldable Tool for GitHub Action Analysis",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Arik Friedman",
+                                "Rohan Dhupelia",
+                                "Ben Jackson",
+                                " File Attached"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "16:15",
+                            "title": "The Atlassian Data Lake: consolidating enriched software development data in a single, queryable system",
+                            "topic": "Industry Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Gunnar Kudrjavets",
+                                "Nachiappan Nagappan",
+                                "Ayushi Rastogi",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "16:21",
+                            "title": "Are We Speeding Up or Slowing Down? On Temporal Aspects of Code Velocity",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        }
+                    ]
+                }
+            ],
+            "16:35 - 17:20": [
+                {
+                    "room": "Meeting Room 109",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Ethics & Energy",
+                    "events": [
+                        {
+                            "authors": [
+                                "Abdul Ali Bangash",
+                                "Qasim Jamal",
+                                "Kalvin Eng",
+                                "Karim Ali",
+                                "Abram Hindle",
+                                " Pre-print"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "16:35",
+                            "title": "Energy Consumption Estimation of API-usage in Mobile Apps via Static Analysis",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Shriram Shanbhag",
+                                "Sridhar Chimalakonda",
+                                " Pre-print"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "16:47",
+                            "title": "An Exploratory Study on Energy Consumption of Dataframe Processing Libraries",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Anne Hennig",
+                                "Lukas Schulte",
+                                "Steffen Herbold",
+                                "Oksana Kulyk",
+                                "Peter Mayer"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "16:59",
+                            "title": "Understanding issues related to personal data and data protection in open source projects on GitHub",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Laura Duits",
+                                "Isha Kashyap",
+                                "Joey Bekkink",
+                                "Kousar Aslam",
+                                "Emitz\u00e1 Guzm\u00e1n"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "17:05",
+                            "title": "Whistleblowing and Tech on Twitter",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        }
+                    ]
+                },
+                {
+                    "room": "Meeting Room 110",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Security",
+                    "events": [
+                        {
+                            "authors": [
+                                "Anna-Katharina Wickert",
+                                "Clemens Damke",
+                                "Lars Baumg\u00e4rtner",
+                                "Eyke H\u00fcllermeier",
+                                "Mira Mezini",
+                                " Pre-print",
+                                " File Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "16:35",
+                            "title": "UNGOML: Automated Classification of unsafe Usages in Go",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Gerhard Jungwirth",
+                                "Aakanksha Saha",
+                                "Michael Schr\u00f6der",
+                                "Tobias Fiebig",
+                                "Martina Lindorfer",
+                                "J\u00fcrgen Cito",
+                                " Pre-print"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "16:47",
+                            "title": "Connecting the .dotfiles: Checked-In Secret Exposure with Extra (Lateral Movement) Steps",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Hoang H. Nguyen",
+                                "Nhat-Minh Nguyen",
+                                "Chunyao Xie",
+                                "Zahra Ahmadi",
+                                "Daniel Kudenko",
+                                "Thanh-Nam Doan",
+                                "Lingxiao Jiang",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "16:59",
+                            "title": "MANDO-HGT: Heterogeneous Graph Transformers for Smart Contract Vulnerability Detection",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Setu Kumar Basak",
+                                "Lorenzo Neil",
+                                "Bradley Reaves",
+                                "Laurie Williams",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "17:11",
+                            "title": "SecretBench: A Dataset of Software Secrets",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        }
+                    ]
+                }
+            ],
+            "18:00 - 21:00": [
+                {
+                    "room": "Offsite",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "MSR Dinner at Cargo Hall, South Wharf",
+                    "events": [
+                        {
+                            "authors": [],
+                            "duration": 3.0,
+                            "start_time": "18:00",
+                            "title": "MSR Dinner at Cargo Hall, South Wharf",
+                            "topic": "Technical Papers",
+                            "type": "Meeting"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Tue 16 May 2023": {
+            "09:00 - 09:45": [
+                {
+                    "room": "Meeting Room 109",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Keynote",
+                    "events": [
+                        {
+                            "authors": [
+                                "Baishakhi Ray"
+                            ],
+                            "duration": 45.0,
+                            "start_time": "09:00",
+                            "title": "Towards Code-Aware AI Models for Code",
+                            "topic": "Keynotes",
+                            "type": "Keynote"
+                        }
+                    ]
+                }
+            ],
+            "09:50 - 10:30": [
+                {
+                    "room": "Meeting Room 109",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Tutorial #2",
+                    "events": [
+                        {
+                            "authors": [
+                                "Christoph Gote"
+                            ],
+                            "duration": 40.0,
+                            "start_time": "09:50",
+                            "title": "Tutorial: Mining and Analysing Collaboration in git Repositories with git2net",
+                            "topic": "Tutorials",
+                            "type": "Tutorial"
+                        }
+                    ]
+                },
+                {
+                    "room": "Meeting Room 110",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Mining Challenge",
+                    "events": [
+                        {
+                            "authors": [
+                                "Weijie Sun",
+                                "Samuel Iwuchukwu",
+                                "Abdul Ali Bangash",
+                                "Abram Hindle",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "09:50",
+                            "title": "An Empirical Study to Investigate Collaboration Among Developers in Open Source Software (OSS)",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Arifa Islam Champa",
+                                "Md Fazle Rabbi",
+                                "Minhaz F. Zibran",
+                                "Md Rakibul Islam",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "09:56",
+                            "title": "Insights into Female Contributions in Open-Source Projects",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Piotr Przymus",
+                                "Miko\u0142aj Fejzer",
+                                "Jakub Nar\u0119bski",
+                                "Krzysztof Stencel",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "10:02",
+                            "title": "The Secret Life of CVEs",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Anisha Islam",
+                                "Nipuni Tharushika Hewage",
+                                "Abdul Ali Bangash",
+                                "Abram Hindle",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "10:08",
+                            "title": "Evolution of the Practice of Software Testing in Java Projects",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Oz Kilic",
+                                "Nathaniel Bowness",
+                                "Olga Baysal",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "10:14",
+                            "title": "Keep the Ball Rolling: Analyzing Release Cadence in GitHub Projects",
+                            "topic": "Mining Challenge",
+                            "type": "Talk"
+                        }
+                    ]
+                }
+            ],
+            "11:00 - 11:45": [
+                {
+                    "room": "Meeting Room 109",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Documentation + Q&A II",
+                    "events": [
+                        {
+                            "authors": [
+                                "Dong Wang",
+                                "Tao Xiao",
+                                "Christoph Treude",
+                                "Raula Gaikovina Kula",
+                                "Hideaki Hata",
+                                "Yasutaka Kamei",
+                                " Pre-print"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:00",
+                            "title": "Understanding the Role of Images on Stack Overflow",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Saikat Mondal",
+                                "Masud Rahman",
+                                "Chanchal K. Roy",
+                                " Pre-print"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:12",
+                            "title": "Do Subjectivity and Objectivity Always Agree? A Case Study with Stack Overflow Questions",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Joseph Vargovich",
+                                "Fabio Marcos De Abreu Santos",
+                                "Jacob Penney",
+                                "Marco Gerosa",
+                                "Igor Steinmacher",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:24",
+                            "title": "GiveMeLabeledIssues: An Open Source Issue Recommendation System",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Akhila Sri Manasa Venigalla",
+                                "Sridhar Chimalakonda"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:30",
+                            "title": "DocMine: A Software Documentation-Related Dataset of 950 GitHub Repositories",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Murali Sridharan",
+                                "Leevi Rantala",
+                                "Mika M\u00e4ntyl\u00e4"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:36",
+                            "title": "PENTACET data - 23 Million Code Comments and 500,000 SATD comments",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        }
+                    ]
+                },
+                {
+                    "room": "Meeting Room 110",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Code Smells",
+                    "events": [
+                        {
+                            "authors": [
+                                "Anderson Oliveira",
+                                "Jo\u00e3o Lucas Correia",
+                                "Leonardo Da Silva Sousa",
+                                "Wesley Assun\u00e7\u00e3o",
+                                "Daniel Coutinho",
+                                "Alessandro Garcia",
+                                "Willian Oizumi",
+                                "Caio Barbosa",
+                                "Anderson Uch\u00f4a",
+                                "Juliana Alves Pereira",
+                                " Pre-print"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:00",
+                            "title": "Don't Forget the Exception! Considering Robustness Changes to Identify Design Problems",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "mawenhao ",
+                                "Yaoxiang Yu",
+                                "Xiaoming Ruan",
+                                "Bo Cai"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:12",
+                            "title": "Pre-trained Model Based Feature Envy Detection",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Tom Mashiach",
+                                "Bruno Sotto-Mayor",
+                                "Gal Kaminka",
+                                "Meir Kalech"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:24",
+                            "title": "CLEAN++: Code Smells Extraction for C++",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Himesh Nandani",
+                                "Mootez Saad",
+                                "Tushar Sharma",
+                                " Pre-print",
+                                " File Attached"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:30",
+                            "title": "DACOS-A Manually Annotated Dataset of Code Smells",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Gunnar Kudrjavets",
+                                "Aditya Kumar",
+                                "Ayushi Rastogi",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:36",
+                            "title": "What Warnings Do Engineers Really Fix? The Compiler That Cried Wolf",
+                            "topic": "Industry Track",
+                            "type": "Talk"
+                        }
+                    ]
+                }
+            ],
+            "11:50 - 12:35": [
+                {
+                    "room": "Meeting Room 109",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Development Tools & Practices II",
+                    "events": [
+                        {
+                            "authors": [
+                                "Imam Nur Bani Yusuf",
+                                "Diyanah Binte Abdul Jamal",
+                                "Lingxiao Jiang",
+                                " Pre-print"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:50",
+                            "title": "Automating Arduino Programming: From Hardware Setups to Sample Source Code Generation",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Natarajan Chidambaram",
+                                "Alexandre Decan ",
+                                "Tom Mens"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:02",
+                            "title": "A Dataset of Bot and Human Activities in GitHub",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Morakot Choetkiertikul",
+                                "Apirak Hoonlor",
+                                "Chaiyong Ragkhitwetsagul",
+                                "Siripen Pongpaichet",
+                                "Thanwadee Sunetnanta",
+                                "Tasha Settewong",
+                                "Raula Gaikovina Kula"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:08",
+                            "title": "Mining the Characteristics of Jupyter Notebooks in Data Science Projects",
+                            "topic": "Registered Reports",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Konstantin Grotov",
+                                "Sergey Titov",
+                                "Alexandr Suhinin",
+                                "Yaroslav Golubev",
+                                "Timofey Bryksin",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:14",
+                            "title": "Optimizing Duplicate Size Thresholds in IDEs",
+                            "topic": "Industry Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Chao Ni",
+                                "xiaodanxu ",
+                                "Kaiwen Yang",
+                                "David Lo"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "12:20",
+                            "title": "Boosting Just-in-Time Defect Prediction with Specific Features of C Programming Languages in Code Changes",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        }
+                    ]
+                },
+                {
+                    "room": "Meeting Room 110",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Software Libraries & Ecosystems",
+                    "events": [
+                        {
+                            "authors": [
+                                "Donald Pinckney",
+                                "Federico Cassano",
+                                "Arjun Guha",
+                                "Jonathan Bell",
+                                " Pre-print"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:50",
+                            "title": "A Large Scale Analysis of Semantic Versioning in NPM",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Akira Mori",
+                                "Masatomo Hashimoto"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "12:02",
+                            "title": "Phylogenetic Analysis of Reticulate Software Evolution",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Mohayeminul Islam",
+                                "Ajay Jha",
+                                "Sarah Nadi",
+                                "Ildar Akhmetov"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:14",
+                            "title": "PyMigBench: A Benchmark for Python Library Migration",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Sophia Vargas"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:20",
+                            "title": "Determining Open Source Project Boundaries",
+                            "topic": "Industry Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Kanchanok Kannee",
+                                "Raula Gaikovina Kula",
+                                "Supatsara Wattanakriengkrai",
+                                "Kenichi Matsumoto",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:26",
+                            "title": "Intertwining Communities: Exploring Libraries that Cross Software Ecosystems",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        }
+                    ]
+                }
+            ],
+            "13:45 - 14:30": [
+                {
+                    "room": "Meeting Room 109",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Tutorial #3",
+                    "events": [
+                        {
+                            "authors": [
+                                "Tim Menzies",
+                                " Pre-print"
+                            ],
+                            "duration": 45.0,
+                            "start_time": "13:45",
+                            "title": "Tutorial: Beyond the leading edge. What else is out there?",
+                            "topic": "Tutorials",
+                            "type": "Tutorial"
+                        }
+                    ]
+                },
+                {
+                    "room": "Meeting Room 110",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Software Quality",
+                    "events": [
+                        {
+                            "authors": [
+                                "Ahmed Zerouali",
+                                "Ruben Opdebeeck",
+                                "Coen De Roover",
+                                " Pre-print"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "13:45",
+                            "title": "Helm Charts for Kubernetes Applications: Evolution, Outdatedness and Security Risks",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ruben Opdebeeck",
+                                "Ahmed Zerouali",
+                                "Coen De Roover",
+                                " Pre-print"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "13:57",
+                            "title": "Control and Data Flow in Security Smell Detection for Infrastructure as Code: Is It Worth the Effort?",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ali Keshk",
+                                "Robert Dyer",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "14:09",
+                            "title": "Method Chaining Redux: An Empirical Study of Method Chaining in Java, Kotlin, and Python",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Emily Bui",
+                                "Henrique Rocha"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "14:21",
+                            "title": "Snapshot Testing Dataset",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        }
+                    ]
+                }
+            ],
+            "14:35 - 15:15": [
+                {
+                    "room": "Meeting Room 109",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Defect Prediction",
+                    "events": [
+                        {
+                            "authors": [
+                                "Kevin Jesse",
+                                "Toufique Ahmed",
+                                "Prem Devanbu",
+                                "Emily Morgan",
+                                " Pre-print"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "14:35",
+                            "title": "Large Language Models and Simple, Stupid Bugs",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Feifei Niu",
+                                "Christoph Mayr-Dorn",
+                                "Wesley Assun\u00e7\u00e3o",
+                                "Liguo Huang",
+                                "Jidong Ge",
+                                "Bin Luo",
+                                "Alexander Egyed",
+                                " Pre-print",
+                                " File Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "14:47",
+                            "title": "The ABLoTS Approach for Bug Localization: is it replicable and generalizable?Distinguished Paper Award",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Catherine Tony",
+                                "Markus Mutas",
+                                "Nicol\u00e1s E. D\u00edaz Ferreyra",
+                                "Riccardo Scandariato",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "14:59",
+                            "title": "LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluations",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Parvez Mahbub",
+                                "Ohiduzzaman Shuvo",
+                                "Masud Rahman",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "15:05",
+                            "title": "Defectors: A Large, Diverse Python Dataset for Defect Prediction",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        }
+                    ]
+                },
+                {
+                    "room": "Meeting Room 110",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Human Aspects",
+                    "events": [
+                        {
+                            "authors": [
+                                "Mojtaba Shahin",
+                                "Mansooreh Zahedi",
+                                "Hourieh Khalajzadeh",
+                                "Ali Rezaei Nasab",
+                                " Pre-print"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "14:35",
+                            "title": "A Study of Gender Discussions in Mobile Apps",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Fabio Marcos De Abreu Santos",
+                                "Jacob Penney",
+                                "Jo\u00e3o Felipe Pimentel",
+                                "Igor Wiese",
+                                "Igor Steinmacher",
+                                "Marco Gerosa",
+                                " Pre-print"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "14:47",
+                            "title": "Tell Me Who Are You Talking to and I Will Tell You What Issues Need Your Skills",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Christoph Treude",
+                                "Hideaki Hata",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "14:59",
+                            "title": "She Elicits Requirements and He Tests: Software Engineering Gender Bias in Large Language Models",
+                            "topic": "Technical Papers",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Yibo Yan",
+                                "Seth Frey",
+                                "Amy Zhang",
+                                "Vladimir Filkov",
+                                "Likang Yin",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "15:05",
+                            "title": "GitHub OSS Governance File Dataset",
+                            "topic": "Data and Tool Showcase Track",
+                            "type": "Talk"
+                        }
+                    ]
+                }
+            ],
+            "15:45 - 17:30": [
+                {
+                    "room": "Meeting Room 109",
+                    "chair": "Chair(s): Patanamon Thongtanunam The University of Melbourne",
+                    "session_title": "Closing Session",
+                    "events": [
+                        {
+                            "authors": [
+                                "Eman Abdullah AlOmar"
+                            ],
+                            "duration": 20.0,
+                            "start_time": "15:45",
+                            "title": "MSR 2023 Doctoral Research Award",
+                            "topic": "MSR Awards",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Minghui Zhou"
+                            ],
+                            "duration": 30.0,
+                            "start_time": "16:05",
+                            "title": "Open Source Software Digital Sociology: Quantifying and Understanding Large Complex Open Source Ecosystems",
+                            "topic": "Vision and Reflection",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "David Lo"
+                            ],
+                            "duration": 30.0,
+                            "start_time": "16:35",
+                            "title": "Human-Centered AI for SE: Reflection and Vision",
+                            "topic": "Vision and Reflection",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Emad Shihab"
+                            ],
+                            "duration": 25.0,
+                            "start_time": "17:05",
+                            "title": "Closing",
+                            "topic": "MSR Awards",
+                            "type": "Day closing"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

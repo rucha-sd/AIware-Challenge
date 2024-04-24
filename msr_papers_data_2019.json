@@ -1,0 +1,1559 @@
+{
+    "2019": {
+        "Sun 26 May 2019": {
+            "08:45 - 09:05": [
+                {
+                    "room": "Place du Canada",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Welcome + Tribute to Ric Holt",
+                    "events": [
+                        {
+                            "authors": [],
+                            "duration": 10.0,
+                            "start_time": "08:45",
+                            "title": "Tribute to Ric Holt",
+                            "topic": "MSR 2019 Plenary",
+                            "type": "Day opening"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 10.0,
+                            "start_time": "08:55",
+                            "title": "Welcome",
+                            "topic": "MSR 2019 Plenary",
+                            "type": "Day opening"
+                        }
+                    ]
+                }
+            ],
+            "09:05 - 10:30": [
+                {
+                    "room": "Place du Canada",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Keynote + Q&A + Discussion",
+                    "events": [
+                        {
+                            "authors": [
+                                "Robert DeLine"
+                            ],
+                            "duration": 45.0,
+                            "start_time": "09:05",
+                            "title": "Keynote: We Won! Now What?",
+                            "topic": "MSR 2019 Keynote",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 10.0,
+                            "start_time": "09:50",
+                            "title": "Q&A for Keynote",
+                            "topic": "MSR 2019 Keynote",
+                            "type": ""
+                        },
+                        {
+                            "authors": [
+                                "Thomas Zimmermann",
+                                "Alexander Serebrenik"
+                            ],
+                            "duration": 30.0,
+                            "start_time": "10:00",
+                            "title": "Discussion: Ethical MSR",
+                            "topic": "MSR 2019 Keynote",
+                            "type": ""
+                        }
+                    ]
+                }
+            ],
+            "10:30 - 11:00": [
+                {
+                    "room": "Foyer",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Break",
+                    "events": []
+                }
+            ],
+            "11:00 - 11:45": [
+                {
+                    "room": "Centre-Ville",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Session II: Defect Prediction and Testing (Part 1)",
+                    "events": [
+                        {
+                            "authors": [
+                                "Thong Hoang",
+                                "Hoa Khanh Dam",
+                                "Yasutaka Kamei",
+                                "David Lo",
+                                "Naoyasu Ubayashi"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "11:00",
+                            "title": "DeepJIT: An End-To-End Deep LearningFramework for Just-In-Time Defect Prediction",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Hoa Khanh Dam",
+                                "Trang Pham",
+                                "Shien Wee Ng",
+                                "Truyen Tran",
+                                "John Grundy",
+                                "Aditya Ghose",
+                                "Taeksu Kim",
+                                "Chul-Joo Kim"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "11:16",
+                            "title": "Lessons learned from using a deep tree-based model for software defect prediction in practice",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Max Kiehn",
+                                "Xiangyi Pan",
+                                "Fatih Camci"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:32",
+                            "title": "Empirical study in using version histories for change risk classification",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Aalok Ahluwalia",
+                                "Davide Falessi",
+                                "Massimiliano Di Penta"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:39",
+                            "title": "Snoring: a Noise in Defect Prediction Datasets",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Short-paper"
+                        }
+                    ]
+                },
+                {
+                    "room": "Place du Canada",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Session I: Representations for Mining (Part 1)",
+                    "events": [
+                        {
+                            "authors": [
+                                "Shayan Akbar",
+                                "Avinash Kak",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "11:00",
+                            "title": "SCOR: Source Code Retrieval With Semantics and Order",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Vladimir Kovalenko",
+                                "Egor Bogomolov",
+                                "Timofey Bryksin",
+                                "Alberto Bacchelli",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:16",
+                            "title": "PathMiner : A Library for Mining of Path-Based Representations of Code",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Bart Theeten",
+                                "Frederik Vandeputte",
+                                "Tom Van Cutsem",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "11:23",
+                            "title": "Import2vec: learning embeddings for software libraries",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Vasiliki Efstathiou",
+                                "Diomidis Spinellis",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:39",
+                            "title": "Semantic Source Code Models Using Identifier Embeddings",
+                            "topic": "MSR 2019 Data Showcase",
+                            "type": "Talk"
+                        }
+                    ]
+                }
+            ],
+            "11:45 - 11:55": [
+                {
+                    "room": "Foyer",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Mini-break",
+                    "events": []
+                },
+                {
+                    "room": "Foyer",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Mini-break",
+                    "events": []
+                }
+            ],
+            "11:55 - 12:30": [
+                {
+                    "room": "Centre-Ville",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Session IV: Defect Prediction and Testing (Part 2)",
+                    "events": [
+                        {
+                            "authors": [
+                                "Aida Radu",
+                                "Sarah Nadi",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "11:55",
+                            "title": "A Dataset of Non-Functional Bugs",
+                            "topic": "MSR 2019 Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Adithya Raghuraman",
+                                "Truong Ho-Quang",
+                                "Michel Chaudron",
+                                "Alexander Serebrenik",
+                                "Bogdan Vasilescu",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:01",
+                            "title": "Does UML Modeling Associate with Higher Software Quality in Open-Source Software?",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Stanislav Chren",
+                                "Radoslav Micko",
+                                "Barbora Buhnova",
+                                "Bruno Rossi",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:07",
+                            "title": "STRAIT: A Tool for Automated Software Reliability Growth Analysis",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Dirk Beyer",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:13",
+                            "title": "A Data Set of Program Invariants and Error Paths",
+                            "topic": "MSR 2019 Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Hongyu Zhai",
+                                "Casey Casalnuovo",
+                                "Prem Devanbu"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:19",
+                            "title": "Test Coverage in Python Programs",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Domenico Serra",
+                                "Giovanni Grano",
+                                "Fabio Palomba",
+                                "Filomena Ferrucci",
+                                "Harald Gall",
+                                "Alberto Bacchelli",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:25",
+                            "title": "On the Effectiveness of Manual and Automatic Unit Test Generation: Ten Years Later",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Short-paper"
+                        }
+                    ]
+                },
+                {
+                    "room": "Place du Canada",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Session III: Representations for Mining (Part 2)",
+                    "events": [
+                        {
+                            "authors": [
+                                "Eeshita Biswas",
+                                "K. Vijay-Shanker",
+                                "Lori Pollock",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "11:55",
+                            "title": "Exploring Word Embedding Techniques to Improve Sentiment Analysis of Software Engineering Texts",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Musfiqur Rahman",
+                                "Peter Rigby",
+                                "Dharani Palani",
+                                "Tien N. Nguyen"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:10",
+                            "title": "Cleaning StackOverflow for Machine Translation",
+                            "topic": "MSR 2019 Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Christoph Treude",
+                                "Markus Wagner ",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "12:16",
+                            "title": "Predicting Good Configurations for GitHub and Stack Overflow Topic Models",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        }
+                    ]
+                }
+            ],
+            "12:30 - 13:50": [
+                {
+                    "room": "Foyer",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Lunch",
+                    "events": []
+                }
+            ],
+            "13:50 - 14:35": [
+                {
+                    "room": "Centre-Ville",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Tutorial I",
+                    "events": [
+                        {
+                            "authors": [
+                                "Kla Tantithamthavorn"
+                            ],
+                            "duration": 45.0,
+                            "start_time": "13:50",
+                            "title": "Software Analytics in Action: A Hands-on Tutorial on Analyzing and Modelling Software Data",
+                            "topic": "MSR 2019 Education",
+                            "type": "Tutorial"
+                        }
+                    ]
+                },
+                {
+                    "room": "Place du Canada",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Discussion: Data vs. Theory-driven Research",
+                    "events": []
+                }
+            ],
+            "14:35 - 14:45": [
+                {
+                    "room": "Foyer",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Mini-break",
+                    "events": []
+                },
+                {
+                    "room": "Foyer",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Mini-break",
+                    "events": []
+                }
+            ],
+            "14:45 - 15:30": [
+                {
+                    "room": "Centre-Ville",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Session VI: Energy and Economics",
+                    "events": [
+                        {
+                            "authors": [
+                                "Wellington de Oliveira J\u00fanior",
+                                "Renato Santos",
+                                "Fernando Castor",
+                                "Jos\u00e9 Benito Fernandes De Ara\u00fajo Neto",
+                                "Gustavo Pinto",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "14:45",
+                            "title": "Recommending Energy-Efficient Java Collections",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Rui Pereira",
+                                "Marco Couto",
+                                "Jo\u00e3o Paulo Fernandes",
+                                "Bruno Cabral",
+                                "Hugo Matalonga",
+                                "Sim\u00e3o Melo de Sousa",
+                                "Fernando Castor",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "15:01",
+                            "title": "GreenHub Farmer: Real-world data for Android Energy Mining",
+                            "topic": "MSR 2019 Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Rui Rua",
+                                "Marco Couto",
+                                "Jo\u00e3o Saraiva"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "15:08",
+                            "title": "GreenSource: a large-scale collection of Android code, tests and energy metrics",
+                            "topic": "MSR 2019 Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Asher Trockman",
+                                "Rijnard van Tonder",
+                                "Bogdan Vasilescu",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "15:15",
+                            "title": "Striking Gold in Software Repositories? An Econometric Study of Cryptocurrencies on GitHub",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Rijnard van Tonder",
+                                "Asher Trockman",
+                                "Claire Le Goues"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "15:22",
+                            "title": "Panel Data of Cryptocurrency Development Activity on GitHub",
+                            "topic": "MSR 2019 Data Showcase",
+                            "type": "Talk"
+                        }
+                    ]
+                },
+                {
+                    "room": "Place du Canada",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Session V: Large-Scale Mining",
+                    "events": [
+                        {
+                            "authors": [
+                                "Dimitris Mitropoulos",
+                                "Panos Louridas",
+                                "Vitalis Salis",
+                                "Diomidis Spinellis",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "14:45",
+                            "title": "Time Present and Time Past: Analyzing the Evolution of JavaScript Code in the Wild",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Antoine Pietri",
+                                "Diomidis Spinellis",
+                                "Stefano Zacchiroli",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "15:01",
+                            "title": "The Software Heritage Graph Dataset: public software development under one roof",
+                            "topic": "MSR 2019 Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Yuxing Ma",
+                                "Christopher Bogart",
+                                "Sadika Amreen",
+                                "Russell Zaretzki",
+                                "Audris Mockus"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "15:08",
+                            "title": "World of Code: An Infrastructure for Mining the Universe of Open Source VCS Data",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Dimitris Kolovos",
+                                "Patrick Neubauer",
+                                "Konstantinos Barmpis",
+                                "Nicholas Matragkas",
+                                "Richard Paige",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "15:24",
+                            "title": "Crossflow: A Framework for Distributed Mining of Software Repositories",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Short-paper"
+                        }
+                    ]
+                }
+            ],
+            "15:30 - 16:00": [
+                {
+                    "room": "Foyer",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Break",
+                    "events": []
+                },
+                {
+                    "room": "Foyer",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Break",
+                    "events": []
+                }
+            ],
+            "16:00 - 18:00": [
+                {
+                    "room": "Place du Canada",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Mining Challenge presentations",
+                    "events": [
+                        {
+                            "authors": [
+                                "Sebastian Baltes",
+                                "Christoph Treude",
+                                "Stephan Diehl",
+                                " Pre-print"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "16:00",
+                            "title": "SOTorrent: Studying the Origin, Evolution, and Usage of Stack Overflow Code Snippets",
+                            "topic": "MSR 2019 Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Uriel Ferreira Campos",
+                                "Guilherme Smethurst",
+                                "Joa\u0303o Pedro Moraes",
+                                "Rodrigo Bonif\u00e1cio",
+                                "Gustavo Pinto",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "16:10",
+                            "title": "Mining Rule Violations in JavaScript Code Snippets",
+                            "topic": "MSR 2019 Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Akond Rahman",
+                                "Effat Farhana",
+                                "Nasif Imtiaz",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "16:17",
+                            "title": "Snakes in Paradise?: Insecure Python-related Coding Practices in Stack Overflow",
+                            "topic": "MSR 2019 Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Jens Dietrich",
+                                "Markus Luczak-Roesch",
+                                "Elroy Dalefield",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "16:24",
+                            "title": "Man vs Machine -- A Study into language identification of Stackoverflow code snippets",
+                            "topic": "MSR 2019 Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Nikolaos Bafatakis",
+                                "Niels Boecker",
+                                "Wenjie Boon",
+                                "Martin Cabello Salazar",
+                                "Jens Krinke",
+                                "Gazi Oznacar",
+                                "Robert White",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "16:31",
+                            "title": "Python Coding Style Compliance on Stack Overflow",
+                            "topic": "MSR 2019 Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Themistoklis Diamantopoulos",
+                                "Maria-Ioanna Sifaki",
+                                "Andreas Symeonidis",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "16:38",
+                            "title": "Towards Mining Answer Edits to Extract Evolution Patterns in Stack Overflow",
+                            "topic": "MSR 2019 Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Abhishek Soni",
+                                "Sarah Nadi",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "16:45",
+                            "title": "Analyzing Comment-induced Updates on Stack Overflow",
+                            "topic": "MSR 2019 Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Xianhao Jin",
+                                "Francisco Servant",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "16:52",
+                            "title": "What Edits Are Done on Highly Answered Stack Overflow Questions? An Empirical Study",
+                            "topic": "MSR 2019 Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Durham Abric",
+                                "Oliver Clark",
+                                "Matthew Caminiti",
+                                "Keheliya Gallaba",
+                                "Shane McIntosh",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "16:59",
+                            "title": "Can Duplicate Posts on Stack Overflow Benefit the Software Development Community?",
+                            "topic": "MSR 2019 Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Saraj Singh Manes",
+                                "Olga Baysal",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "17:06",
+                            "title": "How Often and What StackOverflow Posts Do Developers Reference in Their GitHub Projects?",
+                            "topic": "MSR 2019 Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Manziba Nishi",
+                                "Agnieszka Ciborowska ",
+                                "Kostadin Damevski",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "17:13",
+                            "title": "Characterizing Duplicate Code Snippets between Stack Overflow and Tutorials",
+                            "topic": "MSR 2019 Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Nasif Imtiaz",
+                                "Akond Rahman",
+                                "Effat Farhana",
+                                "Laurie Williams",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "17:20",
+                            "title": "Challenges with Responding to Static Analysis Tool Alerts",
+                            "topic": "MSR 2019 Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Mashal Ahmad",
+                                "Mel \u00d3 Cinn\u00e9ide",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "17:27",
+                            "title": "Impact of stack overflow code snippets on software cohesion: a preliminary study",
+                            "topic": "MSR 2019 Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Alan Bandeira",
+                                "Carlos Filho",
+                                "Matheus Paixao",
+                                "Paulo Maia",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "17:34",
+                            "title": "We Need to Talk about Microservices: an Analysis from the Discussions on StackOverflow",
+                            "topic": "MSR 2019 Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Hareem-e-Sahar ",
+                                "Abdul Ali Bangash",
+                                "Alexander William Wong",
+                                "Shaiful Chowdhury",
+                                "Abram Hindle",
+                                "Karim Ali"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "17:41",
+                            "title": "What do developers know about machine learning: a study of ML discussions on StackOverflow",
+                            "topic": "MSR 2019 Mining Challenge",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [],
+                            "duration": 12.0,
+                            "start_time": "17:48",
+                            "title": "Recap + voting",
+                            "topic": "MSR 2019 Mining Challenge",
+                            "type": ""
+                        }
+                    ]
+                }
+            ],
+            "18:30 - 22:00": [
+                {
+                    "room": "Forum de Montreal Games Centre",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Banquet dinner",
+                    "events": []
+                }
+            ]
+        },
+        "Mon 27 May 2019": {
+            "08:45 - 09:30": [
+                {
+                    "room": "Centre-Ville",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Session II: Automatic Summarization",
+                    "events": [
+                        {
+                            "authors": [
+                                "Qin Liu",
+                                "Zihe Liu",
+                                "Hongming Zhu",
+                                "Hongfei Fan",
+                                "Bowen Du",
+                                "Yu Qian"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "08:45",
+                            "title": "Generating Commit Messages from Diffs using Pointer-generator Network",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Anwar Alqaimi",
+                                "Patanamon Thongtanunam",
+                                "Christoph Treude",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "09:00",
+                            "title": "Automatically Generating Documentation for Lambda Expressions in Java",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Shaohua Wang",
+                                "Nhathai Phan",
+                                "Yan Wang",
+                                "Yong Zhao"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "09:15",
+                            "title": "Extracting API Tips from Developer Question and Answer Websites",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        }
+                    ]
+                },
+                {
+                    "room": "Place du Canada",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Session I: APIs & Dependencies (Part 1)",
+                    "events": [
+                        {
+                            "authors": [
+                                "Sven Amann",
+                                "Hoan Nguyen",
+                                "Sarah Nadi",
+                                "Tien N. Nguyen",
+                                "Mira Mezini",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "08:45",
+                            "title": "Investigating Next-Steps in Static API-Misuse Detection",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Jo\u00e3o Eduardo Montandon",
+                                "Luciana L. Silva",
+                                "Marco Tulio Valente",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "09:00",
+                            "title": "Identifying Experts in Software Libraries and Frameworks among GitHub Users",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Simone Scalabrino",
+                                "Gabriele Bavota",
+                                "Mario Linares-Vasquez",
+                                "Michele Lanza",
+                                "Rocco Oliveto"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "09:15",
+                            "title": "Data-Driven Solutions to Detect API Compatibility Issues in Android: An Empirical Study",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        }
+                    ]
+                }
+            ],
+            "09:30 - 09:40": [
+                {
+                    "room": "Foyer",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Mini-break",
+                    "events": []
+                },
+                {
+                    "room": "Foyer",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Mini-break",
+                    "events": []
+                }
+            ],
+            "09:40 - 10:30": [
+                {
+                    "room": "Centre-Ville",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Session IV: Security",
+                    "events": [
+                        {
+                            "authors": [
+                                "Triet Le Huynh Minh",
+                                "Bushra Sabir",
+                                "Muhammad Ali Babar"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "09:40",
+                            "title": "Automated Software Vulnerability Assessment with Concept Drift",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Serena Elisa Ponta",
+                                "Henrik Plate",
+                                "Antonino Sabetta",
+                                "Michele Bezzi",
+                                "C\u00e9dric Dangremont"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "09:55",
+                            "title": "A Manually-Curated Dataset of Fixes to Vulnerabilities of Open-Source Software",
+                            "topic": "MSR 2019 Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Jun Gao",
+                                "Pingfan Kong",
+                                "Li Li",
+                                "Tegawend\u00e9 F. Bissyand\u00e9",
+                                "Jacques Klein"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "10:01",
+                            "title": "Negative Results on Mining Crypto-API Usage Rules in Android Apps",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Anna-Katharina Wickert",
+                                "Michael Reif",
+                                "Michael Eichberg",
+                                "Anam Dodhy",
+                                "Mira Mezini",
+                                " Link to publication",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "10:16",
+                            "title": "A Dataset of Parametric Cryptographic Misuses",
+                            "topic": "MSR 2019 Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Haoyu Wang",
+                                "Junjun Si",
+                                "Hao Li ",
+                                "Yao Guo"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "10:22",
+                            "title": "RmvDroid: Towards A Reliable Android Malware Dataset with App Metadata",
+                            "topic": "MSR 2019 Data Showcase",
+                            "type": "Talk"
+                        }
+                    ]
+                },
+                {
+                    "room": "Place du Canada",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Session III: APIs & Dependencies (Part 2)",
+                    "events": [
+                        {
+                            "authors": [
+                                "Amine Benelallam",
+                                "Nicolas Harrand",
+                                "C\u00e9sar Soto-Valero",
+                                "Benoit Baudry",
+                                "Olivier Barais",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "09:40",
+                            "title": "The Maven Dependency Graph: a Temporal Graph-based Representation of Maven Centra",
+                            "topic": "MSR 2019 Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "C\u00e9sar Soto-Valero",
+                                "Amine Benelallam",
+                                "Nicolas Harrand",
+                                "Olivier Barais",
+                                "Benoit Baudry",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "09:46",
+                            "title": "The Emergence of Software Diversity in Maven Central",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Jens Dietrich",
+                                "David J. Pearce",
+                                "Jacob Stringer",
+                                "Amjed Tahir",
+                                "Kelly Blincoe",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "10:01",
+                            "title": "Dependency Versioning in the Wild",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Anderson Severo de Matos",
+                                "Jo\u00e3o Bosco Ferreira Filho",
+                                "Lincoln Souza Rocha"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "10:16",
+                            "title": "Splitting APIs: An Exploratory Study of Software Unbundling",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        }
+                    ]
+                }
+            ],
+            "10:30 - 11:00": [
+                {
+                    "room": "Foyer",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Break",
+                    "events": []
+                },
+                {
+                    "room": "Foyer",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Break",
+                    "events": []
+                }
+            ],
+            "11:00 - 11:45": [
+                {
+                    "room": "Centre-Ville",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Session VI: Software Quality (part 1)",
+                    "events": [
+                        {
+                            "authors": [
+                                "Sarra Habchi",
+                                "Romain Rouvoy",
+                                "Naouel Moha"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "11:00",
+                            "title": "The Rise of Android Code Smells: Who Is to Blame?",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Jonas De Bleser",
+                                "Dario Di Nucci",
+                                "Coen De Roover",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "11:15",
+                            "title": "Assessing Diffusion and Perception of Test Smells in Scala Projects",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Vadim Markovtsev",
+                                "Hugo Mougard",
+                                "Waren Long",
+                                "Egor Bulychev",
+                                "Konstantin Slavnov",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "11:30",
+                            "title": "style-analyzer: fixing code style inconsistencies with interpretable unsupervised algorithms",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        }
+                    ]
+                },
+                {
+                    "room": "Place du Canada",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Session V: Collaboration & Communication (Part 1)",
+                    "events": [
+                        {
+                            "authors": [
+                                "Jiaxin Zhu",
+                                "Jun Wei"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "11:00",
+                            "title": "An Empirical Study of Multiple Names and Email Addresses in OSS Version Control Repositories",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Reed Milewicz",
+                                "Gustavo Pinto",
+                                "Paige Rodeghero ",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "11:15",
+                            "title": "Characterizing the Roles of Contributors in Open-source Scientific Software Projects",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Christoph Gote",
+                                "Ingo Scholtes",
+                                "Frank Schweitzer",
+                                " DOI",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "11:30",
+                            "title": "git2net - Mining Time-Stamped Co-Editing Networks from Large git Repositories",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        }
+                    ]
+                }
+            ],
+            "11:45 - 11:55": [
+                {
+                    "room": "Foyer",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Mini-break",
+                    "events": []
+                },
+                {
+                    "room": "Foyer",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Mini-break",
+                    "events": []
+                }
+            ],
+            "11:55 - 12:30": [
+                {
+                    "room": "Centre-Ville",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Session VIII: Software Quality (part 2)",
+                    "events": [
+                        {
+                            "authors": [
+                                "Jo\u00e3o Felipe Pimentel",
+                                "Leonardo Murta",
+                                "Vanessa Braganholo",
+                                "Juliana Freire",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "11:55",
+                            "title": "A Large-scale Study about Quality and Reproducibility of Jupyter Notebooks",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Daniel Perez",
+                                "Shigeru Chiba",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "12:10",
+                            "title": "Cross-language clone detection by learning over abstract syntax trees",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Marius Kamp",
+                                "Patrick Kreutzer",
+                                "Michael Philippsen"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:25",
+                            "title": "SeSaMe: A Data Set of Semantically Similar Java Methods",
+                            "topic": "MSR 2019 Data Showcase",
+                            "type": "Talk"
+                        }
+                    ]
+                },
+                {
+                    "room": "Place du Canada",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Session VII: Collaboration & Communication (Part 2)",
+                    "events": [
+                        {
+                            "authors": [
+                                "Saikat Mondal",
+                                "Masud Rahman",
+                                "Chanchal K. Roy",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "11:55",
+                            "title": "Can Issues Reported at Stack Overflow Questions be Reproduced? An Exploratory Study",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Preetha Chatterjee",
+                                "Kostadin Damevski",
+                                "Lori Pollock",
+                                "Vinay Augustine",
+                                "Nicholas A. Kraft",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "12:10",
+                            "title": "Exploratory Study of Slack Q&A Chats as a Mining Source for Software Engineering Tools",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Junichi Hayashi",
+                                "Yoshiki Higo",
+                                "Shinsuke Matsumoto",
+                                "Shinji Kusumoto",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "12:25",
+                            "title": "Impacts of Daylight Saving Time on Software Development",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Short-paper"
+                        }
+                    ]
+                }
+            ],
+            "12:30 - 13:50": [
+                {
+                    "room": "Foyer",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Lunch",
+                    "events": []
+                }
+            ],
+            "13:50 - 14:35": [
+                {
+                    "room": "Centre-Ville",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Tutorial II",
+                    "events": [
+                        {
+                            "authors": [
+                                "Christoph Treude"
+                            ],
+                            "duration": 45.0,
+                            "start_time": "13:50",
+                            "title": "Qualitative Data Analysis in Software Engineering: A Hands-on Tutorial",
+                            "topic": "MSR 2019 Education",
+                            "type": "Tutorial"
+                        }
+                    ]
+                },
+                {
+                    "room": "Place du Canada",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Discussion: SE for AI for SE",
+                    "events": []
+                }
+            ],
+            "14:35 - 14:45": [
+                {
+                    "room": "Foyer",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Mini-break",
+                    "events": []
+                },
+                {
+                    "room": "Foyer",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Mini-break",
+                    "events": []
+                }
+            ],
+            "14:45 - 15:30": [
+                {
+                    "room": "Centre-Ville",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Session X: Building on Data",
+                    "events": [
+                        {
+                            "authors": [
+                                "Zoe Kotti",
+                                "Diomidis Spinellis",
+                                " Pre-print"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "14:45",
+                            "title": "Standing on Shoulders or Feet? The Usage of the MSR Data Papers",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Sumon Biswas",
+                                "Md Johirul Islam",
+                                "Yijia Huang",
+                                "Hridesh Rajan",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "15:00",
+                            "title": "Boa Meets Python: A Boa Dataset of Data Science Software in Python Language",
+                            "topic": "MSR 2019 Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Oliviero Riganelli",
+                                "Marco Mobilio",
+                                "Daniela Micucci",
+                                "Leonardo Mariani"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "15:06",
+                            "title": "A Benchmark of Data Loss Bugs for Android Apps",
+                            "topic": "MSR 2019 Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Saket Joshi",
+                                "Sridhar Chimalakonda"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "15:12",
+                            "title": "RapidRelease - A Dataset of Projects and Issues on GitHub with Rapid Release",
+                            "topic": "MSR 2019 Data Showcase",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Ahmed Zerouali",
+                                "Valerio Cosentino",
+                                "Jesus M. Gonzalez-Barahona",
+                                "Gregorio Robles",
+                                "Tom Mens",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "15:18",
+                            "title": "A Tool to Analyze Packages in Software Containers",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Gian Luca Scoccia",
+                                "Anthony Peruma",
+                                "Virginia Pujols",
+                                "Ben Christians",
+                                "Daniel Krutz"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "15:24",
+                            "title": "An Empirical History of Permission Requests and Mistakes in Open Source Android Apps",
+                            "topic": "MSR 2019 Data Showcase",
+                            "type": "Talk"
+                        }
+                    ]
+                },
+                {
+                    "room": "Place du Canada",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Session IX: Traceability",
+                    "events": [
+                        {
+                            "authors": [
+                                "Aidan Z.H. Yang",
+                                "Daniel Alencar Da Costa ",
+                                "Ying Zou"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "14:45",
+                            "title": "Predicting Co-Changes between Functionality Specifications and Source Code in Behavior Driven Development",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Full-paper"
+                        },
+                        {
+                            "authors": [
+                                "Daan Schipper",
+                                "Maur\u00edcio Aniche",
+                                "Arie van Deursen",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "15:01",
+                            "title": "Tracing Back Log Data to its Log Statement: From Research to Practice",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Junnosuke Matsumoto",
+                                "Yoshiki Higo",
+                                "Shinji Kusumoto",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "15:08",
+                            "title": "Beyond GumTree: A hybrid approach to generate edit scripts",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Ryosuke Funaki",
+                                "Shinpei Hayashi",
+                                "Motoshi Saeki",
+                                " Pre-print"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "15:15",
+                            "title": "The Impact of Systematic Edits in History Slicing",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Short-paper"
+                        },
+                        {
+                            "authors": [
+                                "Moein Owhadi-Kareshk",
+                                "Sarah Nadi"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "15:22",
+                            "title": "Scalable Software Merging Studies with MERGANSER",
+                            "topic": "MSR 2019 Technical Papers",
+                            "type": "Short-paper"
+                        }
+                    ]
+                }
+            ],
+            "15:30 - 16:00": [
+                {
+                    "room": "Foyer",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Break",
+                    "events": []
+                },
+                {
+                    "room": "Foyer",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Break",
+                    "events": []
+                }
+            ],
+            "16:00 - 18:00": [
+                {
+                    "room": "Place du Canada",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "Awards + Closing",
+                    "events": [
+                        {
+                            "authors": [],
+                            "duration": 25.0,
+                            "start_time": "16:00",
+                            "title": "Award Announcements",
+                            "topic": "MSR 2019 Plenary",
+                            "type": "Awards"
+                        },
+                        {
+                            "authors": [
+                                "Katsuro Inoue"
+                            ],
+                            "duration": 20.0,
+                            "start_time": "16:25",
+                            "title": "MSR Foundational Contribution Award",
+                            "topic": "MSR 2019 Plenary",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Christian Bird",
+                                "Peter Rigby",
+                                "Earl T. Barr",
+                                "Daniel M. German"
+                            ],
+                            "duration": 20.0,
+                            "start_time": "16:45",
+                            "title": "MSR 2019 Most Influential Paper Award",
+                            "topic": "MSR 2019 Plenary",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Abram Hindle",
+                                "Mei Nagappan"
+                            ],
+                            "duration": 45.0,
+                            "start_time": "17:05",
+                            "title": "Discussion: Future of the MSR conference",
+                            "topic": "MSR 2019 Plenary",
+                            "type": ""
+                        },
+                        {
+                            "authors": [],
+                            "duration": 5.0,
+                            "start_time": "17:50",
+                            "title": "Presentation of MSR 2020",
+                            "topic": "MSR 2019 Plenary",
+                            "type": ""
+                        },
+                        {
+                            "authors": [],
+                            "duration": 5.0,
+                            "start_time": "17:55",
+                            "title": "Closing",
+                            "topic": "MSR 2019 Plenary",
+                            "type": ""
+                        }
+                    ]
+                }
+            ],
+            "18:00 - 21:30": [
+                {
+                    "room": "3 Brasseurs McGill",
+                    "chair": "Chair(s): Francisco Servant Virginia Tech",
+                    "session_title": "source{d} Beer Payback event",
+                    "events": []
+                }
+            ]
+        }
+    }
+}

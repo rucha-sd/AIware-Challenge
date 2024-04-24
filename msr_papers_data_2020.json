@@ -1,0 +1,1445 @@
+{
+    "2020": {
+        "Mon 29 Jun 2020": {
+            "10:30 - 11:00": [
+                {
+                    "room": "MSR:Zoom",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "Programming Languages & Models",
+                    "events": [
+                        {
+                            "authors": [
+                                "J\u00fcrgen Cito",
+                                "Jiasi Shen",
+                                "Martin C. Rinard",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "10:30",
+                            "title": "An Empirical Study on the Impact of Deimplicitization on Program ComprehensionMSR - Registered Reports",
+                            "topic": "Registered Reports",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Jason Tsay",
+                                "Alan Braz",
+                                "Martin Hirzel",
+                                "Avraham Shinnar",
+                                "Todd Mummert",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "10:36",
+                            "title": "AIMMX: Artificial Intelligence Model Metadata ExtractorMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Timofey Bryksin",
+                                "Victor Petukhov",
+                                "Ilya Alexin",
+                                "Stanislav Prikhodko",
+                                "Alexey Shpilman",
+                                "Vladimir Kovalenko",
+                                "Nikita Povarov",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "10:42",
+                            "title": "Using Large-Scale Anomaly Detection on Code to Improve Kotlin CompilerMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Tomoki Nakamaru",
+                                "Tomomasa Matsunaga",
+                                "Tetsuro Yamazaki",
+                                "Soramichi Akiyama",
+                                "Shigeru Chiba",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "10:48",
+                            "title": "An Empirical Study of Method Chaining in JavaMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Nan Yang",
+                                "Pieter Cuijpers",
+                                "Ramon Schiffelers",
+                                "Johan Lukkien",
+                                "Alexander Serebrenik",
+                                " Media Attached"
+                            ],
+                            "duration": 6.0,
+                            "start_time": "10:54",
+                            "title": "Painting Flowers: Reasons for Using Single-State State Machines in Model-Driven EngineeringMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                },
+                {
+                    "room": "MSR:Zoom2",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "Refactoring & Testing",
+                    "events": [
+                        {
+                            "authors": [
+                                "Leonardo Da Silva Sousa",
+                                "Diego Cedrim",
+                                "Alessandro Garcia",
+                                "Willian Oizumi",
+                                "Ana Carla Bibiano",
+                                "Daniel Oliveira",
+                                "Miryung Kim",
+                                "Anderson Oliveira",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "10:30",
+                            "title": "Characterizing and Identifying Composite Refactorings: Concepts, Heuristics and PatternsMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Matheus Paixao",
+                                "Anderson Uch\u00f4a",
+                                "Ana Carla Bibiano",
+                                "Daniel Oliveira",
+                                "Alessandro Garcia",
+                                "Jens Krinke",
+                                "Emilio Arvonio",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "10:37",
+                            "title": "Behind the Intents: An In-depth Empirical Study  on Software Refactoring in Modern Code ReviewMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Federico Cor\u00f2",
+                                "Roberto Verdecchia",
+                                "Emilio Cruciani",
+                                "Breno Miranda",
+                                "Antonia Bertolino",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "10:45",
+                            "title": "JTeC: A Large Collection of Java Test Classes for Test Code Analysis and ProcessingMSR - Data Showcase",
+                            "topic": "Data Showcase",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Andr\u00e1s Kicsi",
+                                "L\u00e1szl\u00f3 Vid\u00e1cs",
+                                "Tibor Gyimothy",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "10:52",
+                            "title": "TestRoutes: A Manually Curated Method Level Dataset for Test-to-Code TraceabilityMSR - Data Showcase",
+                            "topic": "Data Showcase",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "11:00 - 12:00": [
+                {
+                    "room": "MSR:Zoom",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "Build, CI, & Dependencies",
+                    "events": [
+                        {
+                            "authors": [
+                                "Yiwen Wu",
+                                "Yang Zhang",
+                                "Tao Wang",
+                                "Huaimin Wang",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:00",
+                            "title": "A Tale of Docker Build Failures: A Preliminary StudyMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Suhaib Mujahid",
+                                "Rabe Abdalkareem",
+                                "Emad Shihab",
+                                "Shane McIntosh",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:12",
+                            "title": "Using Others' Tests to Avoid Breaking UpdatesMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Jordan Henkel",
+                                "Christian Bird",
+                                "Shuvendu Lahiri",
+                                "Thomas Reps",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:24",
+                            "title": "A Dataset of DockerfilesMSR - Data Showcase",
+                            "topic": "Data Showcase",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Thomas Durieux",
+                                "Claire Le Goues",
+                                "Michael Hilton",
+                                "Rui Abreu",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:36",
+                            "title": "Empirical Study of Restarted and Flaky Builds on Travis CIMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Carolin Brandt",
+                                "Annibale Panichella",
+                                "Andy Zaidman",
+                                "Moritz Beller",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:48",
+                            "title": "LogChunks: A Data Set for Build Log AnalysisMSR - Data Showcase",
+                            "topic": "Data Showcase",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "11:30 - 12:00": [
+                {
+                    "room": "MSR:Zoom2",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "Registered Reports Track Discussion",
+                    "events": [
+                        {
+                            "authors": [
+                                "Neil Ernst",
+                                "Janet Siegmund"
+                            ],
+                            "duration": 30.0,
+                            "start_time": "11:30",
+                            "title": "Future Directions for Registered Reports MSR - Registered Reports",
+                            "topic": "Registered Reports",
+                            "type": "Other"
+                        }
+                    ]
+                }
+            ],
+            "12:00 - 13:00": [
+                {
+                    "room": "MSR:Zoom",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "Code Smells",
+                    "events": [
+                        {
+                            "authors": [
+                                "Antonio Borrelli",
+                                "Vittoria Nardone",
+                                "Giuseppe Di Lucca",
+                                "Gerardo Canfora",
+                                "Massimiliano Di Penta",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "12:00",
+                            "title": "Detecting Video Game-Specific Bad Smells in Unity ProjectsMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Davide Spadini",
+                                "Martin Schvarcbacher",
+                                "Ana Maria Oprescu",
+                                "Magiel Bruntink",
+                                "Alberto Bacchelli",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "12:10",
+                            "title": "Investigating Severity Thresholds for Test SmellsMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Biruk Asmare Muse",
+                                "Masud Rahman",
+                                "Csaba Nagy",
+                                "Anthony Cleve",
+                                "Foutse Khomh",
+                                "Giuliano Antoniol",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "12:20",
+                            "title": "On the Prevalence, Impact, and Evolution of SQL code smells in Data-Intensive SystemsMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Mouna Abidi",
+                                "Moses Openja",
+                                "Foutse Khomh",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "12:30",
+                            "title": "Multi-language Design Smells: A Backstage PerspectiveMSR - Registered Reports",
+                            "topic": "Registered Reports",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Hadhemi Jebnoun",
+                                "Masud Rahman",
+                                "Foutse Khomh",
+                                "Houssem Ben Braiek ",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "12:40",
+                            "title": "The Scent of Deep Learning Code: An Empirical StudyMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Fabiano Pecorelli",
+                                "Fabio Palomba",
+                                "Foutse Khomh",
+                                "Andrea De Lucia",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "12:50",
+                            "title": "Developer-Driven Code Smell PrioritizationMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                },
+                {
+                    "room": "MSR:Zoom2",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "MSR Mining Challenge",
+                    "events": [
+                        {
+                            "authors": [
+                                "Ali Rao Hamza",
+                                "Chelsea Parlett-Pelleriti",
+                                "Erik Linstead",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 20.0,
+                            "start_time": "12:00",
+                            "title": "Cheating Death: A Statistical Survival Analysis of Publicly Available Python ProjectsMSR - Mining Challenge",
+                            "topic": "Mining Challenge",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Avijit Bhattacharjee",
+                                "Sristy Sumana Nath",
+                                "Shurui Zhou",
+                                "Debasish Chakroborti",
+                                "Banani Roy",
+                                "Chanchal K. Roy",
+                                "Kevin Schneider",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 20.0,
+                            "start_time": "12:20",
+                            "title": "An investigation to find motives behind cross-platform forks from Software Heritage datasetMSR - Mining Challenge",
+                            "topic": "Mining Challenge",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Gabor Antal",
+                                "M\u00e1rton Keleti",
+                                "Peter Hegedus",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 20.0,
+                            "start_time": "12:40",
+                            "title": "Exploring the Security Awareness of the Python and JavaScript Open Source CommunitiesMSR - Mining Challenge",
+                            "topic": "Mining Challenge",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "13:00 - 13:15": [
+                {
+                    "room": "MSR:Zoom",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "\"Opening\" & Awards",
+                    "events": [
+                        {
+                            "authors": [
+                                "Sunghun Kim",
+                                "Sarah Nadi",
+                                "Georgios Gousios",
+                                " Media Attached"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "13:00",
+                            "title": "MSR Opening & Awards",
+                            "topic": "MSR Plenary",
+                            "type": "Day opening"
+                        }
+                    ]
+                }
+            ],
+            "13:15 - 14:15": [
+                {
+                    "room": "MSR:Zoom",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "MSR 2020 Keynote",
+                    "events": [
+                        {
+                            "authors": [
+                                "Satish Chandra",
+                                " Media Attached"
+                            ],
+                            "duration": 60.0,
+                            "start_time": "13:15",
+                            "title": "Machine Learning for Developer Productivity at FacebookKeynote",
+                            "topic": "Keynote",
+                            "type": "Keynote"
+                        }
+                    ]
+                }
+            ],
+            "14:30 - 15:30": [
+                {
+                    "room": "MSR:Zoom",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "Bugs & Issues",
+                    "events": [
+                        {
+                            "authors": [
+                                "Cristiano Politowski",
+                                "Fabio Petrillo",
+                                "Yann-Ga\u00ebl Gu\u00e9h\u00e9neuc",
+                                "Gabriel Cavalheiro Ullmann",
+                                "Josias De Andrade Werly",
+                                " Media Attached"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "14:30",
+                            "title": "Dataset of Video Game Development ProblemsMSR - Data Showcase",
+                            "topic": "Data Showcase",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Omar El Zarif",
+                                "Daniel Alencar Da Costa",
+                                "Safwat Hassan",
+                                "Ying Zou",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "14:40",
+                            "title": "On the Relationship between User Churn and Software IssuesMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Irving Muller Rodrigues",
+                                "Daniel Aloise",
+                                "Eraldo Rezende Fernandes",
+                                "Michel Dagenais",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "14:50",
+                            "title": "A Soft Alignment Model for Bug DeduplicationMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Shayan Akbar",
+                                "Avinash Kak",
+                                " Media Attached"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "15:00",
+                            "title": "A Large-Scale Comparative Evaluation of IR-Based Tools for Bug LocalizationMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Rafael-Michael Karampatsis",
+                                "Charles Sutton",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "15:10",
+                            "title": "How Often Do Single-Statement Bugs Occur? The ManySStuBs4J DatasetMSR - Data Showcase",
+                            "topic": "Data Showcase",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Steffen Herbold",
+                                "Alexander Trautsch",
+                                "Benjamin Ledel",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "15:20",
+                            "title": "Large-Scale Manual Validation of Bugfixing ChangesMSR - Registered Reports",
+                            "topic": "Registered Reports",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "14:30 - 15:00": [
+                {
+                    "room": "MSR:Zoom2",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "Tutorial 1: GDPR Considerations",
+                    "events": [
+                        {
+                            "authors": [
+                                "Jesus M. Gonzalez-Barahona",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 30.0,
+                            "start_time": "14:30",
+                            "title": "Mining Software Repositories While Respecting PrivacyMSR - Tutorial",
+                            "topic": "Education",
+                            "type": "Tutorial"
+                        }
+                    ]
+                }
+            ],
+            "15:30 - 16:30": [
+                {
+                    "room": "MSR:Zoom",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "Software Engineering for Machine Learning: AMA",
+                    "events": [
+                        {
+                            "authors": [
+                                "Christian K\u00e4stner",
+                                "Mohamed El-Geish",
+                                "Foutse Khomh",
+                                "Miryung Kim",
+                                " Media Attached"
+                            ],
+                            "duration": 60.0,
+                            "start_time": "15:30",
+                            "title": "SE4ML AMAMSR - AMA",
+                            "topic": "Ask Me Anything",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "16:30 - 17:30": [
+                {
+                    "room": "MSR:Zoom",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "Github & OSS Datasets",
+                    "events": [
+                        {
+                            "authors": [
+                                "Xunhui Zhang",
+                                "Ayushi Rastogi",
+                                "Yue Yu",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "16:30",
+                            "title": "A New Dataset for Pull Request AcceptanceMSR - Data Showcase",
+                            "topic": "Data Showcase",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Usman Ashraf",
+                                "Christoph Mayr-Dorn",
+                                "Alexander Egyed",
+                                "Sebastiano Panichella",
+                                " Media Attached"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "16:38",
+                            "title": "A Mixed Graph-Relational Dataset of Socio-technicalInteractions in Open Source SystemsMSR - Data Showcase",
+                            "topic": "Data Showcase",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Audris Mockus",
+                                "Zoe Kotti",
+                                "Diomidis Spinellis",
+                                "Gabriel Dusing",
+                                " Media Attached"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "16:47",
+                            "title": "A Complete Set of Related Git Repositories Identified via Community Detection Approaches Based on Shared CommitsMSR - Data Showcase",
+                            "topic": "Data Showcase",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Diomidis Spinellis",
+                                "Zoe Kotti",
+                                "Konstantinos Kravvaritis",
+                                "Georgios Theodorou",
+                                "Panos Louridas",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "16:55",
+                            "title": "A Dataset of Enterprise-Driven Open Source SoftwareMSR - Data Showcase",
+                            "topic": "Data Showcase",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Diomidis Spinellis",
+                                "Zoe Kotti",
+                                "Audris Mockus",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "17:04",
+                            "title": "A Dataset for GitHub Repository DeduplicationMSR - Data Showcase",
+                            "topic": "Data Showcase",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Tanner Fry",
+                                "Tapajit Dey",
+                                "Andrey Karnauch",
+                                "Audris Mockus",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "17:12",
+                            "title": "A Dataset and an Approach for Identity Resolution of 38 Million Author IDs extracted from 2B Git CommitsMSR - Data Showcase",
+                            "topic": "Data Showcase",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Ma\u00eblick Claes",
+                                "Mika M\u00e4ntyl\u00e4",
+                                " Media Attached"
+                            ],
+                            "duration": 8.0,
+                            "start_time": "17:21",
+                            "title": "20-MAD - 20 years of issues and commits of Mozilla and Apache DevelopmentMSR - Data Showcase",
+                            "topic": "Data Showcase",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "16:30 - 17:00": [
+                {
+                    "room": "MSR:Zoom2",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "Platforms & Datasets",
+                    "events": [
+                        {
+                            "authors": [
+                                "Toni Mattis",
+                                "Patrick Rein",
+                                "Falco D\u00fcrsch",
+                                "Robert Hirschfeld",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "16:30",
+                            "title": "RTPTorrent: An Open-source Dataset for Evaluating Regression Test PrioritizationMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Konstantinos Barmpis",
+                                "Patrick Neubauer",
+                                "Jonathan Co",
+                                "Dimitris Kolovos",
+                                "Nicholas Matragkas",
+                                "Richard Paige",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "16:37",
+                            "title": "Polyglot and Distributed Software Repository Mining with CROSSFLOWMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Che Shian Hung",
+                                "Robert Dyer",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "16:45",
+                            "title": "Boa Views: Easy Modularization and Sharing of MSR AnalysesMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Antoine Pietri",
+                                "Guillaume Rousseau",
+                                "Stefano Zacchiroli",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "16:52",
+                            "title": "Determining the Intrinsic Structure of Public Software Development HistoryMSR - Registered Reports",
+                            "topic": "Registered Reports",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Tue 30 Jun 2020": {
+            "10:30 - 11:00": [
+                {
+                    "room": "MSR:Zoom",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "Evolution",
+                    "events": [
+                        {
+                            "authors": [
+                                "Jens Meinicke",
+                                "Juan Hoyos",
+                                "Bogdan Vasilescu",
+                                "Christian K\u00e4stner",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "10:30",
+                            "title": "Capture the Feature Flag: Detecting Feature Flags in Open-SourceMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Antoine Pietri",
+                                "Guillaume Rousseau",
+                                "Stefano Zacchiroli",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "10:37",
+                            "title": "Forking Without Clicking: on How to Identify Software Repository ForksMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Sergey Svitkov",
+                                "Timofey Bryksin",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "10:45",
+                            "title": "Visualization of Methods Changeability Based on VCS DataMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Themistoklis Diamantopoulos",
+                                "Michail Papamichail ",
+                                "Thomas Karanikiotis",
+                                "Kyriakos Chatzidimitriou ",
+                                "Andreas Symeonidis",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "10:52",
+                            "title": "Employing Contribution and Quality Metrics for Quantifying the Software Development ProcessMSR - Data Showcase",
+                            "topic": "Data Showcase",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                },
+                {
+                    "room": "MSR:Zoom2",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "Apps & Bots",
+                    "events": [
+                        {
+                            "authors": [
+                                "Pei Liu",
+                                "Li Li",
+                                "Yanjie Zhao",
+                                "Xiaoyu Sun",
+                                "John Grundy",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "10:30",
+                            "title": "AndroZooOpen: Collecting Large-scale Open Source Android Apps for the Research CommunityMSR - Data Showcase",
+                            "topic": "Data Showcase",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Laura Bello-Jim\u00e9nez",
+                                "Camilo Escobar-Vel\u00e1squez",
+                                "Anamaria Mojica-Hanke",
+                                "Santiago Cort\u00e9s-Fern\u00e1ndez",
+                                "Mario Linares-V\u00e1squez",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "10:37",
+                            "title": "Hall-of-Apps: The Top Android Apps Metadata ArchiveMSR - Data Showcase",
+                            "topic": "Data Showcase",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Tapajit Dey",
+                                "Sara Mousavi",
+                                "Eduardo Ponce",
+                                "Tanner Fry",
+                                "Bogdan Vasilescu",
+                                "Anna Filippova",
+                                "Audris Mockus",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "10:45",
+                            "title": "Detecting and Characterizing Bots that Commit CodeMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Ahmad Abdellatif",
+                                "Diego Costa",
+                                "Khaled Badran",
+                                "Rabe Abdalkareem",
+                                "Emad Shihab",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 7.0,
+                            "start_time": "10:52",
+                            "title": "Challenges in Chatbot Development: A Study of Stack Overflow PostsMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "11:00 - 12:00": [
+                {
+                    "room": "MSR:Zoom",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "Quality",
+                    "events": [
+                        {
+                            "authors": [
+                                "Laerte Xavier",
+                                "Fabio da Silva Ferreira",
+                                "Rodrigo Brito",
+                                "Marco Tulio Valente",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:00",
+                            "title": "Beyond the Code: Mining Self-Admitted Technical Debt in Issue Tracker SystemsMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Peipei Wang",
+                                "Chris Brown",
+                                "Jamie Jennings",
+                                "Kathryn Stolee",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:12",
+                            "title": "An Empirical Study on Regular Expression BugsMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Pavl\u00edna Wurzel Gon\u00e7alves",
+                                "Enrico Fregnan",
+                                "Tobias Baum",
+                                "Kurt Schneider",
+                                "Alberto Bacchelli",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:24",
+                            "title": "Do Explicit Review Strategies Improve Code Review Performance?MSR - Registered Reports",
+                            "topic": "Registered Reports",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Shubhankar Suman Singh",
+                                "Smruti Ranjan Sarangi",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:36",
+                            "title": "SoftMon: A Tool to Compare Similar Open-source Software from a Performance PerspectiveMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Yaroslav Golubev",
+                                "Maria Eliseeva",
+                                "Nikita Povarov",
+                                "Timofey Bryksin",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:48",
+                            "title": "A Study of Potential Code Borrowing and License Violations in Java Projects on GitHubMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                },
+                {
+                    "room": "MSR:Zoom2",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "Security",
+                    "events": [
+                        {
+                            "authors": [
+                                "Danielle Gonzalez",
+                                "Michael Rath",
+                                "Mehdi Mirakhorli",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:00",
+                            "title": "Did You Remember To Test Your Tokens?MSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Paolo Calciati ",
+                                "Konstantin Kuznetsov",
+                                "Alessandra Gorla",
+                                "Andreas Zeller",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:12",
+                            "title": "Automatically Granted Permissions in Android appsMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Triet Le Huynh Minh",
+                                "David Hin",
+                                "Roland Croft",
+                                "Muhammad Ali Babar",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:24",
+                            "title": "PUMiner: Mining Security Posts from Developer Question and Answer Websites with PU LearningMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Jiahao Fan",
+                                "Yi Li",
+                                "Shaohua Wang",
+                                "Tien N. Nguyen",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:36",
+                            "title": "A C/C++ Code Vulnerability Dataset with Code Changes and CVE SummariesMSR - Data Showcase",
+                            "topic": "Data Showcase",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "James Walden",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "11:48",
+                            "title": "The Impact of a Major Security Event on an Open Source Project: The Case of OpenSSLMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "12:00 - 13:00": [
+                {
+                    "room": "MSR:Zoom",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "DevOps: AMA",
+                    "events": [
+                        {
+                            "authors": [
+                                "Laurie Williams",
+                                "Taco Bakker",
+                                "Hyrum Wright",
+                                " Media Attached"
+                            ],
+                            "duration": 60.0,
+                            "start_time": "12:00",
+                            "title": "DevOps AMAMSR - AMA",
+                            "topic": "Ask Me Anything",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "13:00 - 13:45": [
+                {
+                    "room": "MSR:Zoom",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "Award Talks",
+                    "events": [
+                        {
+                            "authors": [
+                                "Michele Lanza",
+                                "Marco D'ambros",
+                                "Romain Robbes"
+                            ],
+                            "duration": 22.0,
+                            "start_time": "13:00",
+                            "title": "Most Influential Paper TalkMSR - Award Talk",
+                            "topic": "MSR Awards",
+                            "type": "Talk"
+                        },
+                        {
+                            "authors": [
+                                "Jonathan I. Maletic",
+                                "Michael L. Collard"
+                            ],
+                            "duration": 22.0,
+                            "start_time": "13:22",
+                            "title": "MSR Foundational Contribution TalkMSR - Award Talk",
+                            "topic": "MSR Awards",
+                            "type": "Talk"
+                        }
+                    ]
+                }
+            ],
+            "13:45 - 14:00": [
+                {
+                    "room": "MSR:Zoom",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "\"Closing\" & MSR 2021",
+                    "events": []
+                }
+            ],
+            "14:00 - 15:00": [
+                {
+                    "room": "MSR:Zoom",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "ML4SE",
+                    "events": [
+                        {
+                            "authors": [
+                                "Chen Yang",
+                                "Andrew Santosa",
+                                "Ang Ming Yi",
+                                "Abhishek Sharma ",
+                                "Asankhaya Sharma",
+                                "David Lo",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "14:00",
+                            "title": "A Machine Learning Approach for Vulnerability CurationACM SIGSOFT Distinguished Paper AwardMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Rhys Compton",
+                                "Eibe Frank",
+                                "Panos Patros",
+                                "Abigail Koay",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "14:12",
+                            "title": "Embedding Java Classes with code2vec: Improvements from Variable ObfuscationMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Abdulkarim Malkadi",
+                                "Mohammad Alahmadi",
+                                "Sonia Haiduc",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "14:24",
+                            "title": "A Study on the Accuracy of OCR Engines for Source Code Transcription from Programming ScreencastsMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Gustavo Pinto",
+                                "Breno Miranda",
+                                "Supun Dissanayake",
+                                "Marcelo d'Amorim",
+                                "Christoph Treude",
+                                "Antonia Bertolino",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "14:36",
+                            "title": "What is the Vocabulary of Flaky Tests?MSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Sakib Haque",
+                                "Alexander LeClair",
+                                "Lingfei Wu",
+                                "Collin McMillan",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 12.0,
+                            "start_time": "14:48",
+                            "title": "Improved Automatic Summarization of Subroutines via Attention to File ContextMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "14:30 - 15:00": [
+                {
+                    "room": "MSR:Zoom2",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "Tutorial 2: Software Analytics",
+                    "events": [
+                        {
+                            "authors": [
+                                "Fabio Palomba",
+                                " Media Attached"
+                            ],
+                            "duration": 30.0,
+                            "start_time": "14:30",
+                            "title": "Mutation Testing Meets Software Analytics: A Hands-On TutorialMSR - Tutorial",
+                            "topic": "Education",
+                            "type": "Tutorial"
+                        }
+                    ]
+                }
+            ],
+            "15:00 - 16:00": [
+                {
+                    "room": "MSR:Zoom",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "Machine Learning for Software Engineering: AMA",
+                    "events": [
+                        {
+                            "authors": [
+                                "Vincent J. Hellendoorn",
+                                "Michael Pradel",
+                                "Miltiadis Allamanis",
+                                " Media Attached"
+                            ],
+                            "duration": 60.0,
+                            "start_time": "15:00",
+                            "title": "ML4SE AMAMSR - AMA",
+                            "topic": "Ask Me Anything",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ],
+            "16:00 - 17:00": [
+                {
+                    "room": "MSR:Zoom",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "Developer Collaboration",
+                    "events": [
+                        {
+                            "authors": [
+                                "Hongbo Fang",
+                                "Daniel Klug",
+                                "Hemank Lamba",
+                                "James Herbsleb",
+                                "Bogdan Vasilescu",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "16:00",
+                            "title": "Need for tweet. How open-source developers use Twitter to talk about their GitHub workMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Nicole Novielli",
+                                "Fabio Calefato",
+                                "Davide Dongiovanni",
+                                "Daniela Girardi",
+                                "Filippo Lanubile",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "16:10",
+                            "title": "Can We Use SE-specific Sentiment Analysis Tools in a Cross-Platform Setting?MSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Esteban Parra",
+                                "Ashley Ellis",
+                                "Sonia Haiduc",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "16:20",
+                            "title": "GitterCom: A Dataset of Open Source Developer Communications in GitterMSR - Data Showcase",
+                            "topic": "Data Showcase",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Ingrid Nunes",
+                                "Christoph Treude",
+                                "Fabio Calefato",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "16:30",
+                            "title": "The Impact of Dynamics of Collaborative Software Engineering on Introverts: A Study ProtocolMSR - Registered Reports",
+                            "topic": "Registered Reports",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Preetha Chatterjee",
+                                "Kostadin Damevski",
+                                "Nicholas A. Kraft",
+                                "Lori Pollock",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "16:40",
+                            "title": "Software-related Slack Chats with Disentangled ConversationsMSR - Data Showcase",
+                            "topic": "Data Showcase",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Yalin Liu",
+                                "Jinfeng Lin",
+                                "Jane Cleland-Huang",
+                                " Media Attached"
+                            ],
+                            "duration": 10.0,
+                            "start_time": "16:50",
+                            "title": "Traceability Support for Multi-Lingual Software ProjectsACM SIGSOFT Distinguished Paper AwardMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                },
+                {
+                    "room": "MSR:Zoom2",
+                    "chair": "Chair(s): Venera Arnaoudova Washington State University",
+                    "session_title": "Visions & Reflections",
+                    "events": [
+                        {
+                            "authors": [
+                                "Danielle Gonzalez",
+                                "Thomas Zimmermann",
+                                "Nachiappan Nagappan",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "16:00",
+                            "title": "The State of the ML-universe: 10 Years of Artificial Intelligence & Machine Learning Software Development on GitHubMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Nicolas Gold",
+                                "Jens Krinke",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "16:15",
+                            "title": "Ethical Mining \u2013 A Case Study on MSR Mining ChallengesACM SIGSOFT Distinguished Paper AwardMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Ang Jia",
+                                "Ming Fan",
+                                "Xi Xu",
+                                "Di Cui",
+                                "Wenying Wei",
+                                "Zijiang Yang",
+                                "Kai Ye",
+                                "Ting Liu",
+                                " DOI",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "16:30",
+                            "title": "From Innovations to Prospects: What Is Hidden Behind Cryptocurrencies?MSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        },
+                        {
+                            "authors": [
+                                "Rolf-Helge Pfeiffer",
+                                " Pre-print",
+                                " Media Attached"
+                            ],
+                            "duration": 15.0,
+                            "start_time": "16:45",
+                            "title": "What constitutes Software? An Empirical, Descriptive Study of ArtifactsMSR - Technical Paper",
+                            "topic": "Technical Papers",
+                            "type": "Live Q&A"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
