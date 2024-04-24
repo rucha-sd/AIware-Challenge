@@ -11,7 +11,7 @@ class Paper:
         self.duration = duration
         topics = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
         self.topic = random.choice(topics) if topic is None else topic
-    def __str__(self):
+    def print_paper(self):
         return f"ID: {self.id}, Authors: {self.authors}, Duration: {self.duration}, Topic: {self.topic}"
 
 class Session:
