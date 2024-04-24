@@ -63,7 +63,7 @@ class Solution:
             total_time_unused += session_time_unused
 
         # Penalize if a paper is not scheduled at all
-        distribution_penalty = num_papers - len(papers_scheduled)
+        distribution_penalty = num_papers - len(set(papers_scheduled))
 
         cohrence_penalty = 0
 
@@ -105,7 +105,7 @@ class Solution:
         # print(weighted_coherence_penalty)
     
         # total_penalty
-        total_penalty = 10*weighted_time_penalty + 5*weighted_author_penalty + weighted_distribution_penalty + weighted_total_time_unused + weighted_coherence_penalty
+        total_penalty = 10*weighted_time_penalty + 10*weighted_author_penalty + 10*weighted_distribution_penalty + weighted_total_time_unused + weighted_coherence_penalty
 
         fitness = 1 / (1 + total_penalty)
 
@@ -159,6 +159,7 @@ class GeneticAlgorithm:
         self.max_generations = max_generations
         self.crossover_probability = crossover_probability
         self.mutation_probability = mutation_probability
+        random.seed(42)
         
 
     def create_population(self, papers,  session_details, population_size):
@@ -278,7 +279,9 @@ class GeneticAlgorithm:
 
     def select_parents(self, population, num_papers, tournament_size=3):
         def tournament():
+            # print("Population size in tournament: ", len(population.solutions))
             contenders = random.sample(population.solutions, tournament_size)
+            # print("Contenders: ", contenders)
             best = sorted(contenders, key=lambda solution: solution.fitness(num_papers)['fitness'], reverse=True)[0]
             return best
 
@@ -286,6 +289,7 @@ class GeneticAlgorithm:
         parent2 = tournament()
         while parent1 == parent2:  # Ensure parent1 and parent2 are not the same
             # print("Parent1 and Parent2 are the same")
+            # print(parent1, parent2)
             parent2 = tournament()
         return parent1, parent2
 
@@ -295,18 +299,40 @@ class GeneticAlgorithm:
         survivors = sorted_combined_population[:self.population_size]
         return Population(survivors, self.population_size)
     
-    def plot_progress(self, fitness_values):
+    def plot_progress(self, fitness_values, time_penalties, author_penalties, distribution_penalties, coherence_penalties):
+        fig, axs = plt.subplots(2, 2)
+        # increase figure size
+        fig.set_size_inches(12, 8)
+        fig.suptitle('Penalties and Fitness Value over Generations')
+        axs[0, 0].plot(time_penalties)
+        axs[0, 0].set_title('Weighted Time Penalty')
+        axs[0, 1].plot(author_penalties)
+        axs[0, 1].set_title('Weighted Author Penalty')
+        axs[1, 0].plot(distribution_penalties)
+        axs[1, 0].set_title('Weighted Distribution Penalty')
+        axs[1, 1].plot(coherence_penalties)
+        axs[1, 1].set_title('Weighted Coherence Penalty')
+        plt.savefig(f'fitness_values_{self.population_size}_{self.max_generations}_2.png')
+        plt.show()
+        # new plot
+        plt.clf()
         # plot graph of fitness values over generations
         plt.plot(fitness_values)
         plt.xlabel('Generation')    
         plt.ylabel('Fitness Value')
         plt.title('Fitness Value over Generations')
+        # save with pop_size, num_generations
+        plt.savefig(f'fitness_values_{self.population_size}_{self.max_generations}_11.png')
         plt.show()
         
 
     def run(self, papers, num_sessions, session_lengths, num_tracks, num_solutions):
         session_details = [(session_lengths[i], num_tracks[i]) for i in range(len(session_lengths))]
         fitness_values = []
+        time_penalties = []
+        author_penalties = []
+        distribution_penalties = []
+        coherence_penalties = []
         population = Population(self.create_population(papers, session_details, num_solutions), num_solutions)
         for generation in tqdm(range(self.max_generations)):
             # print("Generation %d" % generation)
@@ -327,8 +353,12 @@ class GeneticAlgorithm:
             # get best fitness
             best_solution, fitness = population.best_solution(len(papers))
             fitness_values.append(fitness['fitness'])
+            time_penalties.append(fitness['weighted_time_penalty'])
+            author_penalties.append(fitness['weighted_author_penalty'])
+            distribution_penalties.append(fitness['weighted_distribution_penalty'])
+            coherence_penalties.append(fitness['weighted_coherence_penalty'])
             
         # plot fitness values over generations
-        self.plot_progress(fitness_values)
+        self.plot_progress(fitness_values, time_penalties, author_penalties, distribution_penalties, coherence_penalties)
         return population.best_solution(len(papers))
     

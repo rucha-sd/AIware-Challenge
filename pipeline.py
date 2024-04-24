@@ -8,10 +8,12 @@ import pandas as pd
 if __name__ == '__main__':
     args = sys.argv
     input_file = args[1]
-    population_size = 100
-    max_generations = 300
+    population_size = int(args[2])
+    max_generations = int(args[3])
     crossover_probability = 0.8
     mutation_probability = 0.2
+
+    print(f'population_size: {population_size} max_generations: {max_generations}')
 
     parsed_input_file = preprocess_data.parse_csv_to_array(input_file)
     session_durations, num_tracks_per_session = preprocess_data.session_details(parsed_input_file)
@@ -25,4 +27,5 @@ if __name__ == '__main__':
     pop = GA.Population(initial_population, population_size)
     pop = ga.run(papers, len(num_tracks_per_session), session_durations, num_tracks_per_session, population_size)
     pop[0].print_solution()
+    print(pop[1])
     
