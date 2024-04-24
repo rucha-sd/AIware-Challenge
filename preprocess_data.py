@@ -89,12 +89,12 @@ def session_details(time_slots):
     output = [(f"{start.strftime('%Y-%m-%d %H:%M:%S')} - {end.strftime('%Y-%m-%d %H:%M:%S')}", dict(rooms))
             for (start, end), rooms in merged_slots]
 
-    # Print the merged output
-    # print("after merge
     for (start, end), rooms in merged_slots:
-        duration_array.append((end-start).seconds)
+        duration_array.append((end-start).seconds/60)
+    
     output = [list(session_info.values()) for _, session_info in output] 
-    return duration_array, output
+    num_tracks_per_session =  [len(session) for session in output]
+    return duration_array, num_tracks_per_session
 
 def get_topics(filename): 
     csv_filename = filename
@@ -112,6 +112,9 @@ def create_papers(input_file):
     papers = {}
     input = pd.read_csv(input_file)
     topics_dict = get_topics(input_file)
+    # replace Nan values in author with ''
+    input['author'] = input['author'].fillna('')
+    input['author'] = input['author'].str.split(',')
     for i in range(len(input)):
         paper = GA.Paper(id=input['id'][i], authors=input['author'][i], duration=input['duration'][i], topic=topics_dict[input['session_title'][i]])
         papers[int(input['id'][i])] = paper
