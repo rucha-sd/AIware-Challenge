@@ -28,7 +28,9 @@ def get_msr_papers_by_year(year):
             conference_program[session_date][session_slot] = []
         
         session_topic = table.find('div', class_='session-info-in-table')
-        text = session_topic.get_text() if session_topic else 'Text not found'
+        # text = session_topic.get_text() if session_topic else 'Text not found'
+        text = session_topic.contents[0].strip() if session_topic else 'Text not found'
+
         chair = 'No Chair'
         small_tags = soup.find_all('small')
         for small in small_tags:
@@ -60,7 +62,7 @@ def get_msr_papers_by_year(year):
                         title = a_tag.text.strip()
             event_info = {
                 "authors": authors,
-                "duration": event_duration,
+                "duration": float(event_duration[:-1]),
                 "start_time": start_time,
                 "title": title,
                 "topic": topic,
@@ -89,7 +91,7 @@ end_year = 2020    # Change to your desired end year
 papers_data = get_msr_papers_range(start_year, end_year)
 # papers_data = get_msr_papers_by_year(2018)
 
-json_filename = 'msr_papers_data.json'
+json_filename = 'msr_papers_data_new.json'
 with open(json_filename, 'w') as json_file:
     json.dump(papers_data, json_file, indent=4)
 

@@ -103,8 +103,9 @@ def parse_csv_to_array(csv_filename):
 
 def formatMerged(intervals):
     output = [list(session_info.values()) for _, session_info in intervals]
+    return output
     # Print the output
-    print(output)
+    # print(output)
 
 def merge_overlaps(data):
     # Sort data by start time
@@ -137,21 +138,37 @@ def merge_overlaps(data):
     
     return merged_data
 
-# Usage example
-csv_filename = 'conference_schedule_new.csv'
-output = parse_csv_to_array(csv_filename)
-mergedOutput = mergeIntervals(output)
-print("Array of merged sessions")
-formatMerged(mergedOutput)
-print("duration array")
-print(durationArray)
-# print(output)
+def get_topics(): 
+    csv_filename = 'conference_schedule_new.csv'
+    with open(csv_filename, newline='', encoding='utf-8') as file:
+        reader = csv.DictReader(file)
+        topic_dict = {}
+        iter = 1
+        for row in reader:
+            if row['session_title'] not in topic_dict:
+                topic_dict[row['session_title']] = iter
+                iter+=1
+        return topic_dict
 
-# Process the data to merge overlaps
-merged_intervals = merge_overlaps(papers_dict)
+def processor():
+    # Usage example
+    csv_filename = 'conference_schedule_new.csv'
+    output = parse_csv_to_array(csv_filename)
+    mergedOutput = formatMerged( mergeIntervals(output))
+    # print("Array of merged sessions")
+    # print("duration array")
+    # print(durationArray)
+    # print(output)
+    merged_intervals = merge_overlaps(papers_dict)
 
-# Output the merged intervals
-for interval, rooms in merged_intervals:
-    print(f"Interval: {interval[0].strftime('%Y-%m-%d %H:%M:%S')} to {interval[1].strftime('%Y-%m-%d %H:%M:%S')}, Rooms: {rooms}")
+    return {
+        "merged_intervals": merged_intervals,
+        "duration_array": durationArray,
+        "merged_output": mergedOutput
+    }
 
-
+    # Process the data to merge overlaps
+    
+    # Output the merged intervals
+    # for interval, rooms in merged_intervals:
+    # print(f"Interval: {interval[0].strftime('%Y-%m-%d %H:%M:%S')} to {interval[1].strftime('%Y-%m-%d %H:%M:%S')}, Rooms: {rooms}")

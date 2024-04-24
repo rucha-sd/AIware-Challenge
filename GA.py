@@ -11,12 +11,13 @@ class Paper:
         self.duration = duration
         topics = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
         self.topic = random.choice(topics) if topic is None else topic
+    def __str__(self):
+        return f"ID: {self.id}, Authors: {self.authors}, Duration: {self.duration}, Topic: {self.topic}"
 
 class Session:
     def __init__(self, max_length, tracks):
         self.tracks = tracks  
         self.max_length = max_length  
-
 
 class Solution:
     def __init__(self, sessions):
@@ -127,8 +128,7 @@ class Solution:
                 for paper in track:
                     print(f"    Paper ID: {paper.id}, Authors: {', '.join(paper.authors)}, Topic: {paper.topic},  Duration: {paper.duration} minutes")
             print("-" * 40)
-                    
-                        
+                                            
 class Population:
     def __init__(self, solutions, population_size):
         self.solutions = solutions  
@@ -145,7 +145,6 @@ class Population:
             if solution.fitness(num_papers)['fitness'] > best_solution.fitness(num_papers)['fitness']:
                 best_solution = solution
         return best_solution, best_solution.fitness(num_papers)
-
 
 class GeneticAlgorithm:
     def __init__(self, population_size, max_generations, crossover_probability, mutation_probability):
@@ -177,7 +176,6 @@ class GeneticAlgorithm:
             solution = Solution(sessions)
             population.append(solution)
         return population
-
 
     def evaluate_population(self, population):
         pass
@@ -290,7 +288,6 @@ class GeneticAlgorithm:
         plt.ylabel('Fitness Value')
         plt.title('Fitness Value over Generations')
         plt.show()
-        
 
     def run(self, papers, num_sessions, session_lengths, num_tracks, num_solutions):
         session_details = [(session_lengths[i], num_tracks[i]) for i in range(len(session_lengths))]
@@ -319,4 +316,3 @@ class GeneticAlgorithm:
         # plot fitness values over generations
         self.plot_progress(fitness_values)
         return population.best_solution(len(papers))
-    
