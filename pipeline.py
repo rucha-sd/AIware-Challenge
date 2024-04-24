@@ -22,17 +22,14 @@ if __name__ == '__main__':
     papers_array = [x for x in papers.values()]
     
     solutions_from_csv = preprocess_data.merge_overlaps(papers_dicts)
+    solutions = preprocess_data.create_solution(solutions_from_csv, papers)
 
-    for item in solutions_from_csv:
-        for key, paper_ids in solutions_from_csv[item].items():
-            val = [papers[int(ids)] for ids in paper_ids]
-            solutions_from_csv[item][key] = val
-            
-         
-    for time_slot, rooms in solutions_from_csv.items():
+    #printing our solutions         
+    for time_slot, rooms in solutions.items():
         print("###############")
         print(f"Time Slot: {time_slot}")
         for room, papers in rooms.items():
             print(room)
-            print([paper.print_paper() for paper in papers])
+            for paper in papers:
+                print(paper.print_paper())
             print("\n")

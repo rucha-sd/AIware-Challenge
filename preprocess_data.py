@@ -149,9 +149,13 @@ def merge_overlaps(data):
     
     return merged_data
 
-def create_solution():
+def create_solution(solutions_from_csv, papers):
     # create session object, refer to session from GA.py
     # each session should have array tracks eg, session1 = [track1, track2] where track1 and track2 are lists of Paper objects
     # each session should have max_lenght/duration
     # create Solution object and pass sessions
-    pass
+    for item in solutions_from_csv:
+        for key, paper_ids in solutions_from_csv[item].items():
+            val = [papers[int(ids)] for ids in paper_ids]
+            solutions_from_csv[item][key] = val
+    return solutions_from_csv
