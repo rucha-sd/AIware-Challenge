@@ -1,0 +1,348 @@
+population_size: 100 max_generations: 4000
+Session 1 (Max length: 20.0 minutes):
+  Track 1 (Total duration: 0 minutes):
+----------------------------------------
+Session 2 (Max length: 85.0 minutes):
+  Track 1 (Total duration: 85.0 minutes):
+    Paper ID: 32, Authors: Dimitris Kolovos,  Patrick Neubauer,  Konstantinos Barmpis,  Nicholas Matragkas,  Richard Paige,   Pre-print, Topic: 9,  Duration: 6.0 minutes
+    Paper ID: 25, Authors: Rui Pereira,  Marco Couto,  João Paulo Fernandes,  Bruno Cabral,  Hugo Matalonga,  Simão Melo de Sousa,  Fernando Castor,   Pre-print, Topic: 8,  Duration: 6.0 minutes
+    Paper ID: 18, Authors: Hongyu Zhai,  Casey Casalnuovo,  Prem Devanbu, Topic: 5,  Duration: 6.0 minutes
+    Paper ID: 1, Authors: , Topic: 1,  Duration: 10.0 minutes
+    Paper ID: 26, Authors: Rui Rua,  Marco Couto,  João Saraiva, Topic: 8,  Duration: 6.0 minutes
+    Paper ID: 20, Authors: Eeshita Biswas,  K. Vijay-Shanker,  Lori Pollock,   Pre-print, Topic: 6,  Duration: 15.0 minutes
+    Paper ID: 59, Authors: Haoyu Wang,  Junjun Si,  Hao Li ,  Yao Guo, Topic: 13,  Duration: 6.0 minutes
+    Paper ID: 13, Authors: Vasiliki Efstathiou,  Diomidis Spinellis,   Pre-print, Topic: 4,  Duration: 6.0 minutes
+    Paper ID: 48, Authors: , Topic: 10,  Duration: 12.0 minutes
+    Paper ID: 80, Authors: Saket Joshi,  Sridhar Chimalakonda, Topic: 20,  Duration: 6.0 minutes
+    Paper ID: 11, Authors: Vladimir Kovalenko,  Egor Bogomolov,  Timofey Bryksin,  Alberto Bacchelli,   DOI,   Pre-print,   Media Attached, Topic: 4,  Duration: 6.0 minutes
+----------------------------------------
+Session 3 (Max length: 45.0 minutes):
+  Track 1 (Total duration: 45.0 minutes):
+    Paper ID: 78, Authors: Sumon Biswas,  Md Johirul Islam,  Yijia Huang,  Hridesh Rajan,   Pre-print,   Media Attached, Topic: 20,  Duration: 6.0 minutes
+    Paper ID: 79, Authors: Oliviero Riganelli,  Marco Mobilio,  Daniela Micucci,  Leonardo Mariani, Topic: 20,  Duration: 6.0 minutes
+    Paper ID: 52, Authors: Sven Amann,  Hoan Nguyen,  Sarah Nadi,  Tien N. Nguyen,  Mira Mezini,   Pre-print, Topic: 12,  Duration: 15.0 minutes
+    Paper ID: 81, Authors: Ahmed Zerouali,  Valerio Cosentino,  Jesus M. Gonzalez-Barahona,  Gregorio Robles,  Tom Mens,   Pre-print, Topic: 20,  Duration: 6.0 minutes
+    Paper ID: 82, Authors: Gian Luca Scoccia,  Anthony Peruma,  Virginia Pujols,  Ben Christians,  Daniel Krutz, Topic: 20,  Duration: 6.0 minutes
+    Paper ID: 75, Authors: Junichi Hayashi,  Yoshiki Higo,  Shinsuke Matsumoto,  Shinji Kusumoto,   Pre-print, Topic: 18,  Duration: 6.0 minutes
+  Track 2 (Total duration: 44.0 minutes):
+    Paper ID: 83, Authors: Aidan Z.H. Yang,  Daniel Alencar Da Costa ,  Ying Zou, Topic: 21,  Duration: 15.0 minutes
+    Paper ID: 43, Authors: Manziba Nishi,  Agnieszka Ciborowska ,  Kostadin Damevski,   Pre-print, Topic: 10,  Duration: 7.0 minutes
+    Paper ID: 64, Authors: Sarra Habchi,  Romain Rouvoy,  Naouel Moha, Topic: 15,  Duration: 15.0 minutes
+    Paper ID: 36, Authors: Jens Dietrich,  Markus Luczak-Roesch,  Elroy Dalefield,   Pre-print, Topic: 10,  Duration: 7.0 minutes
+----------------------------------------
+Session 4 (Max length: 35.0 minutes):
+  Track 1 (Total duration: 34.0 minutes):
+    Paper ID: 85, Authors: Junnosuke Matsumoto,  Yoshiki Higo,  Shinji Kusumoto,   Pre-print, Topic: 21,  Duration: 6.0 minutes
+    Paper ID: 29, Authors: Dimitris Mitropoulos,  Panos Louridas,  Vitalis Salis,  Diomidis Spinellis,   Pre-print, Topic: 9,  Duration: 15.0 minutes
+    Paper ID: 47, Authors: Hareem-e-Sahar ,  Abdul Ali Bangash,  Alexander William Wong,  Shaiful Chowdhury,  Abram Hindle,  Karim Ali, Topic: 10,  Duration: 7.0 minutes
+    Paper ID: 86, Authors: Ryosuke Funaki,  Shinpei Hayashi,  Motoshi Saeki,   Pre-print, Topic: 21,  Duration: 6.0 minutes
+  Track 2 (Total duration: 33.0 minutes):
+    Paper ID: 12, Authors: Bart Theeten,  Frederik Vandeputte,  Tom Van Cutsem,   Pre-print, Topic: 4,  Duration: 15.0 minutes
+    Paper ID: 58, Authors: Anna-Katharina Wickert,  Michael Reif,  Michael Eichberg,  Anam Dodhy,  Mira Mezini,   Link to publication,   DOI,   Pre-print,   Media Attached, Topic: 13,  Duration: 6.0 minutes
+    Paper ID: 56, Authors: Serena Elisa Ponta,  Henrik Plate,  Antonino Sabetta,  Michele Bezzi,  Cédric Dangremont, Topic: 13,  Duration: 6.0 minutes
+    Paper ID: 19, Authors: Domenico Serra,  Giovanni Grano,  Fabio Palomba,  Filomena Ferrucci,  Harald Gall,  Alberto Bacchelli,   DOI,   Pre-print,   Media Attached, Topic: 5,  Duration: 6.0 minutes
+----------------------------------------
+Session 5 (Max length: 45.0 minutes):
+  Track 1 (Total duration: 45.0 minutes):
+    Paper ID: 49, Authors: Qin Liu,  Zihe Liu,  Hongming Zhu,  Hongfei Fan,  Bowen Du,  Yu Qian, Topic: 11,  Duration: 15.0 minutes
+    Paper ID: 89, Authors: Katsuro Inoue, Topic: 22,  Duration: 20.0 minutes
+    Paper ID: 92, Authors: , Topic: 22,  Duration: 5.0 minutes
+    Paper ID: 93, Authors: , Topic: 22,  Duration: 5.0 minutes
+----------------------------------------
+Session 6 (Max length: 45.0 minutes):
+  Track 1 (Total duration: 43.0 minutes):
+    Paper ID: 84, Authors: Daan Schipper,  Maurício Aniche,  Arie van Deursen,   Pre-print, Topic: 21,  Duration: 6.0 minutes
+    Paper ID: 74, Authors: Preetha Chatterjee,  Kostadin Damevski,  Lori Pollock,  Vinay Augustine,  Nicholas A. Kraft,   Pre-print, Topic: 18,  Duration: 15.0 minutes
+    Paper ID: 61, Authors: César Soto-Valero,  Amine Benelallam,  Nicolas Harrand,  Olivier Barais,  Benoit Baudry,   Pre-print, Topic: 14,  Duration: 15.0 minutes
+    Paper ID: 40, Authors: Xianhao Jin,  Francisco Servant,   Pre-print, Topic: 10,  Duration: 7.0 minutes
+  Track 2 (Total duration: 45.0 minutes):
+    Paper ID: 23, Authors: Kla Tantithamthavorn, Topic: 7,  Duration: 45.0 minutes
+----------------------------------------
+Session 7 (Max length: 120.0 minutes):
+  Track 1 (Total duration: 120.0 minutes):
+    Paper ID: 35, Authors: Akond Rahman,  Effat Farhana,  Nasif Imtiaz,   Pre-print, Topic: 10,  Duration: 7.0 minutes
+    Paper ID: 7, Authors: Hoa Khanh Dam,  Trang Pham,  Shien Wee Ng,  Truyen Tran,  John Grundy,  Aditya Ghose,  Taeksu Kim,  Chul-Joo Kim, Topic: 3,  Duration: 15.0 minutes
+    Paper ID: 67, Authors: Jiaxin Zhu,  Jun Wei, Topic: 16,  Duration: 15.0 minutes
+    Paper ID: 51, Authors: Shaohua Wang,  Nhathai Phan,  Yan Wang,  Yong Zhao, Topic: 11,  Duration: 15.0 minutes
+    Paper ID: 68, Authors: Reed Milewicz,  Gustavo Pinto,  Paige Rodeghero ,   Pre-print, Topic: 16,  Duration: 15.0 minutes
+    Paper ID: 28, Authors: Rijnard van Tonder,  Asher Trockman,  Claire Le Goues, Topic: 8,  Duration: 6.0 minutes
+    Paper ID: 69, Authors: Christoph Gote,  Ingo Scholtes,  Frank Schweitzer,   DOI,   Pre-print, Topic: 16,  Duration: 15.0 minutes
+    Paper ID: 27, Authors: Asher Trockman,  Rijnard van Tonder,  Bogdan Vasilescu,   Pre-print, Topic: 8,  Duration: 6.0 minutes
+    Paper ID: 46, Authors: Alan Bandeira,  Carlos Filho,  Matheus Paixao,  Paulo Maia,   Pre-print,   Media Attached, Topic: 10,  Duration: 7.0 minutes
+    Paper ID: 8, Authors: Max Kiehn,  Xiangyi Pan,  Fatih Camci, Topic: 3,  Duration: 6.0 minutes
+    Paper ID: 38, Authors: Themistoklis Diamantopoulos,  Maria-Ioanna Sifaki,  Andreas Symeonidis,   Pre-print,   Media Attached, Topic: 10,  Duration: 7.0 minutes
+    Paper ID: 9, Authors: Aalok Ahluwalia,  Davide Falessi,  Massimiliano Di Penta, Topic: 3,  Duration: 6.0 minutes
+----------------------------------------
+Session 8 (Max length: 45.0 minutes):
+  Track 1 (Total duration: 42.0 minutes):
+    Paper ID: 62, Authors: Jens Dietrich,  David J. Pearce,  Jacob Stringer,  Amjed Tahir,  Kelly Blincoe,   Pre-print, Topic: 14,  Duration: 15.0 minutes
+    Paper ID: 60, Authors: Amine Benelallam,  Nicolas Harrand,  César Soto-Valero,  Benoit Baudry,  Olivier Barais,   Pre-print, Topic: 14,  Duration: 6.0 minutes
+    Paper ID: 63, Authors: Anderson Severo de Matos,  João Bosco Ferreira Filho,  Lincoln Souza Rocha, Topic: 14,  Duration: 15.0 minutes
+    Paper ID: 72, Authors: Marius Kamp,  Patrick Kreutzer,  Michael Philippsen, Topic: 17,  Duration: 6.0 minutes
+  Track 2 (Total duration: 45.0 minutes):
+    Paper ID: 2, Authors: , Topic: 1,  Duration: 10.0 minutes
+    Paper ID: 44, Authors: Nasif Imtiaz,  Akond Rahman,  Effat Farhana,  Laurie Williams,   Pre-print, Topic: 10,  Duration: 7.0 minutes
+    Paper ID: 42, Authors: Saraj Singh Manes,  Olga Baysal,   Pre-print, Topic: 10,  Duration: 7.0 minutes
+    Paper ID: 22, Authors: Christoph Treude,  Markus Wagner ,   Pre-print, Topic: 6,  Duration: 15.0 minutes
+    Paper ID: 21, Authors: Musfiqur Rahman,  Peter Rigby,  Dharani Palani,  Tien N. Nguyen, Topic: 6,  Duration: 6.0 minutes
+----------------------------------------
+Session 9 (Max length: 50.0 minutes):
+  Track 1 (Total duration: 40.0 minutes):
+    Paper ID: 5, Authors: Thomas Zimmermann,  Alexander Serebrenik, Topic: 2,  Duration: 30.0 minutes
+    Paper ID: 4, Authors: , Topic: 2,  Duration: 10.0 minutes
+  Track 2 (Total duration: 50.0 minutes):
+    Paper ID: 39, Authors: Abhishek Soni,  Sarah Nadi,   Pre-print, Topic: 10,  Duration: 7.0 minutes
+    Paper ID: 54, Authors: Simone Scalabrino,  Gabriele Bavota,  Mario Linares-Vasquez,  Michele Lanza,  Rocco Oliveto, Topic: 12,  Duration: 15.0 minutes
+    Paper ID: 73, Authors: Saikat Mondal,  Masud Rahman,  Chanchal K. Roy,   Pre-print, Topic: 18,  Duration: 15.0 minutes
+    Paper ID: 45, Authors: Mashal Ahmad,  Mel Ó Cinnéide,   DOI,   Pre-print, Topic: 10,  Duration: 7.0 minutes
+    Paper ID: 87, Authors: Moein Owhadi-Kareshk,  Sarah Nadi, Topic: 21,  Duration: 6.0 minutes
+----------------------------------------
+Session 10 (Max length: 45.0 minutes):
+  Track 1 (Total duration: 44.0 minutes):
+    Paper ID: 50, Authors: Anwar Alqaimi,  Patanamon Thongtanunam,  Christoph Treude,   Pre-print, Topic: 11,  Duration: 15.0 minutes
+    Paper ID: 77, Authors: Zoe Kotti,  Diomidis Spinellis,   Pre-print, Topic: 20,  Duration: 15.0 minutes
+    Paper ID: 34, Authors: Uriel Ferreira Campos,  Guilherme Smethurst,  João Pedro Moraes,  Rodrigo Bonifácio,  Gustavo Pinto,   Pre-print, Topic: 10,  Duration: 7.0 minutes
+    Paper ID: 41, Authors: Durham Abric,  Oliver Clark,  Matthew Caminiti,  Keheliya Gallaba,  Shane McIntosh,   Pre-print, Topic: 10,  Duration: 7.0 minutes
+  Track 2 (Total duration: 45.0 minutes):
+    Paper ID: 53, Authors: João Eduardo Montandon,  Luciana L. Silva,  Marco Tulio Valente,   Pre-print, Topic: 12,  Duration: 15.0 minutes
+    Paper ID: 66, Authors: Vadim Markovtsev,  Hugo Mougard,  Waren Long,  Egor Bulychev,  Konstantin Slavnov,   Pre-print, Topic: 15,  Duration: 15.0 minutes
+    Paper ID: 10, Authors: Shayan Akbar,  Avinash Kak,   Pre-print,   Media Attached, Topic: 4,  Duration: 15.0 minutes
+----------------------------------------
+Session 11 (Max length: 35.0 minutes):
+  Track 1 (Total duration: 34.0 minutes):
+    Paper ID: 14, Authors: Aida Radu,  Sarah Nadi,   Pre-print, Topic: 5,  Duration: 6.0 minutes
+    Paper ID: 16, Authors: Stanislav Chren,  Radoslav Micko,  Barbora Buhnova,  Bruno Rossi,   Pre-print, Topic: 5,  Duration: 6.0 minutes
+    Paper ID: 15, Authors: Adithya Raghuraman,  Truong Ho-Quang,  Michel Chaudron,  Alexander Serebrenik,  Bogdan Vasilescu,   Pre-print, Topic: 5,  Duration: 6.0 minutes
+    Paper ID: 33, Authors: Sebastian Baltes,  Christoph Treude,  Stephan Diehl,   Pre-print, Topic: 10,  Duration: 10.0 minutes
+    Paper ID: 17, Authors: Dirk Beyer,   DOI,   Pre-print,   Media Attached, Topic: 5,  Duration: 6.0 minutes
+  Track 2 (Total duration: 15.0 minutes):
+    Paper ID: 31, Authors: Yuxing Ma,  Christopher Bogart,  Sadika Amreen,  Russell Zaretzki,  Audris Mockus, Topic: 9,  Duration: 15.0 minutes
+----------------------------------------
+Session 12 (Max length: 45.0 minutes):
+  Track 1 (Total duration: 45.0 minutes):
+    Paper ID: 70, Authors: João Felipe Pimentel,  Leonardo Murta,  Vanessa Braganholo,  Juliana Freire,   Pre-print, Topic: 17,  Duration: 15.0 minutes
+    Paper ID: 71, Authors: Daniel Perez,  Shigeru Chiba,   Pre-print, Topic: 17,  Duration: 15.0 minutes
+    Paper ID: 55, Authors: Triet Le Huynh Minh,  Bushra Sabir,  Muhammad Ali Babar, Topic: 13,  Duration: 15.0 minutes
+----------------------------------------
+Session 13 (Max length: 45.0 minutes):
+  Track 1 (Total duration: 45.0 minutes):
+    Paper ID: 3, Authors: Robert DeLine, Topic: 2,  Duration: 45.0 minutes
+  Track 2 (Total duration: 45.0 minutes):
+    Paper ID: 76, Authors: Christoph Treude, Topic: 19,  Duration: 45.0 minutes
+----------------------------------------
+Session 14 (Max length: 120.0 minutes):
+  Track 1 (Total duration: 117.0 minutes):
+    Paper ID: 91, Authors: Abram Hindle,  Mei Nagappan, Topic: 22,  Duration: 45.0 minutes
+    Paper ID: 6, Authors: Thong Hoang,  Hoa Khanh Dam,  Yasutaka Kamei,  David Lo,  Naoyasu Ubayashi, Topic: 3,  Duration: 15.0 minutes
+    Paper ID: 65, Authors: Jonas De Bleser,  Dario Di Nucci,  Coen De Roover,   Pre-print, Topic: 15,  Duration: 15.0 minutes
+    Paper ID: 24, Authors: Wellington de Oliveira Júnior,  Renato Santos,  Fernando Castor,  José Benito Fernandes De Araújo Neto,  Gustavo Pinto,   Pre-print, Topic: 8,  Duration: 15.0 minutes
+    Paper ID: 37, Authors: Nikolaos Bafatakis,  Niels Boecker,  Wenjie Boon,  Martin Cabello Salazar,  Jens Krinke,  Gazi Oznacar,  Robert White,   Pre-print,   Media Attached, Topic: 10,  Duration: 7.0 minutes
+    Paper ID: 90, Authors: Christian Bird,  Peter Rigby,  Earl T. Barr,  Daniel M. German, Topic: 22,  Duration: 20.0 minutes
+----------------------------------------
+
+
+
+######## Ideal solution ############
+
+
+Session #1 - Time Slot: (datetime.datetime(2019, 5, 26, 8, 45), datetime.datetime(2019, 5, 26, 9, 5))
+
+
+Track #1 at Place du Canada
+
+ID: 1, Authors: [''], Duration: 10.0, Topic: 1
+ID: 2, Authors: [''], Duration: 10.0, Topic: 1
+----------------------------------------
+Session #2 - Time Slot: (datetime.datetime(2019, 5, 26, 9, 5), datetime.datetime(2019, 5, 26, 10, 30))
+
+
+Track #1 at Place du Canada
+
+ID: 3, Authors: ['Robert DeLine'], Duration: 45.0, Topic: 2
+ID: 4, Authors: [''], Duration: 10.0, Topic: 2
+ID: 5, Authors: ['Thomas Zimmermann', ' Alexander Serebrenik'], Duration: 30.0, Topic: 2
+----------------------------------------
+Session #3 - Time Slot: (datetime.datetime(2019, 5, 26, 11, 0), datetime.datetime(2019, 5, 26, 11, 45))
+
+
+Track #1 at Centre-Ville
+
+ID: 6, Authors: ['Thong Hoang', ' Hoa Khanh Dam', ' Yasutaka Kamei', ' David Lo', ' Naoyasu Ubayashi'], Duration: 15.0, Topic: 3
+ID: 7, Authors: ['Hoa Khanh Dam', ' Trang Pham', ' Shien Wee Ng', ' Truyen Tran', ' John Grundy', ' Aditya Ghose', ' Taeksu Kim', ' Chul-Joo Kim'], Duration: 15.0, Topic: 3
+ID: 8, Authors: ['Max Kiehn', ' Xiangyi Pan', ' Fatih Camci'], Duration: 6.0, Topic: 3
+ID: 9, Authors: ['Aalok Ahluwalia', ' Davide Falessi', ' Massimiliano Di Penta'], Duration: 6.0, Topic: 3
+
+Track #2 at Place du Canada
+
+ID: 10, Authors: ['Shayan Akbar', ' Avinash Kak', '  Pre-print', '  Media Attached'], Duration: 15.0, Topic: 4
+ID: 11, Authors: ['Vladimir Kovalenko', ' Egor Bogomolov', ' Timofey Bryksin', ' Alberto Bacchelli', '  DOI', '  Pre-print', '  Media Attached'], Duration: 6.0, Topic: 4
+ID: 12, Authors: ['Bart Theeten', ' Frederik Vandeputte', ' Tom Van Cutsem', '  Pre-print'], Duration: 15.0, Topic: 4
+ID: 13, Authors: ['Vasiliki Efstathiou', ' Diomidis Spinellis', '  Pre-print'], Duration: 6.0, Topic: 4
+----------------------------------------
+Session #4 - Time Slot: (datetime.datetime(2019, 5, 26, 11, 55), datetime.datetime(2019, 5, 26, 12, 30))
+
+
+Track #1 at Centre-Ville
+
+ID: 14, Authors: ['Aida Radu', ' Sarah Nadi', '  Pre-print'], Duration: 6.0, Topic: 5
+ID: 15, Authors: ['Adithya Raghuraman', ' Truong Ho-Quang', ' Michel Chaudron', ' Alexander Serebrenik', ' Bogdan Vasilescu', '  Pre-print'], Duration: 6.0, Topic: 5
+ID: 16, Authors: ['Stanislav Chren', ' Radoslav Micko', ' Barbora Buhnova', ' Bruno Rossi', '  Pre-print'], Duration: 6.0, Topic: 5
+ID: 17, Authors: ['Dirk Beyer', '  DOI', '  Pre-print', '  Media Attached'], Duration: 6.0, Topic: 5
+ID: 18, Authors: ['Hongyu Zhai', ' Casey Casalnuovo', ' Prem Devanbu'], Duration: 6.0, Topic: 5
+ID: 19, Authors: ['Domenico Serra', ' Giovanni Grano', ' Fabio Palomba', ' Filomena Ferrucci', ' Harald Gall', ' Alberto Bacchelli', '  DOI', '  Pre-print', '  Media Attached'], Duration: 6.0, Topic: 5
+
+Track #2 at Place du Canada
+
+ID: 20, Authors: ['Eeshita Biswas', ' K. Vijay-Shanker', ' Lori Pollock', '  Pre-print'], Duration: 15.0, Topic: 6
+ID: 21, Authors: ['Musfiqur Rahman', ' Peter Rigby', ' Dharani Palani', ' Tien N. Nguyen'], Duration: 6.0, Topic: 6
+ID: 22, Authors: ['Christoph Treude', ' Markus Wagner ', '  Pre-print'], Duration: 15.0, Topic: 6
+----------------------------------------
+Session #5 - Time Slot: (datetime.datetime(2019, 5, 26, 13, 50), datetime.datetime(2019, 5, 26, 14, 35))
+
+
+Track #1 at Centre-Ville
+
+ID: 23, Authors: ['Kla Tantithamthavorn'], Duration: 45.0, Topic: 7
+----------------------------------------
+Session #6 - Time Slot: (datetime.datetime(2019, 5, 26, 14, 45), datetime.datetime(2019, 5, 26, 15, 30))
+
+
+Track #1 at Centre-Ville
+
+ID: 24, Authors: ['Wellington de Oliveira Júnior', ' Renato Santos', ' Fernando Castor', ' José Benito Fernandes De Araújo Neto', ' Gustavo Pinto', '  Pre-print'], Duration: 15.0, Topic: 8
+ID: 25, Authors: ['Rui Pereira', ' Marco Couto', ' João Paulo Fernandes', ' Bruno Cabral', ' Hugo Matalonga', ' Simão Melo de Sousa', ' Fernando Castor', '  Pre-print'], Duration: 6.0, Topic: 8
+ID: 26, Authors: ['Rui Rua', ' Marco Couto', ' João Saraiva'], Duration: 6.0, Topic: 8
+ID: 27, Authors: ['Asher Trockman', ' Rijnard van Tonder', ' Bogdan Vasilescu', '  Pre-print'], Duration: 6.0, Topic: 8
+ID: 28, Authors: ['Rijnard van Tonder', ' Asher Trockman', ' Claire Le Goues'], Duration: 6.0, Topic: 8
+
+Track #2 at Place du Canada
+
+ID: 29, Authors: ['Dimitris Mitropoulos', ' Panos Louridas', ' Vitalis Salis', ' Diomidis Spinellis', '  Pre-print'], Duration: 15.0, Topic: 9
+ID: 30, Authors: ['Antoine Pietri', ' Diomidis Spinellis', ' Stefano Zacchiroli', '  Pre-print'], Duration: 6.0, Topic: 9
+ID: 31, Authors: ['Yuxing Ma', ' Christopher Bogart', ' Sadika Amreen', ' Russell Zaretzki', ' Audris Mockus'], Duration: 15.0, Topic: 9
+ID: 32, Authors: ['Dimitris Kolovos', ' Patrick Neubauer', ' Konstantinos Barmpis', ' Nicholas Matragkas', ' Richard Paige', '  Pre-print'], Duration: 6.0, Topic: 9
+----------------------------------------
+Session #7 - Time Slot: (datetime.datetime(2019, 5, 26, 16, 0), datetime.datetime(2019, 5, 26, 18, 0))
+
+
+Track #1 at Place du Canada
+
+ID: 33, Authors: ['Sebastian Baltes', ' Christoph Treude', ' Stephan Diehl', '  Pre-print'], Duration: 10.0, Topic: 10
+ID: 34, Authors: ['Uriel Ferreira Campos', ' Guilherme Smethurst', ' João Pedro Moraes', ' Rodrigo Bonifácio', ' Gustavo Pinto', '  Pre-print'], Duration: 7.0, Topic: 10
+ID: 35, Authors: ['Akond Rahman', ' Effat Farhana', ' Nasif Imtiaz', '  Pre-print'], Duration: 7.0, Topic: 10
+ID: 36, Authors: ['Jens Dietrich', ' Markus Luczak-Roesch', ' Elroy Dalefield', '  Pre-print'], Duration: 7.0, Topic: 10
+ID: 37, Authors: ['Nikolaos Bafatakis', ' Niels Boecker', ' Wenjie Boon', ' Martin Cabello Salazar', ' Jens Krinke', ' Gazi Oznacar', ' Robert White', '  Pre-print', '  Media Attached'], Duration: 7.0, Topic: 10
+ID: 38, Authors: ['Themistoklis Diamantopoulos', ' Maria-Ioanna Sifaki', ' Andreas Symeonidis', '  Pre-print', '  Media Attached'], Duration: 7.0, Topic: 10
+ID: 39, Authors: ['Abhishek Soni', ' Sarah Nadi', '  Pre-print'], Duration: 7.0, Topic: 10
+ID: 40, Authors: ['Xianhao Jin', ' Francisco Servant', '  Pre-print'], Duration: 7.0, Topic: 10
+ID: 41, Authors: ['Durham Abric', ' Oliver Clark', ' Matthew Caminiti', ' Keheliya Gallaba', ' Shane McIntosh', '  Pre-print'], Duration: 7.0, Topic: 10
+ID: 42, Authors: ['Saraj Singh Manes', ' Olga Baysal', '  Pre-print'], Duration: 7.0, Topic: 10
+ID: 43, Authors: ['Manziba Nishi', ' Agnieszka Ciborowska ', ' Kostadin Damevski', '  Pre-print'], Duration: 7.0, Topic: 10
+ID: 44, Authors: ['Nasif Imtiaz', ' Akond Rahman', ' Effat Farhana', ' Laurie Williams', '  Pre-print'], Duration: 7.0, Topic: 10
+ID: 45, Authors: ['Mashal Ahmad', ' Mel Ó Cinnéide', '  DOI', '  Pre-print'], Duration: 7.0, Topic: 10
+ID: 46, Authors: ['Alan Bandeira', ' Carlos Filho', ' Matheus Paixao', ' Paulo Maia', '  Pre-print', '  Media Attached'], Duration: 7.0, Topic: 10
+ID: 47, Authors: ['Hareem-e-Sahar ', ' Abdul Ali Bangash', ' Alexander William Wong', ' Shaiful Chowdhury', ' Abram Hindle', ' Karim Ali'], Duration: 7.0, Topic: 10
+ID: 48, Authors: [''], Duration: 12.0, Topic: 10
+----------------------------------------
+Session #8 - Time Slot: (datetime.datetime(2019, 5, 27, 8, 45), datetime.datetime(2019, 5, 27, 9, 30))
+
+
+Track #1 at Centre-Ville
+
+ID: 49, Authors: ['Qin Liu', ' Zihe Liu', ' Hongming Zhu', ' Hongfei Fan', ' Bowen Du', ' Yu Qian'], Duration: 15.0, Topic: 11
+ID: 50, Authors: ['Anwar Alqaimi', ' Patanamon Thongtanunam', ' Christoph Treude', '  Pre-print'], Duration: 15.0, Topic: 11
+ID: 51, Authors: ['Shaohua Wang', ' Nhathai Phan', ' Yan Wang', ' Yong Zhao'], Duration: 15.0, Topic: 11
+
+Track #2 at Place du Canada
+
+ID: 52, Authors: ['Sven Amann', ' Hoan Nguyen', ' Sarah Nadi', ' Tien N. Nguyen', ' Mira Mezini', '  Pre-print'], Duration: 15.0, Topic: 12
+ID: 53, Authors: ['João Eduardo Montandon', ' Luciana L. Silva', ' Marco Tulio Valente', '  Pre-print'], Duration: 15.0, Topic: 12
+ID: 54, Authors: ['Simone Scalabrino', ' Gabriele Bavota', ' Mario Linares-Vasquez', ' Michele Lanza', ' Rocco Oliveto'], Duration: 15.0, Topic: 12
+----------------------------------------
+Session #9 - Time Slot: (datetime.datetime(2019, 5, 27, 9, 40), datetime.datetime(2019, 5, 27, 10, 30))
+
+
+Track #1 at Centre-Ville
+
+ID: 55, Authors: ['Triet Le Huynh Minh', ' Bushra Sabir', ' Muhammad Ali Babar'], Duration: 15.0, Topic: 13
+ID: 56, Authors: ['Serena Elisa Ponta', ' Henrik Plate', ' Antonino Sabetta', ' Michele Bezzi', ' Cédric Dangremont'], Duration: 6.0, Topic: 13
+ID: 57, Authors: ['Jun Gao', ' Pingfan Kong', ' Li Li', ' Tegawendé F. Bissyandé', ' Jacques Klein'], Duration: 15.0, Topic: 13
+ID: 58, Authors: ['Anna-Katharina Wickert', ' Michael Reif', ' Michael Eichberg', ' Anam Dodhy', ' Mira Mezini', '  Link to publication', '  DOI', '  Pre-print', '  Media Attached'], Duration: 6.0, Topic: 13
+ID: 59, Authors: ['Haoyu Wang', ' Junjun Si', ' Hao Li ', ' Yao Guo'], Duration: 6.0, Topic: 13
+
+Track #2 at Place du Canada
+
+ID: 60, Authors: ['Amine Benelallam', ' Nicolas Harrand', ' César Soto-Valero', ' Benoit Baudry', ' Olivier Barais', '  Pre-print'], Duration: 6.0, Topic: 14
+ID: 61, Authors: ['César Soto-Valero', ' Amine Benelallam', ' Nicolas Harrand', ' Olivier Barais', ' Benoit Baudry', '  Pre-print'], Duration: 15.0, Topic: 14
+ID: 62, Authors: ['Jens Dietrich', ' David J. Pearce', ' Jacob Stringer', ' Amjed Tahir', ' Kelly Blincoe', '  Pre-print'], Duration: 15.0, Topic: 14
+ID: 63, Authors: ['Anderson Severo de Matos', ' João Bosco Ferreira Filho', ' Lincoln Souza Rocha'], Duration: 15.0, Topic: 14
+----------------------------------------
+Session #10 - Time Slot: (datetime.datetime(2019, 5, 27, 11, 0), datetime.datetime(2019, 5, 27, 11, 45))
+
+
+Track #1 at Centre-Ville
+
+ID: 64, Authors: ['Sarra Habchi', ' Romain Rouvoy', ' Naouel Moha'], Duration: 15.0, Topic: 15
+ID: 65, Authors: ['Jonas De Bleser', ' Dario Di Nucci', ' Coen De Roover', '  Pre-print'], Duration: 15.0, Topic: 15
+ID: 66, Authors: ['Vadim Markovtsev', ' Hugo Mougard', ' Waren Long', ' Egor Bulychev', ' Konstantin Slavnov', '  Pre-print'], Duration: 15.0, Topic: 15
+
+Track #2 at Place du Canada
+
+ID: 67, Authors: ['Jiaxin Zhu', ' Jun Wei'], Duration: 15.0, Topic: 16
+ID: 68, Authors: ['Reed Milewicz', ' Gustavo Pinto', ' Paige Rodeghero ', '  Pre-print'], Duration: 15.0, Topic: 16
+ID: 69, Authors: ['Christoph Gote', ' Ingo Scholtes', ' Frank Schweitzer', '  DOI', '  Pre-print'], Duration: 15.0, Topic: 16
+----------------------------------------
+Session #11 - Time Slot: (datetime.datetime(2019, 5, 27, 11, 55), datetime.datetime(2019, 5, 27, 12, 30))
+
+
+Track #1 at Centre-Ville
+
+ID: 70, Authors: ['João Felipe Pimentel', ' Leonardo Murta', ' Vanessa Braganholo', ' Juliana Freire', '  Pre-print'], Duration: 15.0, Topic: 17
+ID: 71, Authors: ['Daniel Perez', ' Shigeru Chiba', '  Pre-print'], Duration: 15.0, Topic: 17
+ID: 72, Authors: ['Marius Kamp', ' Patrick Kreutzer', ' Michael Philippsen'], Duration: 6.0, Topic: 17
+
+Track #2 at Place du Canada
+
+ID: 73, Authors: ['Saikat Mondal', ' Masud Rahman', ' Chanchal K. Roy', '  Pre-print'], Duration: 15.0, Topic: 18
+ID: 74, Authors: ['Preetha Chatterjee', ' Kostadin Damevski', ' Lori Pollock', ' Vinay Augustine', ' Nicholas A. Kraft', '  Pre-print'], Duration: 15.0, Topic: 18
+ID: 75, Authors: ['Junichi Hayashi', ' Yoshiki Higo', ' Shinsuke Matsumoto', ' Shinji Kusumoto', '  Pre-print'], Duration: 6.0, Topic: 18
+----------------------------------------
+Session #12 - Time Slot: (datetime.datetime(2019, 5, 27, 13, 50), datetime.datetime(2019, 5, 27, 14, 35))
+
+
+Track #1 at Centre-Ville
+
+ID: 76, Authors: ['Christoph Treude'], Duration: 45.0, Topic: 19
+----------------------------------------
+Session #13 - Time Slot: (datetime.datetime(2019, 5, 27, 14, 45), datetime.datetime(2019, 5, 27, 15, 30))
+
+
+Track #1 at Centre-Ville
+
+ID: 77, Authors: ['Zoe Kotti', ' Diomidis Spinellis', '  Pre-print'], Duration: 15.0, Topic: 20
+ID: 78, Authors: ['Sumon Biswas', ' Md Johirul Islam', ' Yijia Huang', ' Hridesh Rajan', '  Pre-print', '  Media Attached'], Duration: 6.0, Topic: 20
+ID: 79, Authors: ['Oliviero Riganelli', ' Marco Mobilio', ' Daniela Micucci', ' Leonardo Mariani'], Duration: 6.0, Topic: 20
+ID: 80, Authors: ['Saket Joshi', ' Sridhar Chimalakonda'], Duration: 6.0, Topic: 20
+ID: 81, Authors: ['Ahmed Zerouali', ' Valerio Cosentino', ' Jesus M. Gonzalez-Barahona', ' Gregorio Robles', ' Tom Mens', '  Pre-print'], Duration: 6.0, Topic: 20
+ID: 82, Authors: ['Gian Luca Scoccia', ' Anthony Peruma', ' Virginia Pujols', ' Ben Christians', ' Daniel Krutz'], Duration: 6.0, Topic: 20
+
+Track #2 at Place du Canada
+
+ID: 83, Authors: ['Aidan Z.H. Yang', ' Daniel Alencar Da Costa ', ' Ying Zou'], Duration: 15.0, Topic: 21
+ID: 84, Authors: ['Daan Schipper', ' Maurício Aniche', ' Arie van Deursen', '  Pre-print'], Duration: 6.0, Topic: 21
+ID: 85, Authors: ['Junnosuke Matsumoto', ' Yoshiki Higo', ' Shinji Kusumoto', '  Pre-print'], Duration: 6.0, Topic: 21
+ID: 86, Authors: ['Ryosuke Funaki', ' Shinpei Hayashi', ' Motoshi Saeki', '  Pre-print'], Duration: 6.0, Topic: 21
+ID: 87, Authors: ['Moein Owhadi-Kareshk', ' Sarah Nadi'], Duration: 6.0, Topic: 21
+----------------------------------------
+Session #14 - Time Slot: (datetime.datetime(2019, 5, 27, 16, 0), datetime.datetime(2019, 5, 27, 18, 0))
+
+
+Track #1 at Place du Canada
+
+ID: 88, Authors: [''], Duration: 25.0, Topic: 22
+ID: 89, Authors: ['Katsuro Inoue'], Duration: 20.0, Topic: 22
+ID: 90, Authors: ['Christian Bird', ' Peter Rigby', ' Earl T. Barr', ' Daniel M. German'], Duration: 20.0, Topic: 22
+ID: 91, Authors: ['Abram Hindle', ' Mei Nagappan'], Duration: 45.0, Topic: 22
+ID: 92, Authors: [''], Duration: 5.0, Topic: 22
+ID: 93, Authors: [''], Duration: 5.0, Topic: 22
+----------------------------------------

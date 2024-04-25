@@ -1,0 +1,370 @@
+population_size: 100 max_generations: 3000
+Session 1 (Max length: 90.0 minutes):
+  Track 1 (Total duration: 90.0 minutes):
+    Paper ID: 66, Authors: Himesh Nandani,  Mootez Saad,  Tushar Sharma,   Pre-print,   File Attached, Topic: 18,  Duration: 6.0 minutes
+    Paper ID: 67, Authors: Gunnar Kudrjavets,  Aditya Kumar,  Ayushi Rastogi,   Pre-print, Topic: 18,  Duration: 6.0 minutes
+    Paper ID: 19, Authors: Joshua D. Scarsbrook,  Mark Utting,  Ryan K. L. Ko,   Pre-print, Topic: 5,  Duration: 6.0 minutes
+    Paper ID: 42, Authors: Abdul Ali Bangash,  Qasim Jamal,  Kalvin Eng,  Karim Ali,  Abram Hindle,   Pre-print, Topic: 11,  Duration: 12.0 minutes
+    Paper ID: 31, Authors: Md Abul Kalam Azad,  Nafees Iqbal,  Foyzul Hassan,  Probir Roy,   Pre-print, Topic: 8,  Duration: 12.0 minutes
+    Paper ID: 83, Authors: Kevin Jesse,  Toufique Ahmed,  Prem Devanbu,  Emily Morgan,   Pre-print, Topic: 23,  Duration: 12.0 minutes
+    Paper ID: 34, Authors: Leonhard Applis,  Annibale Panichella, Topic: 8,  Duration: 6.0 minutes
+    Paper ID: 35, Authors: Jueun Heo,  Seonah Lee, Topic: 8,  Duration: 6.0 minutes
+    Paper ID: 65, Authors: Tom Mashiach,  Bruno Sotto-Mayor,  Gal Kaminka,  Meir Kalech, Topic: 18,  Duration: 6.0 minutes
+    Paper ID: 33, Authors: Lukas Schulte,  Anamaria Mojica-Hanke,  Mario Linares-Vasquez,  Steffen Herbold, Topic: 8,  Duration: 6.0 minutes
+    Paper ID: 6, Authors: Phuong T. Nguyen,  Riccardo Rubei,  Juri Di Rocco,  Claudio Di Sipio,  Davide Di Ruscio,  Massimiliano Di Penta,   Pre-print, Topic: 2,  Duration: 12.0 minutes
+----------------------------------------
+Session 2 (Max length: 45.0 minutes):
+  Track 1 (Total duration: 42.0 minutes):
+    Paper ID: 25, Authors: Kim Herzig,  Andreas Zeller, Topic: 6,  Duration: 30.0 minutes
+    Paper ID: 69, Authors: Natarajan Chidambaram,  Alexandre Decan ,  Tom Mens, Topic: 19,  Duration: 6.0 minutes
+    Paper ID: 70, Authors: Morakot Choetkiertikul,  Apirak Hoonlor,  Chaiyong Ragkhitwetsagul,  Siripen Pongpaichet,  Thanwadee Sunetnanta,  Tasha Settewong,  Raula Gaikovina Kula, Topic: 19,  Duration: 6.0 minutes
+  Track 2 (Total duration: 44.0 minutes):
+    Paper ID: 55, Authors: Piotr Przymus,  Mikołaj Fejzer,  Jakub Narębski,  Krzysztof Stencel,   Pre-print, Topic: 16,  Duration: 6.0 minutes
+    Paper ID: 2, Authors: Audris Mockus, Topic: 1,  Duration: 20.0 minutes
+    Paper ID: 53, Authors: Weijie Sun,  Samuel Iwuchukwu,  Abdul Ali Bangash,  Abram Hindle,   Pre-print, Topic: 16,  Duration: 6.0 minutes
+    Paper ID: 56, Authors: Anisha Islam,  Nipuni Tharushika Hewage,  Abdul Ali Bangash,  Abram Hindle,   Pre-print, Topic: 16,  Duration: 6.0 minutes
+    Paper ID: 54, Authors: Arifa Islam Champa,  Md Fazle Rabbi,  Minhaz F. Zibran,  Md Rakibul Islam,   Pre-print, Topic: 16,  Duration: 6.0 minutes
+----------------------------------------
+Session 3 (Max length: 45.0 minutes):
+  Track 1 (Total duration: 30.0 minutes):
+    Paper ID: 93, Authors: David Lo, Topic: 25,  Duration: 30.0 minutes
+  Track 2 (Total duration: 43.0 minutes):
+    Paper ID: 94, Authors: Emad Shihab, Topic: 25,  Duration: 25.0 minutes
+    Paper ID: 46, Authors: Anna-Katharina Wickert,  Clemens Damke,  Lars Baumgärtner,  Eyke Hüllermeier,  Mira Mezini,   Pre-print,   File Attached, Topic: 12,  Duration: 12.0 minutes
+    Paper ID: 82, Authors: Emily Bui,  Henrique Rocha, Topic: 22,  Duration: 6.0 minutes
+----------------------------------------
+Session 4 (Max length: 30.0 minutes):
+  Track 1 (Total duration: 30.0 minutes):
+    Paper ID: 43, Authors: Shriram Shanbhag,  Sridhar Chimalakonda,   Pre-print, Topic: 11,  Duration: 12.0 minutes
+    Paper ID: 12, Authors: Chengjie Lu,  Tao Yue,  Shaukat Ali,   Pre-print, Topic: 3,  Duration: 6.0 minutes
+    Paper ID: 10, Authors: Chao Wang,  Zhenpeng Chen,  Minghui Zhou,   Pre-print, Topic: 3,  Duration: 12.0 minutes
+----------------------------------------
+Session 5 (Max length: 55.0 minutes):
+  Track 1 (Total duration: 45.0 minutes):
+    Paper ID: 51, Authors: Baishakhi Ray, Topic: 14,  Duration: 45.0 minutes
+  Track 2 (Total duration: 54.0 minutes):
+    Paper ID: 92, Authors: Minghui Zhou, Topic: 25,  Duration: 30.0 minutes
+    Paper ID: 48, Authors: Hoang H. Nguyen,  Nhat-Minh Nguyen,  Chunyao Xie,  Zahra Ahmadi,  Daniel Kudenko,  Thanh-Nam Doan,  Lingxiao Jiang,   Pre-print,   Media Attached, Topic: 12,  Duration: 12.0 minutes
+    Paper ID: 86, Authors: Parvez Mahbub,  Ohiduzzaman Shuvo,  Masud Rahman,   Pre-print, Topic: 23,  Duration: 6.0 minutes
+    Paper ID: 85, Authors: Catherine Tony,  Markus Mutas,  Nicolás E. Díaz Ferreyra,  Riccardo Scandariato,   Pre-print, Topic: 23,  Duration: 6.0 minutes
+----------------------------------------
+Session 6 (Max length: 45.0 minutes):
+  Track 1 (Total duration: 40.0 minutes):
+    Paper ID: 52, Authors: Christoph Gote, Topic: 15,  Duration: 40.0 minutes
+  Track 2 (Total duration: 42.0 minutes):
+    Paper ID: 87, Authors: Mojtaba Shahin,  Mansooreh Zahedi,  Hourieh Khalajzadeh,  Ali Rezaei Nasab,   Pre-print, Topic: 24,  Duration: 12.0 minutes
+    Paper ID: 15, Authors: Henry Tang,  Sarah Nadi, Topic: 4,  Duration: 12.0 minutes
+    Paper ID: 90, Authors: Yibo Yan,  Seth Frey,  Amy Zhang,  Vladimir Filkov,  Likang Yin,   Pre-print, Topic: 24,  Duration: 6.0 minutes
+    Paper ID: 18, Authors: Nafiseh Nikehgbal,  Amir Hossein Kargaran,  Abbas Heydarnoori,  Hinrich Schütze,   Pre-print, Topic: 4,  Duration: 6.0 minutes
+    Paper ID: 89, Authors: Christoph Treude,  Hideaki Hata,   Pre-print,   Media Attached, Topic: 24,  Duration: 6.0 minutes
+----------------------------------------
+Session 7 (Max length: 45.0 minutes):
+  Track 1 (Total duration: 44.0 minutes):
+    Paper ID: 91, Authors: Eman Abdullah AlOmar, Topic: 25,  Duration: 20.0 minutes
+    Paper ID: 37, Authors: Hamid Mohayeji Nasrabadi,  Andrei Agaronian,  Eleni Constantinou,  Nicola Zanone,  Alexander Serebrenik, Topic: 10,  Duration: 12.0 minutes
+    Paper ID: 38, Authors: José Diego Saraiva da Silva,  Daniel Alencar Da Costa,  Uirá Kulesza,  Gustavo Sizílio,  José Gameleira Neto,  Roberta Coelho,  Mei Nagappan, Topic: 10,  Duration: 12.0 minutes
+  Track 2 (Total duration: 42.0 minutes):
+    Paper ID: 47, Authors: Gerhard Jungwirth,  Aakanksha Saha,  Michael Schröder,  Tobias Fiebig,  Martina Lindorfer,  Jürgen Cito,   Pre-print, Topic: 12,  Duration: 12.0 minutes
+    Paper ID: 73, Authors: Donald Pinckney,  Federico Cassano,  Arjun Guha,  Jonathan Bell,   Pre-print, Topic: 20,  Duration: 12.0 minutes
+    Paper ID: 7, Authors: Ilham Qasse,  Mohammad Hamdaqa,  Björn Þór Jónsson, Topic: 2,  Duration: 6.0 minutes
+    Paper ID: 9, Authors: Jirat Pasuksmit,  Fan Jiang,  Kemp Thornton,  Arik Friedman,  Natalija Fuksmane,  Isabelle Kohout,  Julian Connor,   Pre-print, Topic: 2,  Duration: 6.0 minutes
+    Paper ID: 8, Authors: Michael Schröder,  Jürgen Cito,   Pre-print, Topic: 2,  Duration: 6.0 minutes
+----------------------------------------
+Session 8 (Max length: 180.0 minutes):
+  Track 1 (Total duration: 177.0 minutes):
+    Paper ID: 84, Authors: Feifei Niu,  Christoph Mayr-Dorn,  Wesley Assunção,  Liguo Huang,  Jidong Ge,  Bin Luo,  Alexander Egyed,   Pre-print,   File Attached, Topic: 23,  Duration: 12.0 minutes
+    Paper ID: 27, Authors: Bernd Gruner,  Tim Sonnekalb,  Thomas S. Heinze,  Clemens-Alexander Brust, Topic: 7,  Duration: 12.0 minutes
+    Paper ID: 16, Authors: Zhou Yang,  Chenyu Wang,  Jieke Shi,  Thong Hoang,  Pavneet Singh Kochhar,  Qinghua Lu,  Zhenchang Xing,  David Lo, Topic: 4,  Duration: 12.0 minutes
+    Paper ID: 22, Authors: Simon Schneider,  Tufan Özen,  Michael Chen,  Riccardo Scandariato, Topic: 5,  Duration: 6.0 minutes
+    Paper ID: 24, Authors: Md Tajmilur Rahman, Topic: 5,  Duration: 6.0 minutes
+    Paper ID: 81, Authors: Ali Keshk,  Robert Dyer,   Pre-print,   Media Attached, Topic: 22,  Duration: 12.0 minutes
+    Paper ID: 28, Authors: Tim van Dam,  Maliheh Izadi,  Arie van Deursen,   Pre-print, Topic: 7,  Duration: 12.0 minutes
+    Paper ID: 78, Authors: Tim Menzies,   Pre-print, Topic: 21,  Duration: 45.0 minutes
+    Paper ID: 49, Authors: Setu Kumar Basak,  Lorenzo Neil,  Bradley Reaves,  Laurie Williams,   Pre-print, Topic: 12,  Duration: 6.0 minutes
+    Paper ID: 26, Authors: Seif Abukhalaf,  Mohammad Hamdaqa,  Foutse Khomh, Topic: 7,  Duration: 12.0 minutes
+    Paper ID: 30, Authors: Brandon Keller,  Benjamin S. Meyers,  Andrew Meneely, Topic: 8,  Duration: 12.0 minutes
+    Paper ID: 41, Authors: Gunnar Kudrjavets,  Nachiappan Nagappan,  Ayushi Rastogi,   Pre-print, Topic: 10,  Duration: 6.0 minutes
+    Paper ID: 39, Authors: Pablo Valenzuela-Toledo,  Alexandre Bergel,  Timo Kehrer,  Oscar Nierstrasz, Topic: 10,  Duration: 6.0 minutes
+    Paper ID: 32, Authors: Themistoklis Diamantopoulos,  Dimitrios-Nikitas Nastos,  Andreas Symeonidis,   Pre-print, Topic: 8,  Duration: 6.0 minutes
+    Paper ID: 21, Authors: Satrio Adi Rukmono,  Michel Chaudron, Topic: 5,  Duration: 6.0 minutes
+    Paper ID: 40, Authors: Arik Friedman,  Rohan Dhupelia,  Ben Jackson,   File Attached, Topic: 10,  Duration: 6.0 minutes
+----------------------------------------
+Session 9 (Max length: 45.0 minutes):
+  Track 1 (Total duration: 42.0 minutes):
+    Paper ID: 61, Authors: Akhila Sri Manasa Venigalla,  Sridhar Chimalakonda, Topic: 17,  Duration: 6.0 minutes
+    Paper ID: 58, Authors: Dong Wang,  Tao Xiao,  Christoph Treude,  Raula Gaikovina Kula,  Hideaki Hata,  Yasutaka Kamei,   Pre-print, Topic: 17,  Duration: 12.0 minutes
+    Paper ID: 80, Authors: Ruben Opdebeeck,  Ahmed Zerouali,  Coen De Roover,   Pre-print, Topic: 22,  Duration: 12.0 minutes
+    Paper ID: 60, Authors: Joseph Vargovich,  Fabio Marcos De Abreu Santos,  Jacob Penney,  Marco Gerosa,  Igor Steinmacher,   Pre-print,   Media Attached, Topic: 17,  Duration: 6.0 minutes
+    Paper ID: 62, Authors: Murali Sridharan,  Leevi Rantala,  Mika Mäntylä, Topic: 17,  Duration: 6.0 minutes
+----------------------------------------
+Session 10 (Max length: 40.0 minutes):
+  Track 1 (Total duration: 38.0 minutes):
+    Paper ID: 1, Authors: Emad Shihab,  Patanamon Thongtanunam,  Bogdan Vasilescu, Topic: 1,  Duration: 20.0 minutes
+    Paper ID: 88, Authors: Fabio Marcos De Abreu Santos,  Jacob Penney,  João Felipe Pimentel,  Igor Wiese,  Igor Steinmacher,  Marco Gerosa,   Pre-print, Topic: 24,  Duration: 12.0 minutes
+    Paper ID: 20, Authors: Tobias Litzenberger,  Johannes Düsing,  Ben Hermann, Topic: 5,  Duration: 6.0 minutes
+  Track 2 (Total duration: 18.0 minutes):
+    Paper ID: 74, Authors: Akira Mori,  Masatomo Hashimoto, Topic: 20,  Duration: 12.0 minutes
+    Paper ID: 76, Authors: Sophia Vargas, Topic: 20,  Duration: 6.0 minutes
+----------------------------------------
+Session 11 (Max length: 45.0 minutes):
+  Track 1 (Total duration: 44.0 minutes):
+    Paper ID: 3, Authors: Li Li, Topic: 1,  Duration: 20.0 minutes
+    Paper ID: 64, Authors: mawenhao ,  Yaoxiang Yu,  Xiaoming Ruan,  Bo Cai, Topic: 18,  Duration: 12.0 minutes
+    Paper ID: 23, Authors: Alexander Nicholson,  Quentin Stiévenart,  Arash Mazidi,  Mohammad Ghafari, Topic: 5,  Duration: 12.0 minutes
+  Track 2 (Total duration: 42.0 minutes):
+    Paper ID: 75, Authors: Mohayeminul Islam,  Ajay Jha,  Sarah Nadi,  Ildar Akhmetov, Topic: 20,  Duration: 6.0 minutes
+    Paper ID: 45, Authors: Laura Duits,  Isha Kashyap,  Joey Bekkink,  Kousar Aslam,  Emitzá Guzmán, Topic: 11,  Duration: 12.0 minutes
+    Paper ID: 77, Authors: Kanchanok Kannee,  Raula Gaikovina Kula,  Supatsara Wattanakriengkrai,  Kenichi Matsumoto,   Pre-print, Topic: 20,  Duration: 6.0 minutes
+    Paper ID: 44, Authors: Anne Hennig,  Lukas Schulte,  Steffen Herbold,  Oksana Kulyk,  Peter Mayer, Topic: 11,  Duration: 6.0 minutes
+    Paper ID: 17, Authors: Ivana Clairine Irsan,  Ting Zhang,  Ferdian Thung,  Kisub Kim,  David Lo, Topic: 4,  Duration: 12.0 minutes
+----------------------------------------
+Session 12 (Max length: 45.0 minutes):
+  Track 1 (Total duration: 45.0 minutes):
+    Paper ID: 36, Authors: Nicole Novielli, Topic: 9,  Duration: 45.0 minutes
+  Track 2 (Total duration: 42.0 minutes):
+    Paper ID: 71, Authors: Konstantin Grotov,  Sergey Titov,  Alexandr Suhinin,  Yaroslav Golubev,  Timofey Bryksin,   Pre-print, Topic: 19,  Duration: 6.0 minutes
+    Paper ID: 68, Authors: Imam Nur Bani Yusuf,  Diyanah Binte Abdul Jamal,  Lingxiao Jiang,   Pre-print, Topic: 19,  Duration: 12.0 minutes
+    Paper ID: 72, Authors: Chao Ni,  xiaodanxu ,  Kaiwen Yang,  David Lo, Topic: 19,  Duration: 12.0 minutes
+    Paper ID: 29, Authors: Iman Saberi,  Fatemeh Hendijani Fard, Topic: 7,  Duration: 12.0 minutes
+----------------------------------------
+Session 13 (Max length: 45.0 minutes):
+  Track 1 (Total duration: 30.0 minutes):
+    Paper ID: 4, Authors: Miltiadis Allamanis,  Charles Sutton, Topic: 1,  Duration: 30.0 minutes
+  Track 2 (Total duration: 45.0 minutes):
+    Paper ID: 5, Authors: Kazi Amit Hasan,  Marcos Macedo,  Yuan Tian,  Bram Adams,  Ding Steven,  H.,  H.,   Pre-print, Topic: 2,  Duration: 12.0 minutes
+    Paper ID: 79, Authors: Ahmed Zerouali,  Ruben Opdebeeck,  Coen De Roover,   Pre-print, Topic: 22,  Duration: 12.0 minutes
+    Paper ID: 63, Authors: Anderson Oliveira,  João Lucas Correia,  Leonardo Da Silva Sousa,  Wesley Assunção,  Daniel Coutinho,  Alessandro Garcia,  Willian Oizumi,  Caio Barbosa,  Anderson Uchôa,  Juliana Alves Pereira,   Pre-print, Topic: 18,  Duration: 12.0 minutes
+    Paper ID: 57, Authors: Oz Kilic,  Nathaniel Bowness,  Olga Baysal,   Pre-print, Topic: 16,  Duration: 6.0 minutes
+    Paper ID: 50, Authors: , Topic: 13,  Duration: 3.0 minutes
+----------------------------------------
+Session 14 (Max length: 40.0 minutes):
+  Track 1 (Total duration: 0 minutes):
+  Track 2 (Total duration: 36.0 minutes):
+    Paper ID: 11, Authors: Nima Shiri Harzevili,  Jiho Shin,  Junjie Wang,  Song Wang,  Nachiappan Nagappan, Topic: 3,  Duration: 12.0 minutes
+    Paper ID: 14, Authors: Wenxin Jiang,  Nicholas Synovic,  Purvish Jajal,  Taylor R. Schorlemmer,  Arav Tewari,  Bhavesh Pareek,  George K. Thiruvathukal,  James C. Davis,   Pre-print, Topic: 3,  Duration: 6.0 minutes
+    Paper ID: 59, Authors: Saikat Mondal,  Masud Rahman,  Chanchal K. Roy,   Pre-print, Topic: 17,  Duration: 12.0 minutes
+    Paper ID: 13, Authors: Ratnadira Widyasari,  Zhou Yang,  Ferdian Thung,  Sheng Qin Sim,  Fiona Wee,  Camellia Lok,  Jack Phan,  Haodi Qi,  Constance Tan,  Qijin Tay,  David Lo, Topic: 3,  Duration: 6.0 minutes
+----------------------------------------
+Session 15 (Max length: 105.0 minutes):
+  Track 1 (Total duration: 0 minutes):
+----------------------------------------
+
+
+
+######## Ideal solution ############
+
+
+Session #1 - Time Slot: (datetime.datetime(2023, 5, 15, 9, 0), datetime.datetime(2023, 5, 15, 10, 30))
+
+
+Track #1 at Meeting Room 109
+
+ID: 1, Authors: ['Emad Shihab', ' Patanamon Thongtanunam', ' Bogdan Vasilescu'], Duration: 20.0, Topic: 1
+ID: 2, Authors: ['Audris Mockus'], Duration: 20.0, Topic: 1
+ID: 3, Authors: ['Li Li'], Duration: 20.0, Topic: 1
+ID: 4, Authors: ['Miltiadis Allamanis', ' Charles Sutton'], Duration: 30.0, Topic: 1
+----------------------------------------
+Session #2 - Time Slot: (datetime.datetime(2023, 5, 15, 11, 0), datetime.datetime(2023, 5, 15, 11, 45))
+
+
+Track #1 at Meeting Room 109
+
+ID: 5, Authors: ['Kazi Amit Hasan', ' Marcos Macedo', ' Yuan Tian', ' Bram Adams', ' Ding Steven', ' H.', ' H.', '  Pre-print'], Duration: 12.0, Topic: 2
+ID: 6, Authors: ['Phuong T. Nguyen', ' Riccardo Rubei', ' Juri Di Rocco', ' Claudio Di Sipio', ' Davide Di Ruscio', ' Massimiliano Di Penta', '  Pre-print'], Duration: 12.0, Topic: 2
+ID: 7, Authors: ['Ilham Qasse', ' Mohammad Hamdaqa', ' Björn Þór Jónsson'], Duration: 6.0, Topic: 2
+ID: 8, Authors: ['Michael Schröder', ' Jürgen Cito', '  Pre-print'], Duration: 6.0, Topic: 2
+ID: 9, Authors: ['Jirat Pasuksmit', ' Fan Jiang', ' Kemp Thornton', ' Arik Friedman', ' Natalija Fuksmane', ' Isabelle Kohout', ' Julian Connor', '  Pre-print'], Duration: 6.0, Topic: 2
+
+Track #2 at Meeting Room 110
+
+ID: 10, Authors: ['Chao Wang', ' Zhenpeng Chen', ' Minghui Zhou', '  Pre-print'], Duration: 12.0, Topic: 3
+ID: 11, Authors: ['Nima Shiri Harzevili', ' Jiho Shin', ' Junjie Wang', ' Song Wang', ' Nachiappan Nagappan'], Duration: 12.0, Topic: 3
+ID: 12, Authors: ['Chengjie Lu', ' Tao Yue', ' Shaukat Ali', '  Pre-print'], Duration: 6.0, Topic: 3
+ID: 13, Authors: ['Ratnadira Widyasari', ' Zhou Yang', ' Ferdian Thung', ' Sheng Qin Sim', ' Fiona Wee', ' Camellia Lok', ' Jack Phan', ' Haodi Qi', ' Constance Tan', ' Qijin Tay', ' David Lo'], Duration: 6.0, Topic: 3
+ID: 14, Authors: ['Wenxin Jiang', ' Nicholas Synovic', ' Purvish Jajal', ' Taylor R. Schorlemmer', ' Arav Tewari', ' Bhavesh Pareek', ' George K. Thiruvathukal', ' James C. Davis', '  Pre-print'], Duration: 6.0, Topic: 3
+----------------------------------------
+Session #3 - Time Slot: (datetime.datetime(2023, 5, 15, 11, 50), datetime.datetime(2023, 5, 15, 12, 35))
+
+
+Track #1 at Meeting Room 109
+
+ID: 15, Authors: ['Henry Tang', ' Sarah Nadi'], Duration: 12.0, Topic: 4
+ID: 16, Authors: ['Zhou Yang', ' Chenyu Wang', ' Jieke Shi', ' Thong Hoang', ' Pavneet Singh Kochhar', ' Qinghua Lu', ' Zhenchang Xing', ' David Lo'], Duration: 12.0, Topic: 4
+ID: 17, Authors: ['Ivana Clairine Irsan', ' Ting Zhang', ' Ferdian Thung', ' Kisub Kim', ' David Lo'], Duration: 12.0, Topic: 4
+ID: 18, Authors: ['Nafiseh Nikehgbal', ' Amir Hossein Kargaran', ' Abbas Heydarnoori', ' Hinrich Schütze', '  Pre-print'], Duration: 6.0, Topic: 4
+
+Track #2 at Meeting Room 110
+
+ID: 19, Authors: ['Joshua D. Scarsbrook', ' Mark Utting', ' Ryan K. L. Ko', '  Pre-print'], Duration: 6.0, Topic: 5
+ID: 20, Authors: ['Tobias Litzenberger', ' Johannes Düsing', ' Ben Hermann'], Duration: 6.0, Topic: 5
+ID: 21, Authors: ['Satrio Adi Rukmono', ' Michel Chaudron'], Duration: 6.0, Topic: 5
+ID: 22, Authors: ['Simon Schneider', ' Tufan Özen', ' Michael Chen', ' Riccardo Scandariato'], Duration: 6.0, Topic: 5
+ID: 23, Authors: ['Alexander Nicholson', ' Quentin Stiévenart', ' Arash Mazidi', ' Mohammad Ghafari'], Duration: 12.0, Topic: 5
+ID: 24, Authors: ['Md Tajmilur Rahman'], Duration: 6.0, Topic: 5
+----------------------------------------
+Session #4 - Time Slot: (datetime.datetime(2023, 5, 15, 13, 45), datetime.datetime(2023, 5, 15, 14, 15))
+
+
+Track #1 at Meeting Room 109
+
+ID: 25, Authors: ['Kim Herzig', ' Andreas Zeller'], Duration: 30.0, Topic: 6
+----------------------------------------
+Session #5 - Time Slot: (datetime.datetime(2023, 5, 15, 14, 20), datetime.datetime(2023, 5, 15, 15, 15))
+
+
+Track #1 at Meeting Room 109
+
+ID: 26, Authors: ['Seif Abukhalaf', ' Mohammad Hamdaqa', ' Foutse Khomh'], Duration: 12.0, Topic: 7
+ID: 27, Authors: ['Bernd Gruner', ' Tim Sonnekalb', ' Thomas S. Heinze', ' Clemens-Alexander Brust'], Duration: 12.0, Topic: 7
+ID: 28, Authors: ['Tim van Dam', ' Maliheh Izadi', ' Arie van Deursen', '  Pre-print'], Duration: 12.0, Topic: 7
+ID: 29, Authors: ['Iman Saberi', ' Fatemeh Hendijani Fard'], Duration: 12.0, Topic: 7
+
+Track #2 at Meeting Room 110
+
+ID: 30, Authors: ['Brandon Keller', ' Benjamin S. Meyers', ' Andrew Meneely'], Duration: 12.0, Topic: 8
+ID: 31, Authors: ['Md Abul Kalam Azad', ' Nafees Iqbal', ' Foyzul Hassan', ' Probir Roy', '  Pre-print'], Duration: 12.0, Topic: 8
+ID: 32, Authors: ['Themistoklis Diamantopoulos', ' Dimitrios-Nikitas Nastos', ' Andreas Symeonidis', '  Pre-print'], Duration: 6.0, Topic: 8
+ID: 33, Authors: ['Lukas Schulte', ' Anamaria Mojica-Hanke', ' Mario Linares-Vasquez', ' Steffen Herbold'], Duration: 6.0, Topic: 8
+ID: 34, Authors: ['Leonhard Applis', ' Annibale Panichella'], Duration: 6.0, Topic: 8
+ID: 35, Authors: ['Jueun Heo', ' Seonah Lee'], Duration: 6.0, Topic: 8
+----------------------------------------
+Session #6 - Time Slot: (datetime.datetime(2023, 5, 15, 15, 45), datetime.datetime(2023, 5, 15, 16, 30))
+
+
+Track #1 at Meeting Room 109
+
+ID: 36, Authors: ['Nicole Novielli'], Duration: 45.0, Topic: 9
+
+Track #2 at Meeting Room 110
+
+ID: 37, Authors: ['Hamid Mohayeji Nasrabadi', ' Andrei Agaronian', ' Eleni Constantinou', ' Nicola Zanone', ' Alexander Serebrenik'], Duration: 12.0, Topic: 10
+ID: 38, Authors: ['José Diego Saraiva da Silva', ' Daniel Alencar Da Costa', ' Uirá Kulesza', ' Gustavo Sizílio', ' José Gameleira Neto', ' Roberta Coelho', ' Mei Nagappan'], Duration: 12.0, Topic: 10
+ID: 39, Authors: ['Pablo Valenzuela-Toledo', ' Alexandre Bergel', ' Timo Kehrer', ' Oscar Nierstrasz'], Duration: 6.0, Topic: 10
+ID: 40, Authors: ['Arik Friedman', ' Rohan Dhupelia', ' Ben Jackson', '  File Attached'], Duration: 6.0, Topic: 10
+ID: 41, Authors: ['Gunnar Kudrjavets', ' Nachiappan Nagappan', ' Ayushi Rastogi', '  Pre-print'], Duration: 6.0, Topic: 10
+----------------------------------------
+Session #7 - Time Slot: (datetime.datetime(2023, 5, 15, 16, 35), datetime.datetime(2023, 5, 15, 17, 20))
+
+
+Track #1 at Meeting Room 109
+
+ID: 42, Authors: ['Abdul Ali Bangash', ' Qasim Jamal', ' Kalvin Eng', ' Karim Ali', ' Abram Hindle', '  Pre-print'], Duration: 12.0, Topic: 11
+ID: 43, Authors: ['Shriram Shanbhag', ' Sridhar Chimalakonda', '  Pre-print'], Duration: 12.0, Topic: 11
+ID: 44, Authors: ['Anne Hennig', ' Lukas Schulte', ' Steffen Herbold', ' Oksana Kulyk', ' Peter Mayer'], Duration: 6.0, Topic: 11
+ID: 45, Authors: ['Laura Duits', ' Isha Kashyap', ' Joey Bekkink', ' Kousar Aslam', ' Emitzá Guzmán'], Duration: 12.0, Topic: 11
+
+Track #2 at Meeting Room 110
+
+ID: 46, Authors: ['Anna-Katharina Wickert', ' Clemens Damke', ' Lars Baumgärtner', ' Eyke Hüllermeier', ' Mira Mezini', '  Pre-print', '  File Attached'], Duration: 12.0, Topic: 12
+ID: 47, Authors: ['Gerhard Jungwirth', ' Aakanksha Saha', ' Michael Schröder', ' Tobias Fiebig', ' Martina Lindorfer', ' Jürgen Cito', '  Pre-print'], Duration: 12.0, Topic: 12
+ID: 48, Authors: ['Hoang H. Nguyen', ' Nhat-Minh Nguyen', ' Chunyao Xie', ' Zahra Ahmadi', ' Daniel Kudenko', ' Thanh-Nam Doan', ' Lingxiao Jiang', '  Pre-print', '  Media Attached'], Duration: 12.0, Topic: 12
+ID: 49, Authors: ['Setu Kumar Basak', ' Lorenzo Neil', ' Bradley Reaves', ' Laurie Williams', '  Pre-print'], Duration: 6.0, Topic: 12
+----------------------------------------
+Session #8 - Time Slot: (datetime.datetime(2023, 5, 15, 18, 0), datetime.datetime(2023, 5, 15, 21, 0))
+
+
+Track #1 at Offsite
+
+ID: 50, Authors: [''], Duration: 3.0, Topic: 13
+----------------------------------------
+Session #9 - Time Slot: (datetime.datetime(2023, 5, 16, 9, 0), datetime.datetime(2023, 5, 16, 9, 45))
+
+
+Track #1 at Meeting Room 109
+
+ID: 51, Authors: ['Baishakhi Ray'], Duration: 45.0, Topic: 14
+----------------------------------------
+Session #10 - Time Slot: (datetime.datetime(2023, 5, 16, 9, 50), datetime.datetime(2023, 5, 16, 10, 30))
+
+
+Track #1 at Meeting Room 109
+
+ID: 52, Authors: ['Christoph Gote'], Duration: 40.0, Topic: 15
+
+Track #2 at Meeting Room 110
+
+ID: 53, Authors: ['Weijie Sun', ' Samuel Iwuchukwu', ' Abdul Ali Bangash', ' Abram Hindle', '  Pre-print'], Duration: 6.0, Topic: 16
+ID: 54, Authors: ['Arifa Islam Champa', ' Md Fazle Rabbi', ' Minhaz F. Zibran', ' Md Rakibul Islam', '  Pre-print'], Duration: 6.0, Topic: 16
+ID: 55, Authors: ['Piotr Przymus', ' Mikołaj Fejzer', ' Jakub Narębski', ' Krzysztof Stencel', '  Pre-print'], Duration: 6.0, Topic: 16
+ID: 56, Authors: ['Anisha Islam', ' Nipuni Tharushika Hewage', ' Abdul Ali Bangash', ' Abram Hindle', '  Pre-print'], Duration: 6.0, Topic: 16
+ID: 57, Authors: ['Oz Kilic', ' Nathaniel Bowness', ' Olga Baysal', '  Pre-print'], Duration: 6.0, Topic: 16
+----------------------------------------
+Session #11 - Time Slot: (datetime.datetime(2023, 5, 16, 11, 0), datetime.datetime(2023, 5, 16, 11, 45))
+
+
+Track #1 at Meeting Room 109
+
+ID: 58, Authors: ['Dong Wang', ' Tao Xiao', ' Christoph Treude', ' Raula Gaikovina Kula', ' Hideaki Hata', ' Yasutaka Kamei', '  Pre-print'], Duration: 12.0, Topic: 17
+ID: 59, Authors: ['Saikat Mondal', ' Masud Rahman', ' Chanchal K. Roy', '  Pre-print'], Duration: 12.0, Topic: 17
+ID: 60, Authors: ['Joseph Vargovich', ' Fabio Marcos De Abreu Santos', ' Jacob Penney', ' Marco Gerosa', ' Igor Steinmacher', '  Pre-print', '  Media Attached'], Duration: 6.0, Topic: 17
+ID: 61, Authors: ['Akhila Sri Manasa Venigalla', ' Sridhar Chimalakonda'], Duration: 6.0, Topic: 17
+ID: 62, Authors: ['Murali Sridharan', ' Leevi Rantala', ' Mika Mäntylä'], Duration: 6.0, Topic: 17
+
+Track #2 at Meeting Room 110
+
+ID: 63, Authors: ['Anderson Oliveira', ' João Lucas Correia', ' Leonardo Da Silva Sousa', ' Wesley Assunção', ' Daniel Coutinho', ' Alessandro Garcia', ' Willian Oizumi', ' Caio Barbosa', ' Anderson Uchôa', ' Juliana Alves Pereira', '  Pre-print'], Duration: 12.0, Topic: 18
+ID: 64, Authors: ['mawenhao ', ' Yaoxiang Yu', ' Xiaoming Ruan', ' Bo Cai'], Duration: 12.0, Topic: 18
+ID: 65, Authors: ['Tom Mashiach', ' Bruno Sotto-Mayor', ' Gal Kaminka', ' Meir Kalech'], Duration: 6.0, Topic: 18
+ID: 66, Authors: ['Himesh Nandani', ' Mootez Saad', ' Tushar Sharma', '  Pre-print', '  File Attached'], Duration: 6.0, Topic: 18
+ID: 67, Authors: ['Gunnar Kudrjavets', ' Aditya Kumar', ' Ayushi Rastogi', '  Pre-print'], Duration: 6.0, Topic: 18
+----------------------------------------
+Session #12 - Time Slot: (datetime.datetime(2023, 5, 16, 11, 50), datetime.datetime(2023, 5, 16, 12, 35))
+
+
+Track #1 at Meeting Room 109
+
+ID: 68, Authors: ['Imam Nur Bani Yusuf', ' Diyanah Binte Abdul Jamal', ' Lingxiao Jiang', '  Pre-print'], Duration: 12.0, Topic: 19
+ID: 69, Authors: ['Natarajan Chidambaram', ' Alexandre Decan ', ' Tom Mens'], Duration: 6.0, Topic: 19
+ID: 70, Authors: ['Morakot Choetkiertikul', ' Apirak Hoonlor', ' Chaiyong Ragkhitwetsagul', ' Siripen Pongpaichet', ' Thanwadee Sunetnanta', ' Tasha Settewong', ' Raula Gaikovina Kula'], Duration: 6.0, Topic: 19
+ID: 71, Authors: ['Konstantin Grotov', ' Sergey Titov', ' Alexandr Suhinin', ' Yaroslav Golubev', ' Timofey Bryksin', '  Pre-print'], Duration: 6.0, Topic: 19
+ID: 72, Authors: ['Chao Ni', ' xiaodanxu ', ' Kaiwen Yang', ' David Lo'], Duration: 12.0, Topic: 19
+
+Track #2 at Meeting Room 110
+
+ID: 73, Authors: ['Donald Pinckney', ' Federico Cassano', ' Arjun Guha', ' Jonathan Bell', '  Pre-print'], Duration: 12.0, Topic: 20
+ID: 74, Authors: ['Akira Mori', ' Masatomo Hashimoto'], Duration: 12.0, Topic: 20
+ID: 75, Authors: ['Mohayeminul Islam', ' Ajay Jha', ' Sarah Nadi', ' Ildar Akhmetov'], Duration: 6.0, Topic: 20
+ID: 76, Authors: ['Sophia Vargas'], Duration: 6.0, Topic: 20
+ID: 77, Authors: ['Kanchanok Kannee', ' Raula Gaikovina Kula', ' Supatsara Wattanakriengkrai', ' Kenichi Matsumoto', '  Pre-print'], Duration: 6.0, Topic: 20
+----------------------------------------
+Session #13 - Time Slot: (datetime.datetime(2023, 5, 16, 13, 45), datetime.datetime(2023, 5, 16, 14, 30))
+
+
+Track #1 at Meeting Room 109
+
+ID: 78, Authors: ['Tim Menzies', '  Pre-print'], Duration: 45.0, Topic: 21
+
+Track #2 at Meeting Room 110
+
+ID: 79, Authors: ['Ahmed Zerouali', ' Ruben Opdebeeck', ' Coen De Roover', '  Pre-print'], Duration: 12.0, Topic: 22
+ID: 80, Authors: ['Ruben Opdebeeck', ' Ahmed Zerouali', ' Coen De Roover', '  Pre-print'], Duration: 12.0, Topic: 22
+ID: 81, Authors: ['Ali Keshk', ' Robert Dyer', '  Pre-print', '  Media Attached'], Duration: 12.0, Topic: 22
+ID: 82, Authors: ['Emily Bui', ' Henrique Rocha'], Duration: 6.0, Topic: 22
+----------------------------------------
+Session #14 - Time Slot: (datetime.datetime(2023, 5, 16, 14, 35), datetime.datetime(2023, 5, 16, 15, 15))
+
+
+Track #1 at Meeting Room 109
+
+ID: 83, Authors: ['Kevin Jesse', ' Toufique Ahmed', ' Prem Devanbu', ' Emily Morgan', '  Pre-print'], Duration: 12.0, Topic: 23
+ID: 84, Authors: ['Feifei Niu', ' Christoph Mayr-Dorn', ' Wesley Assunção', ' Liguo Huang', ' Jidong Ge', ' Bin Luo', ' Alexander Egyed', '  Pre-print', '  File Attached'], Duration: 12.0, Topic: 23
+ID: 85, Authors: ['Catherine Tony', ' Markus Mutas', ' Nicolás E. Díaz Ferreyra', ' Riccardo Scandariato', '  Pre-print'], Duration: 6.0, Topic: 23
+ID: 86, Authors: ['Parvez Mahbub', ' Ohiduzzaman Shuvo', ' Masud Rahman', '  Pre-print'], Duration: 6.0, Topic: 23
+
+Track #2 at Meeting Room 110
+
+ID: 87, Authors: ['Mojtaba Shahin', ' Mansooreh Zahedi', ' Hourieh Khalajzadeh', ' Ali Rezaei Nasab', '  Pre-print'], Duration: 12.0, Topic: 24
+ID: 88, Authors: ['Fabio Marcos De Abreu Santos', ' Jacob Penney', ' João Felipe Pimentel', ' Igor Wiese', ' Igor Steinmacher', ' Marco Gerosa', '  Pre-print'], Duration: 12.0, Topic: 24
+ID: 89, Authors: ['Christoph Treude', ' Hideaki Hata', '  Pre-print', '  Media Attached'], Duration: 6.0, Topic: 24
+ID: 90, Authors: ['Yibo Yan', ' Seth Frey', ' Amy Zhang', ' Vladimir Filkov', ' Likang Yin', '  Pre-print'], Duration: 6.0, Topic: 24
+----------------------------------------
+Session #15 - Time Slot: (datetime.datetime(2023, 5, 16, 15, 45), datetime.datetime(2023, 5, 16, 17, 30))
+
+
+Track #1 at Meeting Room 109
+
+ID: 91, Authors: ['Eman Abdullah AlOmar'], Duration: 20.0, Topic: 25
+ID: 92, Authors: ['Minghui Zhou'], Duration: 30.0, Topic: 25
+ID: 93, Authors: ['David Lo'], Duration: 30.0, Topic: 25
+ID: 94, Authors: ['Emad Shihab'], Duration: 25.0, Topic: 25
+----------------------------------------

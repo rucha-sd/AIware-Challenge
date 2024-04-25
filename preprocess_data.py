@@ -119,6 +119,10 @@ def create_papers(input_file):
     input['author'] = input['author'].str.split(',')
 
     for i in range(len(input)):
+        # check if author is Nan
+        # if type(input['author'][i]) == float:
+        #     # set as empty list
+        #     input['author'][i] = []
         paper = GA.Paper(id=input['id'][i], authors=input['author'][i], duration=input['duration'][i], topic=topics_dict[input['session_title'][i]])
         papers[int(input['id'][i])] = paper
     return papers
