@@ -26,18 +26,21 @@ if __name__ == '__main__':
     pop = GA.Population(initial_population, population_size)
     pop = ga.run(papers, len(num_tracks_per_session), session_durations, num_tracks_per_session, population_size, args[4])
     pop[0].print_solution()
-    print(pop[1])
+
     
     solutions_from_csv = preprocess_data.merge_overlaps(papers_schedule)
     solutions = preprocess_data.create_solution(solutions_from_csv, papers_dict)
 
     #printing our solutions 
-    print("ideal solution")        
+    print("\n\n\n######## Ideal solution ############\n\n")
+    iter = 1
     for time_slot, rooms in solutions.items():
-        print("###############")
-        print(f"Time Slot: {time_slot}")
+        print(f"Session #{iter} - Time Slot: {time_slot}\n")
+        iter+=1
+        track_no = 1
         for room, papers in rooms.items():
-            print(room)
+            print(f"\nTrack #{track_no} at {room}\n")
+            track_no +=1
             for paper in papers:
                 print(paper.print_paper())
-            print("\n")
+        print("-" * 40)
