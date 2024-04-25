@@ -1,6 +1,6 @@
 ## Project Overview
 
-This project is designed to automate the processing and scheduling of academic papers. The pipeline includes scripts for extracting data from web sources, converting JSON data into a more manageable CSV format, preprocessing the data, and finally optimizing the paper scheduling using a genetic algorithm.
+This project is designed to automate the processing and scheduling of academic papers in a conference considering logistical constraints and topic coherence within sessions. The pipeline includes scripts for extracting data from web sources, converting JSON data into a more manageable CSV format, preprocessing the data, and finally optimizing the paper scheduling using a genetic algorithm.
 
 ### Scripts and Their Functions
 
