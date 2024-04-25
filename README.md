@@ -1,40 +1,48 @@
-#Extract.py :
+## Project Overview
 
-This file is used to get webscraped json objects from the web links of msr data. 
+This project is designed to automate the processing and scheduling of academic papers. The pipeline includes scripts for extracting data from web sources, converting JSON data into a more manageable CSV format, preprocessing the data, and finally optimizing the paper scheduling using a genetic algorithm.
 
-Command - python3 extract.py
+### Scripts and Their Functions
 
-arguments to change : start_year and end_year - eg: 2018 till 2019
+1. **extract.py**:
+   - **Purpose**: Scrapes JSON objects from MSR data links for specified years.
+   - **Usage**: `python3 extract.py`
+   - **Parameters**: 
+     - `start_year`: The beginning year for data extraction.
+     - `end_year`: The ending year for data extraction.
 
+2. **parseSessionsCSV**:
+   - **Purpose**: Converts JSON data into a CSV file, placing each paper in a separate row.
+   - **Usage**: `python3 parseSessionsCSV <filename.json> <filename.csv>`
 
-#parseSessionsCSV:
+3. **preprocess_data**:
+   - **Purpose**: Prepares data for the main algorithm by preprocessing the extracted and parsed data.
+   - **Usage**: Refer to internal documentation or script help.
 
-This file is used to convert the json to csv which will give us the individual papers as rows.
+4. **GA.py**:
+   - **Purpose**: Contains all logic for the genetic algorithm, managing objects such as Papers, Solution, Session, Population, and Genetic Algorithm itself.
+   - **Usage**: Integrated within the pipeline, not run independently.
 
-command - python3 parseSessionsCSV
+5. **pipeline.py**:
+   - **Purpose**: Orchestrates the entire process from data preprocessing to genetic algorithm execution.
+   - **Usage**: `python3 pipeline.py <population_size> <num_of_generations> <input.csv> > <output_file.txt>`
+   - **Example**: `python3 pipeline.py 100 1000 input.csv > output_file.txt`
+   - **Parameters**:
+     - `population_size`: Number of schedules per generation.
+     - `num_of_generations`: Total number of generations to create.
+     - `input.csv`: The preprocessed CSV file containing the papers to schedule.
 
-Arguments - filename.json to filename.csv
+### Running the Pipeline
 
-#preprocess_data
+To run the complete pipeline and generate the optimal schedule for the papers, use the following command:
 
-We use this file to prepare data for the main job.
+```bash
+python3 pipeline.py 100 1000 input.csv > output_file.txt
+```
 
-#GA.py 
+This command processes the `input.csv` to create 1000 generations of paper schedules, with each generation consisting of 100 different schedules. The best schedule is then output to `output_file.txt`.
 
-GA file manages all the algorithmic logic along with the various objects that will be used while computing the solutions.
-It contains the objects:
-  Papers
-  Solution
-  Session
-  Population
-  Genetic Algorithm
+### Additional Information
 
-The main file that holds everything together is the pipeline file.
+Refer to the comments within each script for more detailed instructions on parameters and configurations. Ensure that all dependencies are installed and that Python 3.x is being used.
 
-To run the pipelien file use the command:
-
-python3 pipeline.py population_size num_of_generations Year > output_file.txt
-
-eg: python3 pipeline.py 100 1000 input.csv > output_file.txt 
-
-The above command will run the algorithm to compute the best schedule for the papers in the input.csv file. The algorithm creates 1000 generations and each generation with 100 population , i.e 100 schedules per generation. 
