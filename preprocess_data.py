@@ -52,7 +52,7 @@ def parse_csv_to_array(csv_filename):
                 tmpp[sessions[i]['room']] = id_arr
                 papers_dict[key] = tmpp
                 output_dict[key] = tmp
-    return output_dict
+    return output_dict, papers_dict
 
 def session_details(time_slots):
     sorted_time_slots = sorted(time_slots.items(), key=lambda x: x[0][0])
@@ -110,34 +110,62 @@ def get_topics(filename):
         return topic_dict
 
 def create_papers(input_file):
-    papers = []
+    papers = {}
     input = pd.read_csv(input_file)
     topics_dict = get_topics(input_file)
-    # print(input['duration'])
-    # remove 'm' from input[duartion] and convert to int
-    # input['duration'] = input['duration'].str.replace('m', '').astype(int)
-    # convert author to array by separating comma separated values
-    # drop row where author is blank
-
-
     # replace Nan values in author with ''
     input['author'] = input['author'].fillna('')
 
     input['author'] = input['author'].str.split(',')
 
-    # print(input['author'])
     for i in range(len(input)):
         # check if author is Nan
         # if type(input['author'][i]) == float:
         #     # set as empty list
         #     input['author'][i] = []
         paper = GA.Paper(id=input['id'][i], authors=input['author'][i], duration=input['duration'][i], topic=topics_dict[input['session_title'][i]])
-        papers.append(paper)
+        papers[int(input['id'][i])] = paper
     return papers
 
-def create_solution():
+def merge_overlaps(data):
+    # Sort data by start time
+    data = sorted(data.items(), key=lambda x: x[0][0])
+
+    
+    merged_data = {}
+    current_start, current_end, current_rooms = None, None, {}
+
+    for (start, end), rooms in data:
+        if current_start is not None and start < current_end:
+            # There's an overlap, merge intervals
+            current_end = max(current_end, end)
+            # Merge room data
+            for room, events in rooms.items():
+                if room in current_rooms:
+                    current_rooms[room].extend(events)
+                else:
+                    current_rooms[room] = events
+        else:
+            # No overlap, push the current interval to merged_data if it exists
+            if current_start is not None:
+                merged_data[(current_start, current_end)] = current_rooms
+                # merged_data.append(((current_start, current_end), current_rooms))
+            # Reset to the new interval
+            current_start, current_end, current_rooms = start, end, rooms.copy()
+    
+    # Add the last interval to merged data
+    if current_start is not None:
+        merged_data[(current_start, current_end)] = current_rooms
+    
+    return merged_data
+
+def create_solution(solutions_from_csv, papers):
     # create session object, refer to session from GA.py
     # each session should have array tracks eg, session1 = [track1, track2] where track1 and track2 are lists of Paper objects
     # each session should have max_lenght/duration
     # create Solution object and pass sessions
-    pass
+    for item in solutions_from_csv:
+        for key, paper_ids in solutions_from_csv[item].items():
+            val = [papers[int(ids)] for ids in paper_ids]
+            solutions_from_csv[item][key] = val
+    return solutions_from_csv

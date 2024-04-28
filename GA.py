@@ -11,12 +11,13 @@ class Paper:
         self.duration = duration
         topics = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
         self.topic = random.choice(topics) if topic is None else topic
+    def print_paper(self):
+        return f"ID: {self.id}, Authors: {self.authors}, Duration: {self.duration}, Topic: {self.topic}"    
 
 class Session:
     def __init__(self, max_length, tracks):
         self.tracks = tracks  
         self.max_length = max_length  
-
 
 class Solution:
     def __init__(self, sessions):
@@ -133,8 +134,7 @@ class Solution:
                 for paper in track:
                     print(f"    Paper ID: {paper.id}, Authors: {', '.join(paper.authors)}, Topic: {paper.topic},  Duration: {paper.duration} minutes")
             print("-" * 40)
-                    
-                        
+                                            
 class Population:
     def __init__(self, solutions, population_size):
         self.solutions = solutions  
@@ -151,7 +151,6 @@ class Population:
             if solution.fitness(num_papers)['fitness'] > best_solution.fitness(num_papers)['fitness']:
                 best_solution = solution
         return best_solution, best_solution.fitness(num_papers)
-
 
 class GeneticAlgorithm:
     def __init__(self, population_size, max_generations, crossover_probability, mutation_probability):
@@ -287,9 +286,11 @@ class GeneticAlgorithm:
 
         parent1 = tournament()
         parent2 = tournament()
-        while parent1 == parent2:  # Ensure parent1 and parent2 are not the same
+        ctr = 0
+        while parent1 == parent2 and ctr < 20 :  # Ensure parent1 and parent2 are not the same
             # print("Parent1 and Parent2 are the same")
             # print(parent1, parent2)
+            ctr += 1
             parent2 = tournament()
         return parent1, parent2
 
@@ -301,6 +302,7 @@ class GeneticAlgorithm:
     
     def plot_progress(self, fitness_values, time_penalties, author_penalties, distribution_penalties, coherence_penalties, year):
         fig, axs = plt.subplots(2, 2)
+        directory = f'output/{year}'
         # increase figure size
         fig.set_size_inches(12, 8)
         fig.suptitle('Penalties and Fitness Value over Generations')
@@ -312,8 +314,8 @@ class GeneticAlgorithm:
         axs[1, 0].set_title('Weighted Distribution Penalty')
         axs[1, 1].plot(coherence_penalties)
         axs[1, 1].set_title('Weighted Coherence Penalty')
-        plt.savefig(f'fitness_values_{self.population_size}_{self.max_generations}_{year}_2.png')
-        plt.show()
+        plt.savefig(f'{directory}/fitness_values_{self.population_size}_{self.max_generations}_{year}_2.png')
+        # plt.show()
         # new plot
         plt.clf()
         # plot graph of fitness values over generations
@@ -322,8 +324,8 @@ class GeneticAlgorithm:
         plt.ylabel('Fitness Value')
         plt.title('Fitness Value over Generations')
         # save with pop_size, num_generations
-        plt.savefig(f'fitness_values_{self.population_size}_{self.max_generations}_{year}_1.png')
-        plt.show()
+        plt.savefig(f'{directory}/fitness_values_{self.population_size}_{self.max_generations}_{year}_1.png')
+        # plt.show()
         
 
     def run(self, papers, num_sessions, session_lengths, num_tracks, num_solutions, year):

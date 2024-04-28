@@ -1,0 +1,153 @@
+population_size: 50 max_generations: 100
+Session 1 (Max length: 30.0 minutes):
+  Track 1 (Total duration: 20.0 minutes):
+    Paper ID: 32, Authors: Steffen Herbold,  Alexander Trautsch,  Benjamin Ledel,   Pre-print,   Media Attached, Topic: 9,  Duration: 10.0 minutes
+    Paper ID: 30, Authors: Shayan Akbar,  Avinash Kak,   Media Attached, Topic: 9,  Duration: 10.0 minutes
+  Track 2 (Total duration: 30.0 minutes):
+    Paper ID: 15, Authors: Neil Ernst,  Janet Siegmund, Topic: 4,  Duration: 30.0 minutes
+----------------------------------------
+Session 2 (Max length: 60.0 minutes):
+  Track 1 (Total duration: 52.0 minutes):
+    Paper ID: 13, Authors: Thomas Durieux,  Claire Le Goues,  Michael Hilton,  Rui Abreu,   DOI,   Pre-print,   Media Attached, Topic: 3,  Duration: 12.0 minutes
+    Paper ID: 24, Authors: Gabor Antal,  Márton Keleti,  Peter Hegedus,   Pre-print,   Media Attached, Topic: 6,  Duration: 20.0 minutes
+    Paper ID: 31, Authors: Rafael-Michael Karampatsis,  Charles Sutton,   Pre-print,   Media Attached, Topic: 9,  Duration: 10.0 minutes
+    Paper ID: 29, Authors: Irving Muller Rodrigues,  Daniel Aloise,  Eraldo Rezende Fernandes,  Michel Dagenais,   Pre-print,   Media Attached, Topic: 9,  Duration: 10.0 minutes
+  Track 2 (Total duration: 44.0 minutes):
+    Paper ID: 9, Authors: András Kicsi,  László Vidács,  Tibor Gyimothy,   Pre-print,   Media Attached, Topic: 2,  Duration: 7.0 minutes
+    Paper ID: 33, Authors: Jesus M. Gonzalez-Barahona,   Pre-print,   Media Attached, Topic: 10,  Duration: 30.0 minutes
+    Paper ID: 6, Authors: Leonardo Da Silva Sousa,  Diego Cedrim,  Alessandro Garcia,  Willian Oizumi,  Ana Carla Bibiano,  Daniel Oliveira,  Miryung Kim,  Anderson Oliveira,   Pre-print,   Media Attached, Topic: 2,  Duration: 7.0 minutes
+----------------------------------------
+Session 3 (Max length: 60.0 minutes):
+  Track 1 (Total duration: 54.0 minutes):
+    Paper ID: 14, Authors: Carolin Brandt,  Annibale Panichella,  Andy Zaidman,  Moritz Beller,   Pre-print,   Media Attached, Topic: 3,  Duration: 12.0 minutes
+    Paper ID: 22, Authors: Ali Rao Hamza,  Chelsea Parlett-Pelleriti,  Erik Linstead,   Pre-print,   Media Attached, Topic: 6,  Duration: 20.0 minutes
+    Paper ID: 12, Authors: Jordan Henkel,  Christian Bird,  Shuvendu Lahiri,  Thomas Reps,   Media Attached, Topic: 3,  Duration: 12.0 minutes
+    Paper ID: 27, Authors: Cristiano Politowski,  Fabio Petrillo,  Yann-Gaël Guéhéneuc,  Gabriel Cavalheiro Ullmann,  Josias De Andrade Werly,   Media Attached, Topic: 9,  Duration: 10.0 minutes
+  Track 2 (Total duration: 53.0 minutes):
+    Paper ID: 28, Authors: Omar El Zarif,  Daniel Alencar Da Costa,  Safwat Hassan,  Ying Zou,   Pre-print,   Media Attached, Topic: 9,  Duration: 10.0 minutes
+    Paper ID: 10, Authors: Yiwen Wu,  Yang Zhang,  Tao Wang,  Huaimin Wang,   Pre-print,   Media Attached, Topic: 3,  Duration: 12.0 minutes
+    Paper ID: 1, Authors: Jürgen Cito,  Jiasi Shen,  Martin C. Rinard,   Pre-print,   Media Attached, Topic: 1,  Duration: 6.0 minutes
+    Paper ID: 4, Authors: Tomoki Nakamaru,  Tomomasa Matsunaga,  Tetsuro Yamazaki,  Soramichi Akiyama,  Shigeru Chiba,   Pre-print,   Media Attached, Topic: 1,  Duration: 6.0 minutes
+    Paper ID: 8, Authors: Federico Corò,  Roberto Verdecchia,  Emilio Cruciani,  Breno Miranda,  Antonia Bertolino,   Pre-print,   Media Attached, Topic: 2,  Duration: 7.0 minutes
+    Paper ID: 2, Authors: Jason Tsay,  Alan Braz,  Martin Hirzel,  Avraham Shinnar,  Todd Mummert,   Pre-print,   Media Attached, Topic: 1,  Duration: 6.0 minutes
+    Paper ID: 5, Authors: Nan Yang,  Pieter Cuijpers,  Ramon Schiffelers,  Johan Lukkien,  Alexander Serebrenik,   Media Attached, Topic: 1,  Duration: 6.0 minutes
+----------------------------------------
+Session 4 (Max length: 15.0 minutes):
+  Track 1 (Total duration: 0 minutes):
+----------------------------------------
+Session 5 (Max length: 60.0 minutes):
+  Track 1 (Total duration: 58.0 minutes):
+    Paper ID: 20, Authors: Hadhemi Jebnoun,  Masud Rahman,  Foutse Khomh,  Houssem Ben Braiek ,   Pre-print,   Media Attached, Topic: 5,  Duration: 10.0 minutes
+    Paper ID: 25, Authors: Sunghun Kim,  Sarah Nadi,  Georgios Gousios,   Media Attached, Topic: 7,  Duration: 15.0 minutes
+    Paper ID: 23, Authors: Avijit Bhattacharjee,  Sristy Sumana Nath,  Shurui Zhou,  Debasish Chakroborti,  Banani Roy,  Chanchal K. Roy,  Kevin Schneider,   DOI,   Pre-print,   Media Attached, Topic: 6,  Duration: 20.0 minutes
+    Paper ID: 7, Authors: Matheus Paixao,  Anderson Uchôa,  Ana Carla Bibiano,  Daniel Oliveira,  Alessandro Garcia,  Jens Krinke,  Emilio Arvonio,   Pre-print,   Media Attached, Topic: 2,  Duration: 7.0 minutes
+    Paper ID: 3, Authors: Timofey Bryksin,  Victor Petukhov,  Ilya Alexin,  Stanislav Prikhodko,  Alexey Shpilman,  Vladimir Kovalenko,  Nikita Povarov,   Pre-print,   Media Attached, Topic: 1,  Duration: 6.0 minutes
+----------------------------------------
+Session 6 (Max length: 60.0 minutes):
+  Track 1 (Total duration: 60.0 minutes):
+    Paper ID: 26, Authors: Satish Chandra,   Media Attached, Topic: 8,  Duration: 60.0 minutes
+  Track 2 (Total duration: 60.0 minutes):
+    Paper ID: 34, Authors: Christian Kästner,  Mohamed El-Geish,  Foutse Khomh,  Miryung Kim,   Media Attached, Topic: 11,  Duration: 60.0 minutes
+----------------------------------------
+Session 7 (Max length: 60.0 minutes):
+  Track 1 (Total duration: 50.0 minutes):
+    Paper ID: 18, Authors: Biruk Asmare Muse,  Masud Rahman,  Csaba Nagy,  Anthony Cleve,  Foutse Khomh,  Giuliano Antoniol,   Pre-print,   Media Attached, Topic: 5,  Duration: 10.0 minutes
+    Paper ID: 16, Authors: Antonio Borrelli,  Vittoria Nardone,  Giuseppe Di Lucca,  Gerardo Canfora,  Massimiliano Di Penta,   Pre-print,   Media Attached, Topic: 5,  Duration: 10.0 minutes
+    Paper ID: 17, Authors: Davide Spadini,  Martin Schvarcbacher,  Ana Maria Oprescu,  Magiel Bruntink,  Alberto Bacchelli,   DOI,   Pre-print,   Media Attached, Topic: 5,  Duration: 10.0 minutes
+    Paper ID: 21, Authors: Fabiano Pecorelli,  Fabio Palomba,  Foutse Khomh,  Andrea De Lucia,   Pre-print,   Media Attached, Topic: 5,  Duration: 10.0 minutes
+    Paper ID: 19, Authors: Mouna Abidi,  Moses Openja,  Foutse Khomh,   Pre-print,   Media Attached, Topic: 5,  Duration: 10.0 minutes
+----------------------------------------
+
+
+
+######## Ideal solution ############
+
+
+Session #1 - Time Slot: (datetime.datetime(2020, 6, 29, 10, 30), datetime.datetime(2020, 6, 29, 11, 0))
+
+
+Track #1 at MSR:Zoom
+
+ID: 1, Authors: ['Jürgen Cito', ' Jiasi Shen', ' Martin C. Rinard', '  Pre-print', '  Media Attached'], Duration: 6.0, Topic: 1
+ID: 2, Authors: ['Jason Tsay', ' Alan Braz', ' Martin Hirzel', ' Avraham Shinnar', ' Todd Mummert', '  Pre-print', '  Media Attached'], Duration: 6.0, Topic: 1
+ID: 3, Authors: ['Timofey Bryksin', ' Victor Petukhov', ' Ilya Alexin', ' Stanislav Prikhodko', ' Alexey Shpilman', ' Vladimir Kovalenko', ' Nikita Povarov', '  Pre-print', '  Media Attached'], Duration: 6.0, Topic: 1
+ID: 4, Authors: ['Tomoki Nakamaru', ' Tomomasa Matsunaga', ' Tetsuro Yamazaki', ' Soramichi Akiyama', ' Shigeru Chiba', '  Pre-print', '  Media Attached'], Duration: 6.0, Topic: 1
+ID: 5, Authors: ['Nan Yang', ' Pieter Cuijpers', ' Ramon Schiffelers', ' Johan Lukkien', ' Alexander Serebrenik', '  Media Attached'], Duration: 6.0, Topic: 1
+
+Track #2 at MSR:Zoom2
+
+ID: 6, Authors: ['Leonardo Da Silva Sousa', ' Diego Cedrim', ' Alessandro Garcia', ' Willian Oizumi', ' Ana Carla Bibiano', ' Daniel Oliveira', ' Miryung Kim', ' Anderson Oliveira', '  Pre-print', '  Media Attached'], Duration: 7.0, Topic: 2
+ID: 7, Authors: ['Matheus Paixao', ' Anderson Uchôa', ' Ana Carla Bibiano', ' Daniel Oliveira', ' Alessandro Garcia', ' Jens Krinke', ' Emilio Arvonio', '  Pre-print', '  Media Attached'], Duration: 7.0, Topic: 2
+ID: 8, Authors: ['Federico Corò', ' Roberto Verdecchia', ' Emilio Cruciani', ' Breno Miranda', ' Antonia Bertolino', '  Pre-print', '  Media Attached'], Duration: 7.0, Topic: 2
+ID: 9, Authors: ['András Kicsi', ' László Vidács', ' Tibor Gyimothy', '  Pre-print', '  Media Attached'], Duration: 7.0, Topic: 2
+----------------------------------------
+Session #2 - Time Slot: (datetime.datetime(2020, 6, 29, 11, 0), datetime.datetime(2020, 6, 29, 12, 0))
+
+
+Track #1 at MSR:Zoom
+
+ID: 10, Authors: ['Yiwen Wu', ' Yang Zhang', ' Tao Wang', ' Huaimin Wang', '  Pre-print', '  Media Attached'], Duration: 12.0, Topic: 3
+ID: 11, Authors: ['Suhaib Mujahid', ' Rabe Abdalkareem', ' Emad Shihab', ' Shane McIntosh', '  Pre-print', '  Media Attached'], Duration: 12.0, Topic: 3
+ID: 12, Authors: ['Jordan Henkel', ' Christian Bird', ' Shuvendu Lahiri', ' Thomas Reps', '  Media Attached'], Duration: 12.0, Topic: 3
+ID: 13, Authors: ['Thomas Durieux', ' Claire Le Goues', ' Michael Hilton', ' Rui Abreu', '  DOI', '  Pre-print', '  Media Attached'], Duration: 12.0, Topic: 3
+ID: 14, Authors: ['Carolin Brandt', ' Annibale Panichella', ' Andy Zaidman', ' Moritz Beller', '  Pre-print', '  Media Attached'], Duration: 12.0, Topic: 3
+
+Track #2 at MSR:Zoom2
+
+ID: 15, Authors: ['Neil Ernst', ' Janet Siegmund'], Duration: 30.0, Topic: 4
+----------------------------------------
+Session #3 - Time Slot: (datetime.datetime(2020, 6, 29, 12, 0), datetime.datetime(2020, 6, 29, 13, 0))
+
+
+Track #1 at MSR:Zoom
+
+ID: 16, Authors: ['Antonio Borrelli', ' Vittoria Nardone', ' Giuseppe Di Lucca', ' Gerardo Canfora', ' Massimiliano Di Penta', '  Pre-print', '  Media Attached'], Duration: 10.0, Topic: 5
+ID: 17, Authors: ['Davide Spadini', ' Martin Schvarcbacher', ' Ana Maria Oprescu', ' Magiel Bruntink', ' Alberto Bacchelli', '  DOI', '  Pre-print', '  Media Attached'], Duration: 10.0, Topic: 5
+ID: 18, Authors: ['Biruk Asmare Muse', ' Masud Rahman', ' Csaba Nagy', ' Anthony Cleve', ' Foutse Khomh', ' Giuliano Antoniol', '  Pre-print', '  Media Attached'], Duration: 10.0, Topic: 5
+ID: 19, Authors: ['Mouna Abidi', ' Moses Openja', ' Foutse Khomh', '  Pre-print', '  Media Attached'], Duration: 10.0, Topic: 5
+ID: 20, Authors: ['Hadhemi Jebnoun', ' Masud Rahman', ' Foutse Khomh', ' Houssem Ben Braiek ', '  Pre-print', '  Media Attached'], Duration: 10.0, Topic: 5
+ID: 21, Authors: ['Fabiano Pecorelli', ' Fabio Palomba', ' Foutse Khomh', ' Andrea De Lucia', '  Pre-print', '  Media Attached'], Duration: 10.0, Topic: 5
+
+Track #2 at MSR:Zoom2
+
+ID: 22, Authors: ['Ali Rao Hamza', ' Chelsea Parlett-Pelleriti', ' Erik Linstead', '  Pre-print', '  Media Attached'], Duration: 20.0, Topic: 6
+ID: 23, Authors: ['Avijit Bhattacharjee', ' Sristy Sumana Nath', ' Shurui Zhou', ' Debasish Chakroborti', ' Banani Roy', ' Chanchal K. Roy', ' Kevin Schneider', '  DOI', '  Pre-print', '  Media Attached'], Duration: 20.0, Topic: 6
+ID: 24, Authors: ['Gabor Antal', ' Márton Keleti', ' Peter Hegedus', '  Pre-print', '  Media Attached'], Duration: 20.0, Topic: 6
+----------------------------------------
+Session #4 - Time Slot: (datetime.datetime(2020, 6, 29, 13, 0), datetime.datetime(2020, 6, 29, 13, 15))
+
+
+Track #1 at MSR:Zoom
+
+ID: 25, Authors: ['Sunghun Kim', ' Sarah Nadi', ' Georgios Gousios', '  Media Attached'], Duration: 15.0, Topic: 7
+----------------------------------------
+Session #5 - Time Slot: (datetime.datetime(2020, 6, 29, 13, 15), datetime.datetime(2020, 6, 29, 14, 15))
+
+
+Track #1 at MSR:Zoom
+
+ID: 26, Authors: ['Satish Chandra', '  Media Attached'], Duration: 60.0, Topic: 8
+----------------------------------------
+Session #6 - Time Slot: (datetime.datetime(2020, 6, 29, 14, 30), datetime.datetime(2020, 6, 29, 15, 30))
+
+
+Track #1 at MSR:Zoom
+
+ID: 27, Authors: ['Cristiano Politowski', ' Fabio Petrillo', ' Yann-Gaël Guéhéneuc', ' Gabriel Cavalheiro Ullmann', ' Josias De Andrade Werly', '  Media Attached'], Duration: 10.0, Topic: 9
+ID: 28, Authors: ['Omar El Zarif', ' Daniel Alencar Da Costa', ' Safwat Hassan', ' Ying Zou', '  Pre-print', '  Media Attached'], Duration: 10.0, Topic: 9
+ID: 29, Authors: ['Irving Muller Rodrigues', ' Daniel Aloise', ' Eraldo Rezende Fernandes', ' Michel Dagenais', '  Pre-print', '  Media Attached'], Duration: 10.0, Topic: 9
+ID: 30, Authors: ['Shayan Akbar', ' Avinash Kak', '  Media Attached'], Duration: 10.0, Topic: 9
+ID: 31, Authors: ['Rafael-Michael Karampatsis', ' Charles Sutton', '  Pre-print', '  Media Attached'], Duration: 10.0, Topic: 9
+ID: 32, Authors: ['Steffen Herbold', ' Alexander Trautsch', ' Benjamin Ledel', '  Pre-print', '  Media Attached'], Duration: 10.0, Topic: 9
+
+Track #2 at MSR:Zoom2
+
+ID: 33, Authors: ['Jesus M. Gonzalez-Barahona', '  Pre-print', '  Media Attached'], Duration: 30.0, Topic: 10
+----------------------------------------
+Session #7 - Time Slot: (datetime.datetime(2020, 6, 29, 15, 30), datetime.datetime(2020, 6, 29, 16, 30))
+
+
+Track #1 at MSR:Zoom
+
+ID: 34, Authors: ['Christian Kästner', ' Mohamed El-Geish', ' Foutse Khomh', ' Miryung Kim', '  Media Attached'], Duration: 60.0, Topic: 11
+----------------------------------------
