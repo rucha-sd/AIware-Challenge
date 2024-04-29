@@ -25,13 +25,13 @@ This project is designed to automate the processing and scheduling of academic p
 
 5. **pipeline.py**:
    - **Purpose**: Orchestrates the entire process from data preprocessing to genetic algorithm execution.
-   - **Usage**: `python3 pipeline.py <population_size> <num_of_generations> <input.csv> > <output_file.txt>`
-   - **Example**: `python3 pipeline.py 100 1000 input.csv > output_file.txt`
+   - **Usage**: `python3 pipeline.py <input.csv> <population_size> <num_of_generations> > <output_file.txt>`
+   - **Example**: `python3 pipeline.py input.csv 100 1000 > output_file.txt`
    - **Parameters**:
+     - `input.csv`: The preprocessed CSV file containing the papers to schedule.
      - `population_size`: Number of schedules per generation.
      - `num_of_generations`: Total number of generations to create.
-     - `input.csv`: The preprocessed CSV file containing the papers to schedule.
-
+     
 ### Running the Pipeline
 
 To run the complete pipeline and generate the optimal schedule for the papers, use the following command:
