@@ -75,18 +75,26 @@ Session 5 (Max length: 50.0 minutes):
 Session 6 (Max length: 50.0 minutes):
   Track 1 (Total duration: 49.0 minutes):
     Paper ID: 91, Authors: , Topic: 14,  Duration: 35.0 minutes
-    Paper ID: 89, Authors: Noppadol Assavakamhaenghan,  Supatsara Wattanakriengkrai,  Naomichi Shimada,  Raula Gaikovina Kula,  Takashi Ishio,  Kenichi Matsumoto,   Pre-print, Topic: 14,  Duration: 3.0 minutes
+    Paper ID: 89, Authors: Noppadol Assavakamhaenghan,  Supatsara Wattanakriengkrai,Naomichi Shimada,
+      Raula Gaikovina Kula,  Takashi Ishio,  Kenichi Matsumoto,   Pre-print, Topic: 14,  Duration: 3.0 minutes
     Paper ID: 88, Authors: Kalvin Eng,  Abram Hindle,   Pre-print, Topic: 14,  Duration: 4.0 minutes
     Paper ID: 87, Authors: Rolf-Helge Pfeiffer,   Pre-print, Topic: 14,  Duration: 3.0 minutes
-    Paper ID: 90, Authors: Murali Sridharan,  Leevi Rantala,  Maëlick Claes,  Mika Mäntylä,   Pre-print, Topic: 14,  Duration: 4.0 minutes
+    Paper ID: 90, Authors: Murali Sridharan,  Leevi Rantala,
+    Maëlick Claes,  Mika Mäntylä,   Pre-print, Topic: 14,  Duration: 4.0 minutes
   Track 2 (Total duration: 49.0 minutes):
-    Paper ID: 1, Authors: Egor Spirin,  Egor Bogomolov,  Vladimir Kovalenko,  Timofey Bryksin,   Pre-print, Topic: 1,  Duration: 3.0 minutes
+    Paper ID: 1, Authors: Egor Spirin,  Egor Bogomolov,  Vladimir Kovalenko,
+      Timofey Bryksin,   Pre-print, Topic: 1,  Duration: 3.0 minutes
     Paper ID: 71, Authors: , Topic: 11,  Duration: 31.0 minutes
-    Paper ID: 3, Authors: Nikolai Sviridov,  Mikhail Evtikhiev,  Vladimir Kovalenko,   Pre-print, Topic: 1,  Duration: 3.0 minutes
-    Paper ID: 4, Authors: Ahmed Zerouali,  Camilo Velázquez-Rodríguez,  Coen De Roover,   Pre-print,   Media Attached, Topic: 1,  Duration: 3.0 minutes
-    Paper ID: 2, Authors: Maria Papoutsoglou,  Johannes Wachs,  Georgia Kapitsaki,   Pre-print, Topic: 1,  Duration: 3.0 minutes
-    Paper ID: 6, Authors: Christoph Gote,  Christian Zingg,   Pre-print,   Media Attached, Topic: 1,  Duration: 3.0 minutes
-    Paper ID: 5, Authors: Ozren Dabic,  Emad Aghajani,  Gabriele Bavota,   Pre-print, Topic: 1,  Duration: 3.0 minutes
+    Paper ID: 3, Authors: Nikolai Sviridov,  Mikhail Evtikhiev,
+      Vladimir Kovalenko,   Pre-print, Topic: 1,  Duration: 3.0 minutes
+    Paper ID: 4, Authors: Ahmed Zerouali,  Camilo Velázquez-Rodríguez,
+      Coen De Roover,   Pre-print,   Media Attached, Topic: 1,  Duration: 3.0 minutes
+    Paper ID: 2, Authors: Maria Papoutsoglou,  Johannes Wachs,
+      Georgia Kapitsaki,   Pre-print, Topic: 1,  Duration: 3.0 minutes
+    Paper ID: 6, Authors: Christoph Gote,
+      Christian Zingg, Pre-print,   Media Attached, Topic: 1,  Duration: 3.0 minutes
+    Paper ID: 5, Authors: Ozren Dabic,  Emad Aghajani,
+      Gabriele Bavota,   Pre-print, Topic: 1,  Duration: 3.0 minutes
 ----------------------------------------
 Session 7 (Max length: 50.0 minutes):
   Track 1 (Total duration: 44.0 minutes):
