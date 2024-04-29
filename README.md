@@ -40,7 +40,7 @@ To run the complete pipeline and generate the optimal schedule for the papers, u
 python3 pipeline.py input.csv 100 1000 > output_file.txt
 ```
 
-This command processes the `input.csv` to create 1000 generations of paper schedules, with each generation consisting of 100 different schedules. The best schedule is then output to `output_file.txt`.
+This command processes the `input.csv` to run the algorithm for 1000 generations, with each generation consisting of 100 different schedules (i.e population size=100). The best schedule is then output to `output_file.txt`.
 
 ### Additional Information
 
