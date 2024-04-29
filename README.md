@@ -37,7 +37,7 @@ This project is designed to automate the processing and scheduling of academic p
 To run the complete pipeline and generate the optimal schedule for the papers, use the following command:
 
 ```bash
-python3 pipeline.py 100 1000 input.csv > output_file.txt
+python3 pipeline.py input.csv 100 1000 > output_file.txt
 ```
 
 This command processes the `input.csv` to create 1000 generations of paper schedules, with each generation consisting of 100 different schedules. The best schedule is then output to `output_file.txt`.
