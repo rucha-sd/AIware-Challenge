@@ -1,55 +1,70 @@
 import pulp
+import preprocess_data
+import importlib
 
-# Assume the data is provided for the papers and sessions
-# Example structure of paper objects, list of dictionaries for each paper
-papers = [
-    {'id': 1, 'duration': 0.5, 'topic': 'AI', 'authors': ['Alice', 'Bob']},
-    # ... (add all paper objects here)
-]
-tracks_per_session = [2, 1, 2, 3]  # The number of parallel tracks in each session
+def have_common_authors(paper1, paper2):
+    return not set(paper1.authors).isdisjoint(paper2.authors)
+# Reload the data processing module
+importlib.reload(preprocess_data)
+input_file = "./csv/conference_schedule_2021.csv"
 
-# Determine the number of sessions and the max number of tracks in any session
-num_sessions = len(tracks_per_session)
-max_tracks = max(tracks_per_session)
-num_papers = len(papers)
+# Parse the CSV file and create a list of session details and papers
+parsed_input_file, papers_schedule = preprocess_data.parse_csv_to_array(input_file)
+session_durations, num_tracks_per_session = preprocess_data.session_details(parsed_input_file)
+session_details = list(zip(session_durations, num_tracks_per_session))
+papers = preprocess_data.create_papers(input_file).values()
 
-# Set up the problem
+# Initialize the problem
 prob = pulp.LpProblem("Conference_Schedule", pulp.LpMinimize)
 
-# Decision variables
+# Set up the decision variables
 x = pulp.LpVariable.dicts("paper_schedule", 
-                          [(i, j, k) for i in range(num_papers)
-                                     for j in range(num_sessions)
-                                     for k in range(max_tracks)], 
+                          [(i.id, j, k) for i in papers
+                                     for j in range(len(session_details))
+                                     for k in range(max(num_tracks_per_session))],
                           cat='Binary')
 
-# Objective function - As before, we want to minimize the total number of slots used
-prob += pulp.lpSum(x[i, j, k] for i in range(num_papers) for j in range(num_sessions) for k in range(max_tracks))
+# The objective function could be refined to a more suitable one
+# For example, to minimize the last session number where a paper is scheduled (to make the schedule as compact as possible)
+prob += pulp.lpSum(j * x[paper.id, j, k] for paper in papers for j in range(len(session_details)) for k in range(max(num_tracks_per_session)))
 
-# Constraints
+# Constraint 1: Each paper is scheduled exactly once
+for paper in papers:
+    prob += pulp.lpSum(x[paper.id, j, k] for j in range(len(session_details)) for k in range(max(num_tracks_per_session))) == 1
 
-# Each paper is scheduled exactly once
-for i in range(num_papers):
-    prob += pulp.lpSum(x[i, j, k] for j in range(num_sessions) for k in range(max_tracks)) == 1
+# Constraint 2: Total duration of papers in a session cannot exceed session duration
+for j, (session_duration, num_of_tracks) in enumerate(session_details):
+    for k in range(num_of_tracks):
+        prob += pulp.lpSum(x[paper.id, j, k] * paper.duration for paper in papers) <= session_duration
 
-# Total time for all presentations in a session cannot exceed the length of the session
-for j in range(num_sessions):
-    for k in range(tracks_per_session[j]):
-        prob += pulp.lpSum(x[i, j, k] * papers[i]['duration'] for i in range(num_papers)) <= session_lengths[j]
+# Constraint 3: Papers with common authors cannot be scheduled in parallel
+for paper1 in papers:
+    for paper2 in papers:
+        if paper1 != paper2 and have_common_authors(paper1, paper2):
+            for j in range(len(session_details)):
+                for k in range(num_tracks_per_session[j]):
+                    for l in range(k+1, num_tracks_per_session[j]):
+                        prob += x[paper1.id, j, k] + x[paper2.id, j, l] <= 1
 
-# No two papers with common authors can be scheduled in parallel at the same time
-for i in range(num_papers):
-    for j in range(num_papers):
-        if i != j and set(papers[i]['authors']).intersection(set(papers[j]['authors'])):
-            for session in range(num_sessions):
-                for track_i in range(tracks_per_session[session]):
-                    for track_j in range(track_i + 1, tracks_per_session[session]):
-                        prob += x[i, session, track_i] + x[j, session, track_j] <= 1
+# Constraint 4: Papers with the same topic should be scheduled in the same session, but can be on different tracks
+for topic in set(paper.topic for paper in papers):
+    for j in range(len(session_details)):
+        topic_papers = [paper.id for paper in papers if paper.topic == topic]
+        for m in range(num_tracks_per_session[j]):
+            prob += pulp.lpSum(x[paper_id, j, m] for paper_id in topic_papers) <= num_tracks_per_session[j]
+            for paper_id in topic_papers:
+                prob += x[paper_id, j, m] >= x[paper_id, j, 0]
 
 # Solve the problem
-prob.solve()
+status = prob.solve()
 
-# Output the results
-for v in prob.variables():
-    if v.varValue == 1:
-        print(v.name, "=", v.varValue)
+# Output results or debug information
+if status == pulp.LpStatusOptimal:
+    print("Optimal solution found!")
+    for v in prob.variables():
+        if v.varValue == 1:
+            print(v.name, "=", v.varValue)
+elif status == pulp.LpStatusInfeasible:
+    print("Problem is still infeasible after relaxation.")
+else:
+    print("Problem could not be solved. Status:", pulp.LpStatus[status])
